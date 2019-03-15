@@ -1,0 +1,159 @@
+{
+  "websites": [
+    {
+      "title": "SPP",
+      "img": "./img/spp.png",
+      "path": "http://www.spp.polkowice.pl/",
+      "gitPath": "#",
+      "desc": "Simply one site website, with basic information and RWD technology"
+    },
+    {
+      "title": "DGSI",
+      "img": "./img/dgsi.png",
+      "path": "http://dgsi.com.pl/dgsi/",
+      "gitPath": "#",
+      "desc": "Simply one site website, with basic information and RWD technology"
+    },
+    {
+      "title": "myTunes site",
+      "img": "./img/myTunes.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/ResponsiveLandingPage/",
+      "gitPath": "#",
+      "desc": "Simply one site website, with basic information and RWD technology"
+    },
+    {
+      "title": "Kamil Rosiński Photografy",
+      "img": "./img/krPhoto.jpg",
+      "path": "http://www.krpl.vot.pl/",
+      "gitPath": "#",
+      "desc": "Website for photografer, CRUD options and password proteced posts, hooked to WordPress"
+    },
+    {
+      "title": "ACME Photografy",
+      "img": "./img/acmephotografy.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/ACME_Photografy/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "Latos",
+      "img": "./img/latos.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/latos/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "wOborze Game Room",
+      "img": "./img/oboragameroom.jpg",
+      "path": "http://www.woborze.pl/pokojgier/",
+      "gitPath": "#",
+      "desc": "Simply site with game from my site"
+    },
+    {
+      "title": "ZWR Document Search",
+      "img": "./img/zwr.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/zwr",
+      "gitPath": "https://github.com/KarolGrydz/SearchEngine-es6",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "ACE Solutions",
+      "img": "./img/aceSolutions.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/SimplyTemplateGrid/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "Split Landing Page",
+      "img": "./img/split.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/SplitLandingPage/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "Theme Company",
+      "img": "./img/Theme_Company.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/ThemeCompany/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "wOborze Bazarek",
+      "img": "./img/bazarek.jpg",
+      "path": "http://www.woborze.pl/bazarek/",
+      "gitPath": "#",
+      "desc": "Site where you add announcement to sell something or buy."
+    },
+    {
+      "title": "My old site",
+      "img": "./img/oldSite.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/Trzecia/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress"
+    },
+    {
+      "title": "Page with animations",
+      "img": "./img/bootstrappagewithanimation.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/BootstrapPageWithAnimation/",
+      "gitPath": "#",
+      "desc": "One land page build with bootstrap and animations"
+    },
+    {
+      "title": "Theme Simply Me",
+      "img": "./img/Theme-SimplyMe.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/ThemeSimplyMe/",
+      "gitPath": "#",
+      "desc": "One of my first sites"
+    }
+  ],
+  "games": [
+    {
+      "title": "Catch the Egg",
+      "img": "https://www.kg.glogow.pl/img/catchEgg.jpg",
+      "path": "https://www.kg.glogow.pl/projects/games/CatchEgg/",
+      "gitPath": "#",
+      "desc": "Try to catch as many eggs as you can."
+    },
+    {
+      "title": "Word Beater",
+      "img": "https://www.kg.glogow.pl/img/wordBeater.jpg",
+      "path": "https://www.kg.glogow.pl/projects/games/WordBeater/",
+      "gitPath": "https://codepen.io/karolgrydz/pen/OqQvVp",
+      "desc": "Try to tap as fast as possible."
+    },
+    {
+      "title": "Memorize",
+      "img": "https://www.kg.glogow.pl/img/memorize.jpg",
+      "path": "https://www.kg.glogow.pl/projects/games/Memorize/",
+      "gitPath": "https://codepen.io/karolgrydz/pen/JzppQq",
+      "desc": "Simply game where you need to remember cards with the same color."
+    },
+    {
+      "title": "Snake",
+      "img": "https://www.kg.glogow.pl/img/snake.jpg",
+      "path": "https://kg.glogow.pl/projects/games/SnakeGame/",
+      "gitPath": "https://github.com/KarolGrydz/SnakeGame",
+      "desc": "The old good snake game that I played on Nokia3310, it's classic."
+    },
+    {
+      "title": "Tennis",
+      "img": "https://www.kg.glogow.pl/img/tennis.jpg",
+      "path": "https://kg.glogow.pl/projects/games/TenisJS/",
+      "gitPath": "https://codepen.io/karolgrydz/pen/oVEEdO",
+      "desc": "Try to beat my AI in tennis game."
+    },
+    {
+      "title": "BattleShips",
+      "img": "https://www.kg.glogow.pl/img/myBattleship.jpg",
+      "path": "https://kg.glogow.pl/projects/games/MyBattleships/",
+      "gitPath": "https://codepen.io/karolgrydz/pen/zbRRPa",
+      "desc": "Destroy 3 ships on the map in the smallest number of moves."
+    },
+    {
+      "title": "Bubbleshot",
+      "img": "https://www.kg.glogow.pl/img/bubbleshot.jpg",
+      "path": "https://kg.glogow.pl/projects/games/bubbleshot/",
+      "desc": "Clear the map from bubbles."
+    }
+  ]
+}

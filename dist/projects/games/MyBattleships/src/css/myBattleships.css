@@ -1,0 +1,313 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Karol Grydz
+Author URL   : www.kg.glogow.pl
+Template Name: Battleships
+Version      : 1.0
+
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GLOBAL CSS STYLE
+* 02.BORAD STYLE
+* 03.FOOTER CSS STYLE
+* 04.MODAL CSS STYLE 
+* 05.RESULTS CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GLOBAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+body {
+	background-color: black;
+	color: white;
+}
+
+form {
+	padding: 15px;
+	background-color: rgb(83, 175, 19);
+}
+
+form input {
+	background-color: rgb(152, 207, 113);
+	border-color: rgb(83, 175, 19);
+}
+
+h1 {
+	color: rgb(83, 175, 19);
+	text-align: center;
+	font-size: 3em;
+	margin-bottom: 45px;
+}
+
+a {
+	text-decoration: none;
+	color: MintCream;
+}
+
+th > p {
+	color: black;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 02.BORAD STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+.board {
+	position: relative;
+	width: 1024px;
+	height: 863px;
+	margin: auto;
+	background: url(../images/board.jpg) no-repeat;	
+}
+
+#messageArea {
+	position: absolute;
+	top: 50px;
+	left: 430px;
+	color: rgb(83, 175, 19);
+	font-size: 20px;
+}
+
+#numberOfHitArea {
+	position: absolute;
+	top: 50px;
+	left: 650px;
+	color: rgb(83, 175, 19);
+	font-size: 20px;
+}
+
+#title {
+	text-align: center;
+	color: rgb(83, 175, 19);
+	margin: 0px;
+}
+
+table {
+	position: absolute;
+	left: 173px;
+	top: 98px;
+	border-spacing: 0px;
+}
+
+td {
+	width: 94px;
+	height: 94px;
+}
+
+.hit {
+	background: url(../images/ship.png) no-repeat center center;
+}
+
+.miss {
+	background: url(../images/miss.png) no-repeat center center;
+}
+
+.rules {
+	position: relative;
+	text-align: center;
+	color: rgb(83, 175, 19);
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 03.FOOTER CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+footer {
+	position: relative;
+	text-align: center;
+	color: rgb(83, 175, 19);
+	font-size: 12px;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 04.MODAL CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+.modal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	line-height: 1.6;
+	display: none;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.button {
+	background-color: rgb(83, 175, 19);
+	border-color: rgb(83, 175, 19);
+	padding: 1em 2em;
+	border: 0;
+	left: 46.7%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	position: relative;
+	font-weight: 600;
+}
+
+.button:hover {
+	background: black;
+	color: white;
+	cursor: pointer;
+}
+
+.modal-content {
+	background-color: #f4f4f4;
+	margin: 10% auto;
+	width: 70%;
+	box-shadow: 0 5px 8px 0 rgba(83, 175, 19, 0.2), 0 7px 20px 0 rgba(83, 175, 19, 0.2);
+	animation-name: modalopen;
+	animation-duration: 1s;
+}
+
+.modal-header {
+	background-color: rgb(83, 175, 19);
+	padding: 15px;
+	text-align: center;
+}
+
+.modal-header h2, .modal-footer h3 {
+	margin: 0;
+}
+
+.modal-body {
+	padding: 10px 20px;
+}
+
+.modal-footer {
+	background-color: rgb(83, 175, 19);
+	padding: 10px;
+	text-align: center;
+}
+
+.closeBtn {
+	color: #ccc;
+	float: right;
+	font-size: 30px;
+}
+
+.closeBtn:hover, .closeBtn:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+	border-color: rgb(83, 175, 19);
+}
+
+.closeModal {
+	border: 0;
+	padding: 0.5em 1em;
+	background-color: #f4f4f4;
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+}
+
+.closeModal:hover, .closeModal:focus {
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+
+@keyframes modalopen {
+	from{ opacity: 0 }
+	to { opacity: 1 }
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 05.RESULTS CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+.modal-body > table {
+	width: 100%;
+	position: static;
+	margin-left: 15px;
+}
+
+.modal-body > table > tbody > tr {
+	margin: 40px;
+	padding: 20px;
+	font-size: 28px;
+	text-align: center;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 06.ADDSCORE CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr 4fr 1fr;
+	grid-auto-rows: minmax( 100px, auto );
+}
+
+.grid-1 {
+	display: grid;
+	grid-column: 2/3;
+
+}
+
+.grid-1 > form {
+	padding: 25px;
+	text-align: center;
+}
+
+.grid-1 h3 {
+	font-size: 24px;
+	color: black;
+}
+
+.grid-1 .button {
+	left: 0%;
+	background-color: black;
+	display: inline-block;
+	text-decoration: none;
+	color: rgb(83, 175, 19);
+	border: 1px solid rgb(255, 255, 255);
+	border-radius: 15px;
+	margin: 15px auto;
+}
+
+.grid-1 .button:hover {
+	cursor: pointer;
+	background-color: #fff;
+	color: #333;
+}
+
+.grid-1 .point-field {
+	font-size: 24px;
+	border-radius: 10px;
+	font-weight: 600;
+	height: 36px;
+}
+
+.alert-danger {
+	color: red;
+	text-align: center;
+	background-color: tomato;
+	display: block;
+	width: 100%;
+	height: auto;
+	line-height: 1.5;
+	font-weight: 900;
+}

@@ -1,0 +1,237 @@
+/*
+* ----------------------------------------------------------------------------------------
+Author       : Karol Grydz
+Author URL   : www.kg.glogow.pl
+Template Name: Acme Web Solutions
+Version      : 1.0
+
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GLOBAL CSS STYLE
+* 02.HEADER CSS STYLE
+* 03.PREVIEW CSS STYLE
+* 04.FOOTER CSS STYLE 
+* 05.NAVIGATION 
+* 06.IMAGE VERSION
+* 07.SOLID VERSION
+* 08.PARTICLE VERSION 
+* 09.ABOUT VERSION
+* 10.ADDITIONAL LIBARIES
+* 11.RESUME AREA
+* 12.WORK AREA  
+* 13.BRAND LOGO AREA
+* 14.TESTIMONIAL AREA
+* 15.CONTACT AREA
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GLOBAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #333;
+	color: #fff;
+	font-size: 1.1em;
+	line-height: 1.5;
+	text-align: center;
+}
+
+img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 1em 0;
+}
+
+p {
+	margin: 0;
+	padding: 1em 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.btn {
+	display: inline-block;
+	background: #333;
+	color: #fff;
+	padding: 1em 2em;
+	margin: .5em 0;
+	border: 1px solid #666;
+	font-size: 1em;
+}
+
+.btn:hover {
+	background: #eaeaea;
+	color: #333;
+	cursor: pointer;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 02.HEADER CSS STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+#showcase {
+	min-height: 550px;
+}
+
+#showcase .bg-image {
+	position: absolute;
+	background: url(../images/bg.png);
+	width: 100%;
+	height: 550px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: -1;
+	opacity: 0.4;
+}
+
+#showcase h1 {
+	padding-top: 100px;
+	padding-bottom: 0;
+}
+
+#showcase .content-wrap {
+	padding: 0 1.5em;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 03.SECTION A
+* ----------------------------------------------------------------------------------------
+*/
+
+#section-a {
+	background: #eaeaea;
+	color: #333;
+	padding-bottom: 2em;
+}
+
+#section-a .content-text {
+	margin: 0 15px;
+	padding: 0 2em;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 04.SECTION B
+* ----------------------------------------------------------------------------------------
+*/
+
+#section-b {
+	padding: 2em 1em 1em;
+}
+
+#section-b ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#section-b li {
+	margin-bottom: 1em;
+	background: #fff;
+	color: #333;
+}
+
+.card-content {
+	padding: 1.5em;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 05.SECTION C
+* ----------------------------------------------------------------------------------------
+*/
+
+#section-c {
+	background: #fff;
+	color: #333;
+	padding: 2em;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 06.SECTION D / Boxes
+* ----------------------------------------------------------------------------------------
+*/
+
+#section-d .box {
+	padding: 2em;
+	color: #fff;
+}
+
+#section-d .box:first-child {
+	background: #2690d4;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 07.FOOTER
+* ----------------------------------------------------------------------------------------
+*/
+
+#main-footer {
+	padding: 2em;
+	background: #000;
+	color: #fff;
+}
+
+#main-footer a {
+	color: #2690d4;
+}
+
+/*
+* ----------------------------------------------------------------------------------------
+* 08.RWD
+* ----------------------------------------------------------------------------------------
+*/
+
+@media(min-width: 700px) {
+	.grid {
+		display: grid;
+		grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
+	}
+
+	.content-wrap, #section-b ul {
+		grid-column: 2/4;
+	}
+
+	#section-a, .content-text {
+		columns: 2;
+		column-gap: 2em;
+	}
+
+	#section-a .content-text p {
+		padding-top: 0;
+	}
+
+	.box, #main-footer div {
+		grid-column: span 2;
+	}
+
+	#section-b ul {
+		display: flex;
+		justify-content: space-around;
+	}
+
+	#section-b li {
+		width: 31%;
+	}
+}

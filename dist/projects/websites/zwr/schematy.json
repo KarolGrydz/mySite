@@ -1,0 +1,4963 @@
+{
+	"wysoka": [{
+			"title": "R-11",
+			"path": "schematy/wysoka/R-11.dwg",
+			"description": "6kV schemat",
+			"tag": ["MK-112", "R-11", "MK-111", "MD-123", "MD-113", "KS-101", "SF-4", "R-11.1", "R-11.2", "RWN-11", "RWN-11.1", "RWN-11.2"]
+		},
+		{
+			"title": "R-12",
+			"path": "schematy/wysoka/R-12.dwg",
+			"description": "6kV schemat",
+			"tag": ["MD-143", "R-12", "MK-132", "MK-131", "MK-121", "MK-122", "MD-133", "R-12.1", "R-12.2", "RWN-12", "RWN-12.1", "RWN-12.2"]
+		},
+		{
+			"title": "R-13",
+			"path": "./schematy/wysoka/R-13.dwg",
+			"description": "6kV schemat",
+			"tag": ["MK-211", "R-13", "MK-212", "R-13.1", "R-13.2", "KS-102", "SF-5", "RWN-13", "RWN-13.1", "RWN-13.2"]
+		},
+		{
+			"title": "R-14",
+			"path": "./schematy/wysoka/R-14.dwg",
+			"description": "6kV schemat",
+			"tag": ["MK-231", "R-14", "MK-232", "R-14.1", "R-14.2", "MD-233", "MD-243", "RWN-14", "RWN-14.1", "RWN-14.2", "R-18.3"]
+		},
+		{
+			"title": "R-15",
+			"path": "./schematy/wysoka/R-15.dwg",
+			"description": "6kV schemat",
+			"tag": ["MK-221", "R-15", "MK-222", "MD-223", "MD-213", "RWN-15"]
+		},
+		{
+			"title": "R-16",
+			"path": "./schematy/wysoka/R-16.dwg",
+			"description": "6kV schemat",
+			"tag": ["MD-313", "R-16", "MK-311", "R-18.3", "MK-321", "MD-323", "R-16.1", "R-16.2", "RWN-16", "RWN-16.1", "RWN-16.2"]
+		},
+		{
+			"title": "R-17",
+			"path": "./schematy/wysoka/R-17.dwg",
+			"description": "6kV schemat",
+			"tag": ["MK-341", "R-17", "MK-331", "RWN-17", "MD-333", "RWN-17.1", "R-17.1", "RWN-17.2", "R-17.2", "KS-301"]
+		},
+		{
+			"title": "R-18.3",
+			"path": "./schematy/wysoka/R-18.3.dwg",
+			"description": "6kV schemat",
+			"tag": ["TD-1", "TD-2", "TD-3", "TD-4", "R-18.3"]
+		},
+		{
+			"title": "R-3.2",
+			"path": "./schematy/wysoka/R-3.2.dwg",
+			"description": "6kV schemat",
+			"tag": ["SS-20", "SS-21", "R-3.2", "RWN-3.2"]
+		},
+		{
+			"title": "R-3.3",
+			"path": "./schematy/wysoka/R-3.3.dwg",
+			"description": "6kV schemat",
+			"tag": ["KR-1", "KR-2", "R-3.3", "RWN-3.3", "KR-3", "KR-4", "KR-5", "KR-6"]
+		},
+		{
+			"title": "R-4.3",
+			"path": "./schematy/wysoka/R-4.3.dwg",
+			"description": "6kV schemat",
+			"tag": ["R-4.3", "RWN-4.3"]
+		},
+		{
+			"title": "R-5.2",
+			"path": "./schematy/wysoka/R-5.2.dwg",
+			"description": "6kV schemat",
+			"tag": ["R-5.2", "RWN-5.2"]
+		},
+		{
+			"title": "Schemat sieci O/ZWR Polkowice",
+			"path": "./schematy/wysoka/Polkowice siec el-en.dwg",
+			"description": "6kV schemat",
+			"tag": ["SIEC", "SCHEMAT SIECI", "POLKOWICE"]
+		}
+	],
+	"silowe": [{
+			"title": "RNN-11.1",
+			"path": "./schematy/silowe/RNN-11.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-11.1", "IRM-9", "IRM-10", "IRM-3", "IRM-3.3", "IRM-1", "IRM-2", "IRM-14", "IRM-12", "PM-121B", 
+					"PM-111B", "PM-113A", "UK-131", "K-131", "TM-131", "UK-132", "K-132", "EW-131", "PM-131A", "EW-132",
+					"SH-1", "EW-101", "EW-133", "EW-102", "EW-113", "EW-143", "EW-123", "WM-1/122", "WM-2/122", "WM-3/122", 
+					"TM-122", "WM-1/132", "WM-2/132", "WM-3/132", "TM-132", "WM-1/112", "WM-2/112", "WM-3/112", "WM-4/112", 
+					"WM-5/112", "WM-6/112", "TM-112", "T-51", "T-52", "EM-1", "EM-2" ]
+		},
+		{
+			"title": "RNN-11.2/I",
+			"path": "./schematy/silowe/RNN-11.2_I.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-11.2/I", "DD-123", "RDS-123", "PF-12", "MF-123", "SH-4", "MF-111", "RDS-111", "DD-122", "RDS-121", 
+					"PF-161A", "MF-121", "MF-151", "MF-161", "PF-121C", "PF-190A", "PF-122A", "MF-141", "DD-141", "PF-141B",
+					"PF-151A", "PF-121D"]
+		},
+		{
+			"title": "RNN-12.1",
+			"path": "./schematy/silowe/RNN-12.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-12.1", "IRM-11", "IRM-7", "IRM-8", "IIRM-51", "IIRM-52", "IRM-6", "IRM-13", "PM-131B", "PM-113B", 
+					"P-112", "WM-1/123", "WM-2/123", "WM-3/123", "TM-123", "WM-1/133", "WM-2/133", "WM-3/133", "TM-133",
+					"UK-121", "K-121", "TM-121", "UK-122", "K-122", "EW-122", "PM-121A", "EW-121", "UK-111", "K-111",
+					"EW-111", "PM-111A", "TM-111", "K-112", "UK-112", "EW-112", "WM-1/113", "WM-2/113", "WM-3/113", 
+					"WM-4/113", "WM-5/113", "WM-6/113", "TM-113"]
+		},
+		{
+			"title": "RNN-12.2/I",
+			"path": "./schematy/silowe/RNN-12.2_I.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-12.2/I", "IIRF-22", "IRF-3", "IRF-3.2", "IRF-3.1", "MF-112", "DD-111", "RDS-112", "PF-161B", "MF-143",
+					"DD-121", "RDS-122", "MF-122", "MF-152", "MF-162", "PF-121A", "PF-190B", "PF-141A", "PF-151B", "MF-142",
+					"DD-151", "PF-121B", "PF-122B", "PF-22B", "PWF-22A", "PUS-2", "RUE", "PUR", "RN-1", "RN-2", "RN-3", "PKO-1",
+					"PUK-1", "VUK-1", "PUK-2", "MW-2", "PUW-1", "PUW-2", "DW-2", "MW-1", "ZN-1", "TUW", "DW-3", "PUO-1B", "PUO-1A",
+					"PUS-1"]
+		},
+		{
+			"title": "RNN-13.1",
+			"path": "./schematy/silowe/RNN-13.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-13.1", "IIRM-2", "IRM-52", "IIRM-3", "IIRM-6", "SSPO", "IIRM-4", "PM-231A", "VPF-5", "PM-211B", "PM-221A",
+					"PM-231B", "PM-213C", "PM-221B", "PM-211A", "UK-231", "K-231", "EW-231", "TM-231", "UK-232", "K-232", "EW-232",
+					"TM-212", "WM-1/212", "WM-2/212", "WM-3/212", "WM-4/212", "WM-5/212", "WM-6/212", "WM-7/212", "TM-222", "WM-1/222", 
+					"WM-2/222", "WM-3/222", "WM-4/222", "WM-5/222", "WM-6/222", "WM-7/222", "WM-8/222", "WM-9/222", "WM-10/222", "WM-11/222", 
+					"WM-12/222", "WM-13/222", "UK-221", "K-221", "EW-221", "TM-221", "UK-222", "K-222", "EW-222", "EM-221", "UK-211", 
+					"K-211", "EW-211", "TM-211", "UK-212", "K-212", "EW-212"]
+		},
+		{
+			"title": "RNN-13.2/I",
+			"path": "./schematy/silowe/RNN-13.2_I.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-13.2/I", "MF-241", "PF-290B", "PF-261A", "DD-241", "PF-222B", "PF-241B", "PF-251B", "MF-211", "MF-242", "PF-241A",
+					"PF-251A", "PF-290A", "PF-222A", "MF-243", "PF-221B", "PWF-22B", "PF-261B", "DD-211", "RDS-211"]
+		},
+		{
+			"title": "RNN-13.2/II",
+			"path": "./schematy/silowe/RNN-13.2_II.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-13.2/II", "IRF-51", "MF-252", "MF-261", "PF-21", "PF-221C", "DD-251", "MF-224", "DD-224", "PF-221D", "MF-223",
+					"DD-223", "PA-11", "PA-1", "PA-21", "PAR-211", "PF-23"]
+		},
+		{
+			"title": "RNN-14.1",
+			"path": "./schematy/silowe/RNN-14.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-14.1", "IRM-53", "IIRM-7", "IIRM-1", "IIRM-5", "IIRM-9", "PM-213A", "PM-213B", "TM-213", "WM-1/213", "WM-2/213",
+					"WM-3/213", "POC-1", "POC-2", "POC-3", "POC-4", "PCS-1", "VCS-1", "PGO-1", "EW-213", "EW-223", "EW-233", "EW-243", 
+					"TM-232", "WM-1/232", "WM-2/232", "WM-3/232", "WM-4/232", "WM-5/232", "WM-6/232", "WM-7/232", "WM-8/232", "WM-9/232",
+					"FM-211", "FM-221", "FM-231", "PM-21", "PWM-41"]
+		},
+		{
+			"title": "RNN-14.2/II",
+			"path": "./schematy/silowe/RNN-14.2_ II.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-14.2/II", "IIRF-51", "MF-221", "DD-221", "MF-222", "DD-222", "PF-206", "MF-251", "MF-262", "MF-212", "PF-22",
+					"PF-221A", "PWCH-5", "PWCH-2", "PWCH-1", "CHF-2", "CHF-1"]
+		},
+		{
+			"title": "RNN-16.1",
+			"path": "./schematy/silowe/RNN-16.1.pdf",
+			"description": "500V schemat",
+			"tag": ["IIIRM-3", "EW-311", "EW-313", "K-312", "K-311", "RNN-16.1", "UK-312", "UK-311", "TM-311", "TM-312", "PM-311A", 
+					"WM-1/312", "WM-3/312", "WM-4/312", "WM-2/312", "WM-1/313", "WM-3/313", "WM-4/313", "WM-2/313", "TM-313", "ŁG",
+					"K-321", "K-322", "UK-321", "UK-322", "TM-321", "EW-321", "WM-1/323", "WM-3/323", "WM-4/323", "WM-2/323", "TM-323",
+					"WM-1/322", "WM-3/322", "WM-4/322", "WM-2/322", "TM-322", "SM-2", "PM-313A", "PM-311C"]
+		},
+		{
+			"title": "RNN-17.1",
+			"path": "./schematy/silowe/RNN-17.1aktualny.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-17.1", "IIIRM-4", "IIIRM-4.1", "EW-301", "EW-333", "EW-331", "PM-313C", "UK-332", "UK-331", "K-332", "K-331", 
+					"TM-331", "PM-331C", "WM-1/332", "WM-3/332", "WM-4/332", "WM-2/332", "TM-332", "WM-1/333", "WM-3/333", "WM-4/333", 
+					"WM-2/333", "TM-333", "PM-331B", "K-341", "K-342", "UK-341", "UK-342", "TM-341", "EW-341", "WM-1/343", "WM-3/343", 
+					"WM-4/343", "WM-2/343", "TM-343", "WM-1/342", "WM-3/342", "WM-4/342", "WM-2/342", "TM-342", "PM-313B", "PM-331A"]
+		},
+		{
+			"title": "RNN-16.2/II",
+			"path": "./schematy/silowe/RNN-16.2_II.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-16.2/II", "RPGO", "MF-324", "RDS-324", "MF-311", "PF-321B", "RDS-311", "DD-324", "MF-312", "PF-321D", "DD-311",
+					"RDS-312"]
+		},
+		{
+			"title": "RNN-17.2/II",
+			"path": "./schematy/silowe/RNN-17.2_II.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-17.2/II", "RW-51", "MF-361", "MF-362", "PF-31", "PF-361B", "PF-361A", "PF-390B", "MF-352", "MF-351", "PF-35",
+					"PF-341B", "PF-322B", "DD-341", "PF-33", "PF-351A", "PF-390A", "MF-342", "MF-341", "DD-351", "PF-351B", "PF-341A",
+					"PF-32", "PF-34", "PF-341C", "PF-322A"]
+		},
+		{
+			"title": "IRNN-3.3",
+			"path": "./schematy/silowe/IRNN-3.3.dwg",
+			"description": "500V schemat",
+			"tag": ["IRNN-3.3", "RR-1", "RR-18", "RR-1.1", "RR-10", "RR-4", "RR-4.1", "RR-5", "RR-5.1", "RR-12", "RR-9", "RR-11", "RR-11.1",
+					"RR-11.2", "RR-11.3", "RR-11.4", "RR-11.5", "T-22", "SWR-2", "SWR-1", "T-21", "WIR-1A", "WIR-1B", "WIR-2A", "WIR-2B", "POR-8",
+					"POR-9", "T-33", "WR-1", "WR-2", "WR-3", "WR-4", "WR-5", "WR-6", "T-5", "VWR-1", "VWR-2", "PWR-2", "VWR-3", "VWR-4", "VWR-5",
+					"PWR-1", "WPS-2R", "WPS-1R", "T-1", "T-3", "WT-3/1", "WT-3/2", "EM-1/T", "EM-1/S", "T-2", "T-4", "WT-4/1", "WT-4/2", "EM-2/T", 
+					"EM-2/S", "TZ-1", "POR-1", "TC-1", "VTC-1", "TZ-2", "POR-2", "TC-2", "VTC-2", "TZ-3", "POR-3", "TC-3", "VTC-3", "TZ-4", "POR-4",
+					"TC-4", "VTC-4", "TZ-5", "POR-5", "TC-5", "VTC-5"]
+		},
+		{
+			"title": "IRNN-3.2",
+			"path": "./schematy/silowe/IRNN-3.2.dwg",
+			"description": "500V schemat",
+			"tag": ["IRNN-3.2", "RS-1", "RS-12", "RS-1.1", "RS-12.1", "RS-12.2", "RS-8", "RS-1.1.1", "RUCS", "RS-15", "RS-13", "RS-6", "RS-5",
+					"RS-2.1", "RS-2", "RZK-1", "RZK-1.1", "RZK-1.1.1", "RZK-1.2", "S-4", "TS-4A", "VS-4", "TS-4B", "TS-4C", "WIS-4", "WIS-41",
+					"WIS-42", "WIS-43", "WIS-44", "AH-41", "AH-42", "PS-1D", "WPS-2S", "Z-1", "Z-2", "Z-3", "PZP-1", "PZ-1", "PZ-11", "PZ-2",
+					"PZP-2", "PZP-3", "PGS-2A", "CHS-1", "PGS-2B", "CHS-2", "PZ-12", "PZ-4A", "PZP-4", "Z-4", "PS-13A", "PS-13", "PS-13B",
+					"DW-1", "CHS-4", "MMS-1", "PS-14A", "PS-14B", "CHS-3", "WPS-1S", "PWS-12", "PWS-13", "PWS-11B", "PWS-11A", "S-3", "VS-3", "TS-3A",
+					"TS-3B", "TS-3C", "RZK-1", "TS-13", "TS-11", "TS-12", "TS-14", "RZK-1.1", "KOŁ-3", "KOŁ-4", "RZK-1.2", "POS-2", "RZK-1.1.1"]
+		},
+		{
+			"title": "IIRNN-3.3",
+			"path": "./schematy/silowe/IIRNN-3.3.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRNN-3.3", "RR-15", "RR-17", "RR-15.1", "RR-13", "RR-13.1", "RR-14", "RR-16", "RR-3", "SWR-3", "T-43", "EM-03", "T-41",
+					"T-03", "T-47", "T-48", "T-31", "T-32", "WT-32", "WT-48", "KOŁ-1", "KOŁ-2", "TZ-03A", "TC-03A", "TZ-03B", "TC-03B", "WIR-03B/1",
+					"WIR-03B/2", "WIR-03A/1", "WIR-03A/2", "T-46", "TZ-6", "POR-6", "TC-6", "VTC-6", "VWR-7", "WIR-3A", "WIR-3B", "WIR-4", "VWR-6",
+					"T-45", "T-42", "T-44", "WT-44"]
+		},
+		{
+			"title": "IIRNN-3.2",
+			"path": "./schematy/silowe/IIRNN-3.2.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRNN-3.2", "RS-3", "RS-3.1", "RS-4", "RS-4.1", "RS-4.1.1", "SS-10", "SS-11", "VS-2", "TS-2A", "TS-2B", "TS-2C", "S-2",
+					"VS-1", "TS-1A", "TS-1B", "TS-1C", "S-1", "WIS-2", "WIS-22", "WIS-21", "WIS-23", "WIS-24", "AH-21", "AH-22", "PS-1B",
+					"WIS-1", "WIS-12", "WIS-11", "WIS-13", "WIS-14", "AH-11", "AH-12", "PS-1A", "TS-1D"]
+		},
+		{
+			"title": "RNN-10.1",
+			"path": "./schematy/silowe/Nowa RNN-10.1 (stara RMF-500V).dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-10.1", "RG-1", "RG-WR", "PF-181B", "PKO-5", "MF-182", "MF-181", "RN-1.1", "RN-1.2", "RN-1.3", "ZKR-1", "RFO-PD1",
+					"VWC-1", "PZO-1 VSD", "RMK", "SF-3", "DD-181", "PF-181A", "PKO-3", "PF-13", "ZKR-2", "RN-2.1", "RN-2.2", "RN-2.3",
+					"PZO-2 VSD", "VWC-2"]
+		},
+		{
+			"title": "IRF-3",
+			"path": "./schematy/silowe/IRF-3.dwg",
+			"description": "500V schemat",
+			"tag": ["IRF-3", "PUS-2", "RUE", "PUR", "RN-1", "RN-2", "RN-3", "VN", "PUK-2", "VUK-1", "PUK-1", "PKO-1"]
+		},
+		{
+			"title": "IRF-3.1",
+			"path": "./schematy/silowe/IRF-3.1.dwg",
+			"description": "500V schemat",
+			"tag": ["IRF-3.1", "PUO-1B", "PUO-1A", "PUS-1"]
+		},
+		{
+			"title": "IRF-3.2",
+			"path": "./schematy/silowe/IRF-3.2.dwg",
+			"description": "500V schemat",
+			"tag": ["IRF-3.2", "MW-2", "PUW-1", "PUW-2", "DW-2", "MW-1", "ZN-1", "TUW", "DW-3"]
+		},
+		{
+			"title": "IRF-51",
+			"path": "./schematy/silowe/IRF-51.dwg",
+			"description": "500V schemat",
+			"tag": ["IRF-51", "PA-1", "PA-11", "PA-21", "PAR-211", "PF-23"]
+		},
+		{
+			"title": "RFO-PD1",
+			"path": "./schematy/silowe/RFO-PD1.dwg",
+			"description": "500V schemat",
+			"tag": ["RFO-PD1", "MF-181", "MF-182"]
+		},
+		{
+			"title": "IIRF-22",
+			"path": "./schematy/silowe/IIRF-22.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRF-22", "PF-22B", "PWF-22A"]
+		},
+		{
+			"title": "IIRF-51",
+			"path": "./schematy/silowe/IIRF-51.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRF-51", "PWCH-5", "PWCH-2", "CHF-2", "PWCH-1", "CHF-1"]
+		},
+		{
+			"title": "IIRF-52",
+			"path": "./schematy/silowe/IIRF-52.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRF-52"]
+		},
+		{
+			"title": "IIIRF-5",
+			"path": "./schematy/silowe/IIIRF-5.dwg",
+			"description": "500V schemat",
+			"tag": ["IIIRF-5", "PA-23B", "VOF-3", "PA-31A"]
+		},
+		{
+			"title": "RW-51",
+			"path": "./schematy/silowe/RW-51.dwg",
+			"description": "500V schemat",
+			"tag": ["RW-51"]
+		},
+		{
+			"title": "IRM-1",
+			"path": "./schematy/silowe/IRM-1.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-1", "EW-133", "EW-102", "EW-113", "EW-143", "EW-123"]
+		},
+		{
+			"title": "IRM-2",
+			"path": "./schematy/silowe/IRM-2.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-2", "EW-101"]
+		},
+		{
+			"title": "IRM-3",
+			"path": "./schematy/silowe/IRM-3.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-3"]
+		},
+		{
+			"title": "IRM-3.1",
+			"path": "./schematy/silowe/IRM-3.1.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-3.1", "SH-1"]
+		},
+		{
+			"title": "IRM-3.3",
+			"path": "./schematy/silowe/IRM-3.3.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-3.3", "WPS-1M"]
+		},
+		{
+			"title": "IRM-6",
+			"path": "./schematy/silowe/IRM-6(a).dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-6"]
+		},
+		{
+			"title": "IRM-7",
+			"path": "./schematy/silowe/IRM-7.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-7", "UK-111", "K-111", "EW-111", "PM-111A", "TM-111", "K-112", "UK-112", "EW-112"]
+		},
+		{
+			"title": "IRM-8",
+			"path": "./schematy/silowe/IRM-8.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-8", "UK-121", "K-121", "EW-121", "PM-121A", "TM-121", "K-122", "UK-122", "EW-122"]
+		},
+		{
+			"title": "IRM-9",
+			"path": "./schematy/silowe/IRM-9(a).dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-9", "UK-131", "K-131", "EW-131", "PM-131A", "TM-131", "K-132", "UK-132", "EW-132"]
+		},
+		{
+			"title": "IRM-10",
+			"path": "./schematy/silowe/IRM-10.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-10", "T-51", "T-52", "EM-1", "EM-2"]
+		},
+		{
+			"title": "IRM-11",
+			"path": "./schematy/silowe/IRM-11.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-11", "WM-1/113", "WM-2/113", "WM-3/113", "WM-4/113", "WM-5/113", "WM-6/113", "TM-113"]
+		},
+		{
+			"title": "IRM-12",
+			"path": "./schematy/silowe/IRM-12.dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-12", "WM-1/112", "WM-2/112", "WM-3/112", "WM-4/112", "WM-5/112", "WM-6/112", "TM-112"]
+		},
+		{
+			"title": "IRM-13",
+			"path": "./schematy/silowe/IRM-13(a).dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-13", "WM-1/123", "WM-2/123", "WM-3/123", "TM-123", "WM-1/133", "WM-2/133", "WM-3/133", "TM-133"]
+		},
+		{
+			"title": "IRM-14",
+			"path": "./schematy/silowe/IRM-14(a).dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-14", "WM-1/122", "WM-2/122", "WM-3/122", "TM-122", "WM-1/132", "WM-2/132", "WM-3/132", "TM-132"]
+		},
+		{
+			"title": "IRM-52",
+			"path": "./schematy/silowe/IRM-52(a).dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-52", "TM-212", "WM-1/212", "WM-2/212", "WM-3/212", "WM-4/212", "WM-5/212", "WM-6/212", "WM-7/212"]
+		},
+		{
+			"title": "IRM-53",
+			"path": "./schematy/silowe/IRM-53(a).dwg",
+			"description": "500V schemat",
+			"tag": ["IRM-53", "WM-1/213", "WM-2/213", "WM-3/213", "TM-213"]
+		},
+		{
+			"title": "SSPO",
+			"path": "./schematy/silowe/SSPO.dwg",
+			"description": "500V schemat",
+			"tag": ["SSPO"]
+		},
+		{
+			"title": "IIRM-1",
+			"path": "./schematy/silowe/IIRM-1.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-1", "EW-213", "EW-223", "EW-233", "EW-243"]
+		},
+		{
+			"title": "IIRM-2",
+			"path": "./schematy/silowe/IIRM-2.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-2", "UK-231", "K-231", "EW-231", "TM-231", "UK-232", "K-232", "EW-232"]
+		},
+		{
+			"title": "IIRM-3",
+			"path": "./schematy/silowe/IIRM-3.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-3", "UK-221", "K-221", "EW-221", "TM-221", "UK-222", "K-222", "EW-222", "EM-221", "EM-221"]
+		},
+		{
+			"title": "IIRM-4",
+			"path": "./schematy/silowe/IIRM-4.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-4", "UK-211", "K-211", "EW-211", "TM-211", "UK-212", "K-212", "EW-212"]
+		},
+		{
+			"title": "IIRM-5",
+			"path": "./schematy/silowe/IIRM-5.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-5", "TM-232", "WM-1/232", "WM-2/232", "WM-3/232", "WM-4/232", "WM-5/232", "WM-6/232", 
+					"WM-7/232", "WM-8/232", "WM-9/232"]
+		},
+		{
+			"title": "IIRM-6",
+			"path": "./schematy/silowe/IIRM-6.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-6", "TM-222", "WM-1/222", "WM-2/222", "WM-3/222", "WM-4/222", "WM-5/222", "WM-6/222",
+					"WM-7/222", "WM-8/222", "WM-9/222", "WM-10/222", "WM-11/222", "WM-12/222", "WM-13/222"]
+		},
+		{
+			"title": "IIRM-7",
+			"path": "./schematy/silowe/IIRM-7.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-7", "POC-1", "POC-2", "POC-3", "POC-4", "PCS-1", "VCS-1", "PGO-1"]
+		},
+		{
+			"title": "IIRM-9",
+			"path": "./schematy/silowe/IIRM-9.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-9", "FM-211", "FM-221", "FM-231", "PM-21", "PWM-41"]
+		},
+		{
+			"title": "IIRM-51",
+			"path": "./schematy/silowe/IIRM-51.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-51"]
+		},
+		{
+			"title": "IIRM-52",
+			"path": "./schematy/silowe/IIRM-52.dwg",
+			"description": "500V schemat",
+			"tag": ["IIRM-51"]
+		},
+		{
+			"title": "IIIRM-3",
+			"path": "./schematy/silowe/IIIRM-3.dwg",
+			"description": "500V schemat",
+			"tag": ["WPS-2M", "IIIRM-3"]
+		},
+		{
+			"title": "IIIRM-4",
+			"path": "./schematy/silowe/IIIRM-4.dwg",
+			"description": "500V schemat",
+			"tag": ["IIIRM-4.1", "IIIRM-4", "WT-53", "WTM-1", "T-53", "TM-1", "T-54", "TM-2", "WT-54", "WTM-2"]
+		},
+		{
+			"title": "IIIRM-4.1",
+			"path": "./schematy/silowe/IIIRM-4.1.dwg",
+			"description": "500V schemat",
+			"tag": ["IIIRM-4.1"]
+		},
+		{
+			"title": "Zasil. syst. monitoringu wizyjnego na WT-53, 54",
+			"path": "./schematy/silowe/Zasil. syst. monitoringu wizyjnego na WT-53, 54.dwg",
+			"description": "500V schemat",
+			"tag": ["Zasil. syst. monitoringu wizyjnego na WT-53, 54", "WT-53", "WT-54"]
+		},
+		{
+			"title": "RP-51",
+			"path": "./schematy/silowe/RP-51.dwg",
+			"description": "500V schemat",
+			"tag": ["RP-51", "RP-51.1", "RP-51.1.1", "RP-51.3.1", "RP-51.3"]
+		},
+		{
+			"title": "RP-51.3",
+			"path": "./schematy/silowe/RP-51.3.dwg",
+			"description": "500V schemat",
+			"tag": ["RP-51.3.1", "RP-51.3"]
+		},
+		{
+			"title": "RP-51.3.1",
+			"path": "./schematy/silowe/RP-51.3.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RP-51.3.1"]
+		},
+		{
+			"title": "RP-51.1.1",
+			"path": "./schematy/silowe/RP-51.1.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RP-51.1.1"]
+		},
+		{
+			"title": "RR-1",
+			"path": "./schematy/silowe/RR-1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-1", "T-22", "SWR-2", "SWR-1", "T-21", "RR-1.1"]
+		},
+		{
+			"title": "RR-1.1",
+			"path": "./schematy/silowe/RR-1.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-1.1", "WIR-1A", "WIR-1B", "WIR-2A", "WIR-2B", "POR-8", "POR-9"]
+		},
+		{
+			"title": "RR-3",
+			"path": "./schematy/silowe/RR-3.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-3"]
+		},
+		{
+			"title": "RR-4",
+			"path": "./schematy/silowe/RR-4.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-4", "T-3", "T-1", "WT-3/1", "WT-3/2", "RR-4.1"]
+		},
+		{
+			"title": "RR-4.1",
+			"path": "./schematy/silowe/RR-4.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-4.1", "EM-1/T", "EM-1/S"]
+		},
+		{
+			"title": "RR-5",
+			"path": "./schematy/silowe/RR-5.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-5", "T-2", "T-4", "WT-4/1", "WT-4/2", "RR-5.1"]
+		},
+		{
+			"title": "RR-5.1",
+			"path": "./schematy/silowe/RR-5.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-5.1", "EM-2/S", "EM-2/T"]
+		},
+		{
+			"title": "RR-9",
+			"path": "./schematy/silowe/RR-9.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-9", "WPS-2R"]
+		},
+		{
+			"title": "RR-10",
+			"path": "./schematy/silowe/RR-10.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-10", "T-5", "VWR-1", "VWR-2", "PWR-2", "VWR-3", "VWR-4", "VWR-5", "PWR-1"]
+		},
+		{
+			"title": "RR-11",
+			"path": "./schematy/silowe/RR-11.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-11", "RR-11.1", "RR-11.2", "RR-11.3", "RR-11.4", "RR-11.5"]
+		},
+		{
+			"title": "RR-11.1",
+			"path": "./schematy/silowe/RR-11.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-11.1", "TZ-1", "POR-1", "TC-1", "VTC-1"]
+		},
+		{
+			"title": "RR-11.2",
+			"path": "./schematy/silowe/RR-11.2.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-11.2", "TZ-2", "POR-2", "TC-2", "VTC-2"]
+		},
+		{
+			"title": "RR-11.3",
+			"path": "./schematy/silowe/RR-11.3.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-11.3", "TZ-3", "POR-3", "TC-3", "VTC-3"]
+		},
+		{
+			"title": "RR-11.4",
+			"path": "./schematy/silowe/RR-11.4.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-11.4", "TZ-4", "POR-4", "TC-4", "VTC-4"]
+		},
+		{
+			"title": "RR-11.5",
+			"path": "./schematy/silowe/RR-11.5.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-11.5", "TZ-5", "POR-5", "TC-5", "VTC-5"]
+		},
+		{
+			"title": "RR-12",
+			"path": "./schematy/silowe/RR-12.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-12", "WPS-1R"]
+		},
+		{
+			"title": "RR-13",
+			"path": "./schematy/silowe/RR-13.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-13", "VWR-7", "WIR-3A", "WIR-3B", "WIR-4", "VWR-6", "T-45", "RR-13.1"]
+		},
+		{
+			"title": "RR-13.1",
+			"path": "./schematy/silowe/RR-13.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-13.1", "TZ-6", "POR-6", "TC-6", "VTC-6"]
+		},
+		{
+			"title": "RR-14",
+			"path": "./schematy/silowe/RR-14.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-14", "T-42", "T-44", "WT-44"]
+		},
+		{
+			"title": "RR-15",
+			"path": "./schematy/silowe/RR-15.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-15", "SWR-3", "T-43", "EM-03", "T-41", "RR-15.1"]
+		},
+		{
+			"title": "RR-15.1",
+			"path": "./schematy/silowe/RR-15.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-15.1", "KOŁ-1", "KOŁ-2", "TZ-03A", "TC-03A", "TZ-03B", "TC-03B", "WIR-03B/1", 
+					"WIR-03B/2", "WIR-03A/1", "WIR-03A/2"]
+		},
+		{
+			"title": "RR-16",
+			"path": "./schematy/silowe/RR-16.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-16", "T-46"]
+		},
+		{
+			"title": "RR-17",
+			"path": "./schematy/silowe/RR-17.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-17", "T-47", "T-48", "T-31", "T-32", "WT-32", "WT-48"]
+		},
+		{
+			"title": "RR-18",
+			"path": "./schematy/silowe/RR-18.dwg",
+			"description": "500V schemat",
+			"tag": ["RR-18", "T-33", "WR-1", "WR-2", "WR-3", "WR-4", "WR-5", "WR-6"]
+		},
+		{
+			"title": "RS-1",
+			"path": "./schematy/silowe/RS-1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-1", "RS-1.1", "RS-1.1.1", "S-4", "TS-4A", "VS-4", "TS-4B", "TS-4C"]
+		},
+		{
+			"title": "RS-1.1",
+			"path": "./schematy/silowe/RS-1.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-1.1", "RS-1.1.1"]
+		},
+		{
+			"title": "RS-1.1.1",
+			"path": "./schematy/silowe/RS-1.1.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-1.1.1", "WIS-4", "WIS-41", "WIS-42", "WIS-43", "WIS-44", "AH-41", "AH-42", "PS-1D"]
+		},
+		{
+			"title": "RS-2",
+			"path": "./schematy/silowe/RS-2.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-2", "RS-2.1", "S-3", "TS-3A", "VS-3", "TS-3B", "TS-3C"]
+		},
+		{
+			"title": "RS-2.1",
+			"path": "./schematy/silowe/RS-2.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-2.1", "WIS-3", "WIS-31", "WIS-32", "WIS-33", "WIS-34", "AH-31", "AH-32", "PS-1C"]
+		},
+		{
+			"title": "RS-3",
+			"path": "./schematy/silowe/RS-3.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-3", "S-2", "TS-2A", "VS-2", "TS-2B", "TS-2C", "RS-3.1"]
+		},
+		{
+			"title": "RS-3.1",
+			"path": "./schematy/silowe/RS-3.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-3.1", "WIS-2", "WIS-21", "WIS-22", "WIS-23", "WIS-24", "AH-21", "AH-22", "PS-1B"]
+		},
+		{
+			"title": "RS-4",
+			"path": "./schematy/silowe/RS-4.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-4", "RS-4.1", "RS-4.1.1", "S-1", "TS-1A", "VS-1", "TS-1B", "TS-1C"]
+		},
+		{
+			"title": "RS-4.1",
+			"path": "./schematy/silowe/RS-4.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-4.1","RS-4.1.1", "TS-1D"]
+		},
+		{
+			"title": "RS-4.1.1",
+			"path": "./schematy/silowe/RS-4.1.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-4.1.1", "S-1", "WIS-1", "WIS-11", "WIS-12", "WIS-13", "WIS-14", "AH-11", "AH-12", "PS-1A"]
+		},
+		{
+			"title": "RS-5",
+			"path": "./schematy/silowe/RS-5.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-5", "PWS-11A", "PWS-11B", "PWS-12", "PWS-13"]
+		},
+		{
+			"title": "RS-6",
+			"path": "./schematy/silowe/RS-6.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-6", "WPS-1S"]
+		},
+		{
+			"title": "RS-8",
+			"path": "./schematy/silowe/RS-8.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-8", "Z-1", "Z-2", "Z-3", "PZP-1", "PZ-1", "PZ-11", "PZ-2", "PZP-2", "PZP-3"]
+		},
+		{
+			"title": "RS-12",
+			"path": "./schematy/silowe/RS-12.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-12", "RS-12.1", "RS-12.2"]
+		},
+		{
+			"title": "RS-12.1",
+			"path": "./schematy/silowe/RS-12.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-12.1", "WPS-2S"]
+		},
+		{
+			"title": "RS-12.2",
+			"path": "./schematy/silowe/RS-12.2.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-12.2"]
+		},
+		{
+			"title": "RS-13",
+			"path": "./schematy/silowe/RS-13.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-13", "PS-13A", "PS-13", "PS-13B", "DW-1", "CHS-4", "MMS-1", "PS-14A", "PS-14B", "CHS-3"]
+		},
+		{
+			"title": "RS-15",
+			"path": "./schematy/silowe/RS-15.dwg",
+			"description": "500V schemat",
+			"tag": ["RS-15", "PZ-12", "PZ-4A", "PZP-4", "Z-4"]
+		},
+		{
+			"title": "RUCS",
+			"path": "./schematy/silowe/RUCS.dwg",
+			"description": "500V schemat",
+			"tag": ["RUCS", "PGS-2A", "CHS-1", "PGS-2B", "CHS-2"]
+		},
+		{
+			"title": "RPO-1.1",
+			"path": "./schematy/silowe/RPO - 1.1, 1.2.dwg",
+			"description": "500V schemat",
+			"tag": ["RPO-1.1", "RPO-1.2"]
+		},
+		{
+			"title": "RPO-3.1",
+			"path": "./schematy/silowe/RPO - 3.1, 3.2.dwg",
+			"description": "500V schemat",
+			"tag": ["RPO-3.1", "RPO-3.2"]
+		},
+		{
+			"title": "RPO-4.1",
+			"path": "./schematy/silowe/RPO - 4.1, 4.2 - nowe.dwg",
+			"description": "500V schemat",
+			"tag": ["RPO-4.1", "RPO-4.2"]
+		},
+		{
+			"title": "RZK-1",
+			"path": "./schematy/silowe/RZK-1.dwg",
+			"description": "500V schemat",
+			"tag": ["RZK-1", "TS-13", "TS-11", "TS-12", "TS-14"]
+		},
+		{
+			"title": "RZK-1.1",
+			"path": "./schematy/silowe/RZK-1.1 nowa rozdz.dwg",
+			"description": "500V schemat",
+			"tag": ["RZK-1.1", "KOŁ-3", "KOŁ-4"]
+		},
+		{
+			"title": "RZK-1.1.1",
+			"path": "./schematy/silowe/RZK-1.1.1.dwg",
+			"description": "500V schemat",
+			"tag": ["RZK-1.1.1"]
+		},
+		{
+			"title": "RZK-1.2",
+			"path": "./schematy/silowe/RZK-1.2.dwg",
+			"description": "500V schemat",
+			"tag": ["RZK-1.2", "POS-2"]
+		},
+		{
+			"title": "RNN-4.3",
+			"path": "./schematy/silowe/RNN-4.3  -STARA i NOWA.dwg",
+			"description": "500V schemat",
+			"tag": ["RNN-4.3", "PWD-31A", "PWD-31B", "PWM-31", "PWM-21", "PWM-11", "PWD-31C", "PWD-31D"]
+		},
+		{
+			"title": "RG-WR",
+			"path": "./schematy/silowe/RG-WR + nasz.dwg",
+			"description": "500V schemat",
+			"tag": ["RG-WR"]
+		},
+		{
+			"title": "RG-1",
+			"path": "./schematy/silowe/RG-1.dwg",
+			"description": "500V schemat",
+			"tag": ["RG-1", "PK-12", "PK-13", "PK-21", "PK-11", "PKR-22", "PKO-4", "PKR-21", "PKR-12", "PKR-11", "PK-22"]
+		}
+	],
+	"schematy230V": [{
+			"title": "IIRNN-3.3",
+			"path": "./schematy/schematy230V/IIRNN-3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIRNN-3.3", "SPWR", "ROR-2", "ROR-1", "ROR-15", "EOR-01", "ROR-15.1", "ROR-15.1.1", "ROR-15.1.1.2", "RK", "CVP01-SZR01",
+					"ROR-15.2", "ROR-15.2.1", "ROR-18", "ROR-18.1", "ROR-18.2", "ROR-18.3", "ROR-18.4", "ROR-18.4.1.2", "ROR-16", "ROR-17",
+					"ROR-16.1", "ROR-16.1.1", "ROR-16.1.2", "ROR-16.1.3"]
+		},
+		{
+			"title": "IRNN-3.3",
+			"path": "./schematy/schematy230V/IRNN-3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IRNN-3.3", "ROR-15", "rozdz. oddz. E1", "SPWR", "ROR-2", "ROR-1", "RO-3", "ROR-9", "ROR-9.4", "ROR-9.1", "SPWR-1.2", "ROR-1.2",
+					"ROR-1.5", "ROR-1.5.1", "ROR-1.6", "ROR-1.2.1", "ROR-1.2.8", "ROR-1.2.9", "ROR-1.2.6", "ROR-1.2.7", "ROR-1.2.5", "ROR-1.2.3",
+					"ROR-1.2.11", "ROR-1.2.11.2", "ROR-1.2.11.3", "ROR-1.2.11.4", "ROR-1.2.11.4.1", "ROR-1.2.11.5", "ROR-1.2.11.6", "ROR-1.2.11.1",
+					"ROR-1.3", "ROR-1.3.1", "ROR-1.3.2", "ROR-1.3.3", "ROR-1.3.4", "ROR-1.4", "ROR-1.4.1", "ROR-1.4.2", "ROR-1.4.3", "ROR-1.4.4",
+					"ROR-1.4.5", "ROR-1.1", "ROR-1.1.1", "ROR-1.1.5", "ROR-1.1.9", "ROR-1.1.4", "ROR-1.1.7", "ROR-1.1.8", "ROR-1.1.6"]
+		},
+		{
+			"title": "RNN-3.2",
+			"path": "./schematy/schematy230V/RNN-3.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-3.2", "ROS-1", "ROS-2", "ROS-3", "ROS-4", "ROS-5", "ROS-6", "ROS-7", "ROS-8", "ROS-9", "ROS-10", "ROS-11", "ROS-12", 
+					"ROS-13", "ROS-14", "ROS-15", "ROS-16", "ROS-16.1", "ROS-16.2", "ROS-16.2.1", "ROS-16.2.2", "ROS-16.2.3", "ROS-17", "ROS-17.1", 
+					"ROS-17.2", "ROS-21", "ROS-22", "ROS-23", "ROS-24", "ROS-25", "ROS-26", "ROS-27", "ROS-28", "ROS-29", "ROS-30", "ROS-31", 
+					"ROS-32", "ROS-32.1", "ROS-32.2", "ROS-32.3", "ROS-33", "ROS-33.1", "ROS-34", "ROS-34.1", "ROS-35", "ROS-36", "ROS-37", 
+					"ROS-37.1", "ROS-38", "ROS-38.1", "SPWS-1", "SPWS-1.1", "POS-1", "SKW", "SP-1"]
+		},
+		{
+			"title": "RNN-4.3",
+			"path": "./schematy/schematy230V/RNN-4.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-4.3", "ROW-2", "ROW-3.1", "RG", "ROP-51", "ROB-1", "R-4.5", "ROP-51.1", "ROP-51.2", "ROP-51.3", "ROP-51.4", "ROP-51.5", 
+					"ROP-51.6", "ROB-1.1", "T-1", "TK-1", "TK-2", "T-2", "TK-3", "TK-4", "T-3",  "TK-5", "TK-6", "T-4", "TK-7", "TK-8", "TG ŁĄCZNIK BIUROWCA", "RPW"]
+		},
+		{
+			"title": "RNN-10.3",
+			"path": "./schematy/schematy230V/RNN-10.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-10.3", "RM0-P", "RMF-SPO", "AKP-FZA", "AKP-ZA", "ROMK", "RFO-OF", "RMO-OH", "RW", "RS", "R-1", "R-2", "RWC", "RS", 
+					"ROMK-1.1", "RMO-OH1", "RMO-OZ", "RMF-PW", "RMW-PW", "RMK-PW"]
+		},
+		{
+			"title": "RNN-11.3",
+			"path": "./schematy/schematy230V/RNN-11.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-11.3", "RSO", "IROM-1.1", "IROM-1.2", "IROM-1.3", "IROM-1.4", "IROM-2.1", "IROM-2.2", "IROM-2.3", "RO-11.3", "SO1", 
+					"SO2", "IROM-3", "IROM-3.1", "IROM-3.1.1", "IROM-3.2", "IROM-3.2.1", "IROM-3.2.2", "IROM-3.4", "IROM-3.4.1", 
+					"IROM-3.5", "IROM-3.5.1", "IROM-3.6", "IROM-6", "IROM-9", "IROM-9.1", "IROM-9.1.1", "IROM-9.3", "IROM-9.3.3", "IROM-9.3.4", 
+					"IROM-9.3.5", "IROM-9.4", "IROM-9.5", "IROM-9.6", "IROM-10", "IROM-10.1", "IROM-10.1.1", "IROM-10.1.2", "IROM-10.3", 
+					"IROM-10.3.3", "IROM-10.3.4", "IROM-10.3.5", "IROM-10.4", "IROM-11", "IROM-12", "IROM-12.1", "IROM-12.2", "IROM-12.3", 
+					"IROM-12.4", "IROM-12.5", "IROM-12.6", "IROM-12.6.1", "IROM-12.7", "IROM-13", "RW12M", "IROF-1.1", "IROF-1.2", "IROF-1.3", 
+					"IROF-1.4", "IROF-1.5", "IROF-2.1", "IROF-2.2", "IROF-2.3", "IROF-2.4", "IROF-2.5", "IROF-3.1", "IROF-3.1.1", "IROF-3.1.3", 
+					"IROF-3.1.4", "IROF-9", "RO-11.2", "IROF-10", "IROSF", "RO-12.2", "ISPWM-12", "ISPWM-11", "RPW-11.2", "RPW-12.2", "RPW-12.2/I",
+					"RPW-11.3", "FIZA", "ISPWF", "M1ZA"]
+		},
+		{
+			"title": "RNN-14.3",
+			"path": "./schematy/schematy230V/RNN-14.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-14.3", "RO-14.3", "IIROM-1", "IIROM-1.1", "IIROM-1.2", "IIROM-1.3", "IIROM-2", "IIROM-2.1", "IIROM-2.2", "IIROM-2.3", 
+					"IIROM-2.4", "IIROM-5", "IIROM-7", "IIROM-8", "IIROM-9", "IIROM-12", "IIROM-12.1", "IIROM-12.2", "IIROM-12.3", "IIROM-12.3.1", 
+					"IIROM-12.3.2", "IIROM-12.3.3", "IIROM-12.3.4", "IIROM-12.4", "IIROM-12.4.1", "IIROM-12.5", "IIROM-12.5.3", "IIROM-12.5.4 ", 
+					"IIROM-12.5.5", "IIROM-12.6", "IIROM-12.7", "IIROM-14", "IIROM-14.1", "IIROM-14.2", "IIROM-14.2.1", "IIROM-14.2.2", 
+					"IIROM-14.3", "IIROM-14.3.3", "IIROM-14.3.4", "IIROM-14.3.5", "IIROM-14.4", "IROM-51", "IROM-51.1", "IROM-51.1.3", 
+					"IROM-51.1.5", "IROM-51.2", "IROM-51.2.1", "IROM-51.2.3", "IROM-51.2.4", "IROM-51.2.5", "IROM-51.2.6", "IROM-51.2.7", 
+					"IROM-51.3", "IROM-51.3.1", "IROM-51.3.2", "IROM-51.3.3", "IROM-51.4", "IROM-51.5", "IROM-52", "IROF-51", "IROF-51.1", 
+					"IROF-51.2", "IROF-51.3", "IIROF-51", "IIROF-51.1", "IIROF-51.1.1", "IIROF-1", "IIROF-1.1", "IIROF-1.2", "IIROF-1.3", 
+					"IIROF-1.4", "IIROF-1.5", "IIROF-2", "IIROF-2.1", "IIROF-2.2", "IIROF-2.3", "IIROF-2.4", "IIROF-4", "RO-13.2", "RO-13.2/I", 
+					"RO-13.2/II", "RO-14.2", "RO-14.2/II", "RO-64", "IIROF-5", "IIROF-6", "R400/230", "IISPWF", "RPW-13.2", "RPW-13.2/I", "RPW-13.2/II",
+					"RPW-14.2", "RPW-14.2/II", "RPW-TEP64", "SSSP", "RPW-14.3", "PWM-21", "FIIZA", "M2ZA", "PWM-31"]
+		},
+		{
+			"title": "RNN-16.3",
+			"path": "./schematy/schematy230V/RNN-16.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-16.3", "III ROM-1", "IIIROM-1.1", "IIIROM-1.2", "IIIROM-1.3", "IIIROM-1.4", "IIIROM-2", "IIIROM-2.1", "IIIROM-2.2", 
+				"IIIROM-2.3", "IIIROM-8", "IIIROM-8.1", "IIIROM-8.2", "IIIROM-9", "IIIROM-9.1", "IIIROM-9.2", "IIIROM-9.3", "IIIROM-9.3.1", 
+				"IIIROM-9.3.4", "IIIROM-9.3.5", "IIIROM-9.3.6", "IIIROM-9.3.7", "IIIROM-9.4", "IIIROM-9.5", "IIIROM-11", "IIIROM-11.1", 
+				"IIIROM-11.2", "IIIROM-11.2.3", "IIIROM-11.2.4", "IIIROM-11.2.5", "IIIROM-12", "IIIROM-12.1", "IIIROM-12.2", "IIIROM-13", 
+				"IIIROM-13.2", "RO-16.3", "IIIROM-14", "IIIROM-15", "ROW-51", "ROW-51.1", "IIIROF-1", "IIIROF-1.1", "IIIROF-1.2", "IIIROF-1.3", 
+				"IIIROF-1.4", "IIIROF-2", "IIIROF-2.1", "IIIROF-2.2", "IIIROF-2.3", "IIIROF-2.4", "IIIROF-4", "RO-16.2", "RO-16.2/I", 
+				"RO-16.2/II", "IIIROF-7", "IIIROF-8", "IIIROF-11.1", "IIIROF-11.2", "IIIROF-13", "RO-17.2/II", "TW-wartownia", "KP-3", "M3ZA",
+				"IIIRGM", "IIISPWF", "BECKER", "RPW-16.2", "RPW-16.2/II", "RPW-17.2", "RPW-17.2/II", "RPW-16.3", "FIIIZA", "2FIIIZA", "3FIIIZA",
+				"IIISPWM-1", "RPW-17.1", "RPW-16.1"]
+		},
+		{
+			"title": "RNN-18.3",
+			"path": "./schematy/schematy230V/RNN-18.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RNN-18.3", "RPS", "TD-3", "TD-5", "TD-4", "TD-6", "TSS"]
+		},
+		{
+			"title": "ROB-1",
+			"path": "./schematy/schematy230V/ROB-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROB-1", "ROB-1.1", "TK-UPS", "ROB-1.2", "ROB-1.3", "ROB-1.4", "ROB-1.5", "TK-1", "TK-2", "TK-3", "TK-4", "TK-5", "TK-6", 
+					"TK-7", "TK-8", "TG ŁĄCZNIK BIUROWCA", "TK-ŁĄCZNIK", "RKI-1", "RKI-2", "RKI-3" ]
+		},
+		{
+			"title": "ROP-41",
+			"path": "./schematy/schematy230V/ROP-41.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-41"]
+		},
+		{
+			"title": "RPWG",
+			"path": "./schematy/schematy230V/RPWG.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RPWG", "ROG-1", "ROG-2", "ROG-3", "ROG-4", "ROG-5", "ROG-6", "CAIT", "szafa ca1", "szafa ca2", "szafa ca3", "szafa ca4",
+					"SZAFA CAP-1,2,3"]
+		},
+		{
+			"title": "TG łącznik biurrowca",
+			"path": "./schematy/schematy230V/TG.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TG łącznik biurrowca"]
+		},
+		{
+			"title": "Sterow. urządzeń palarni",
+			"path": "./schematy/schematy230V/Sterow. urządzeń palarni.dwg",
+			"description": "Oświetlenie",
+			"tag": ["STER. URZADZEN PALARNI", "PALARNIA" ]
+		},
+		{
+			"title": "Klima RKI-1",
+			"path": "./schematy/schematy230V/KLIMA  RKI 1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RKI-1"]
+		},
+		{
+			"title": "Klima RKI-2",
+			"path": "./schematy/schematy230V/KLIMA  RKI 2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RKI-2"]
+		},
+		{
+			"title": "Klima RKI-3",
+			"path": "./schematy/schematy230V/KLIMA  RKI 3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RKI-3"]
+		},
+		{
+			"title": "ROB-1.1",
+			"path": "./schematy/schematy230V/ROB-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROB-1.1"]
+		},
+		{
+			"title": "ROB-1.2",
+			"path": "./schematy/schematy230V/ROB-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROB-1.2"]
+		},
+		{
+			"title": "ROB-1.3",
+			"path": "./schematy/schematy230V/ROB-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROB-1.3"]
+		},
+		{
+			"title": "ROB-1.4",
+			"path": "./schematy/schematy230V/ROB-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROB-1.4"]
+		},
+		{
+			"title": "ROB-1.5",
+			"path": "./schematy/schematy230V/ROB-1.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROB-1.5"]
+		},
+		{
+			"title": "Tablica TK-1",
+			"path": "./schematy/schematy230V/Tablica TK-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-1"]
+		},
+		{
+			"title": "Tablica TK-2",
+			"path": "./schematy/schematy230V/Tablica TK-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-2"]
+		},
+		{
+			"title": "Tablica TK-3",
+			"path": "./schematy/schematy230V/Tablica TK-3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-3"]
+		},
+		{
+			"title": "Tablica TK-4",
+			"path": "./schematy/schematy230V/Tablica TK-4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-4"]
+		},
+		{
+			"title": "Tablica TK-5",
+			"path": "./schematy/schematy230V/Tablica TK-5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-5"]
+		},
+		{
+			"title": "Tablica TK-6",
+			"path": "./schematy/schematy230V/Tablica TK-6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-6"]
+		},
+		{
+			"title": "Tablica TK-7",
+			"path": "./schematy/schematy230V/Tablica TK-7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-7"]
+		},
+		{
+			"title": "Tablica TK-8",
+			"path": "./schematy/schematy230V/Tablica TK-8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TK-8"]
+		},
+		{
+			"title": "Zasil. urządzeń palarni",
+			"path": "./schematy/schematy230V/Zasil. urządzeń palarni.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ZASIL. URZADZEN PALARNI", "PALARNIA" ]
+		},
+		{
+			"title": "RMO-P1.1(R-1)",
+			"path": "./schematy/schematy230V/R-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-P1.1(R-1)" ]
+		},
+		{
+			"title": "RMO-P1.2(R-2)",
+			"path": "./schematy/schematy230V/R-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-P1.2(R-2)" ]
+		},
+		{
+			"title": "RMO-OF",
+			"path": "./schematy/schematy230V/RMO-OF.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-OF" ]
+		},
+		{
+			"title": "RMO-SPO",
+			"path": "./schematy/schematy230V/RMO-SPO.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-SPO" ]
+		},
+		{
+			"title": "RMO-OH",
+			"path": "./schematy/schematy230V/RMO-OH.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-OH", "RMO-OH1" ]
+		},
+		{
+			"title": "RMO-OH1",
+			"path": "./schematy/schematy230V/RMO-OH1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-OH1"]
+		},
+		{
+			"title": "RMO-OZ",
+			"path": "./schematy/schematy230V/RMO-OZ.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-OZ" ]
+		},
+		{
+			"title": "RMO-P",
+			"path": "./schematy/schematy230V/RMO-P.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RMO-P", "RS", "RW", "RWC", "RMO-P1.1(R1)", "RMO-P1.2(R2)" ]
+		},
+		{
+			"title": "ROMK",
+			"path": "./schematy/schematy230V/ROMK.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROMK", "ROMK-1.1" ]
+		},
+		{
+			"title": "ROMK-1.1",
+			"path": "./schematy/schematy230V/ROMK-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROMK-1.1"]
+		},
+		{
+			"title": "RS",
+			"path": "./schematy/schematy230V/RS.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RS"]
+		},
+		{
+			"title": "RW",
+			"path": "./schematy/schematy230V/RW.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RW"]
+		},
+		{
+			"title": "RWC",
+			"path": "./schematy/schematy230V/RWC.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RWC"]
+		},
+		{
+			"title": "ROG-1",
+			"path": "./schematy/schematy230V/ROG-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-1"]
+		},
+		{
+			"title": "ROG-2",
+			"path": "./schematy/schematy230V/ROG-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-2"]
+		},
+		{
+			"title": "ROG-3",
+			"path": "./schematy/schematy230V/ROG-3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-3"]
+		},
+		{
+			"title": "ROG-4",
+			"path": "./schematy/schematy230V/ROG-4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-4"]
+		},
+		{
+			"title": "ROG-5",
+			"path": "./schematy/schematy230V/ROG-5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-5"]
+		},
+		{
+			"title": "ROG-6",
+			"path": "./schematy/schematy230V/ROG-6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-6"]
+		},
+		{
+			"title": "Szafa CA1",
+			"path": "./schematy/schematy230V/Szafa CA1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["CA1", "SZAFA CA1"]
+		},
+		{
+			"title": "Szafa CA2",
+			"path": "./schematy/schematy230V/Szafa CA2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["CA2", "SZAFA CA2"]
+		},
+		{
+			"title": "Szafa CA3",
+			"path": "./schematy/schematy230V/Szafa CA3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["CA3", "SZAFA CA3"]
+		},
+		{
+			"title": "Szafa CA4-CA12 Falowniki",
+			"path": "./schematy/schematy230V/Szafy CAP1  CAP2  CAP3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["CAP1", "CAP2", "CAP3"]
+		},
+		{
+			"title": "ROP-51",
+			"path": "./schematy/schematy230V/ROP-51.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51", "ROP-51.1", "ROP-51.2", "ROP-51.3", "ROP-51.4", "ROP-51.5", "ROP-51.6"]
+		},
+		{
+			"title": "Szafy CAP1 CAP2 CAP3",
+			"path": "./schematy/schematy230V/szafy CA4_12 soffstart -falownikso.dwg",
+			"description": "Oświetlenie",
+			"tag": ["CA4", "CA5", "CA6", "CA7", "CA8", "CA9", "CA10", "CA11", "CA12", "P-1", "P-2", "P-3", "P-4", "P-5", "P-6", "P-7", "P-8", "P-9"]
+		},
+		{
+			"title": "ROP-51.1",
+			"path": "./schematy/schematy230V/ROP-51.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51.1"]
+		},
+		{
+			"title": "ROP-51.2",
+			"path": "./schematy/schematy230V/ROP-51.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51.2"]
+		},
+		{
+			"title": "ROP-51.3",
+			"path": "./schematy/schematy230V/ROP-51.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51.3"]
+		},
+		{
+			"title": "ROP-51.4",
+			"path": "./schematy/schematy230V/ROP-51.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51.4"]
+		},
+		{
+			"title": "ROP-51.5",
+			"path": "./schematy/schematy230V/ROP-51.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51.5"]
+		},
+		{
+			"title": "ROP-51.6",
+			"path": "./schematy/schematy230V/ROP-51.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-51.6"]
+		},
+		{
+			"title": "ROW-2",
+			"path": "./schematy/schematy230V/ROW-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROW-2"]
+		},
+		{
+			"title": "ROW-3.1",
+			"path": "./schematy/schematy230V/ROW-3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROW-3.1"]
+		},
+		{
+			"title": "IROF-1.1",
+			"path": "./schematy/schematy230V/IROF-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-1.1"]
+		},
+		{
+			"title": "IROF-1.2",
+			"path": "./schematy/schematy230V/IROF-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-1.2"]
+		},
+		{
+			"title": "IROF-1.3",
+			"path": "./schematy/schematy230V/IROF-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-1.3"]
+		},
+		{
+			"title": "IROF-1.4",
+			"path": "./schematy/schematy230V/IROF-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-1.4"]
+		},
+		{
+			"title": "IROF-1.5",
+			"path": "./schematy/schematy230V/IROF-1.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-1.5"]
+		},
+		{
+			"title": "IROF-2.1",
+			"path": "./schematy/schematy230V/IROF-2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-2.1"]
+		},
+		{
+			"title": "IROF-2.2",
+			"path": "./schematy/schematy230V/IROF-2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-2.2"]
+		},
+		{
+			"title": "IROF-2.3",
+			"path": "./schematy/schematy230V/IROF-2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-2.3"]
+		},
+		{
+			"title": "IROF-2.5",
+			"path": "./schematy/schematy230V/IROF-2.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-2.5", "PW-26", "PW-27"]
+		},
+		{
+			"title": "IROF-3.1",
+			"path": "./schematy/schematy230V/IROF-3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-3.1", "IROF-3.1.4", "IIFZA", "RF-3", "PS-1", "PS-2", "IROF-3.1.1", "IROF-3.1.3"]
+		},
+		{
+			"title": "IROF-3.1.1",
+			"path": "./schematy/schematy230V/IROF-3.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-3.1.1", "PUO-1B", "PUO-1A"]
+		},
+		{
+			"title": "IROF-3.1.3",
+			"path": "./schematy/schematy230V/IROF-3.1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-3.1.3"]
+		},
+		{
+			"title": "IROF-3.1.4",
+			"path": "./schematy/schematy230V/IROF-3.1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-3.1.4", "PUO-1B", "PUO-1A"]
+		},
+		{
+			"title": "IROF-9",
+			"path": "./schematy/schematy230V/IROF-9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-9", "RO-11.2"]
+		},
+		{
+			"title": "IROF-10",
+			"path": "./schematy/schematy230V/IROF-10.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-10", "RO-12.2", "IROSF"]
+		},
+		{
+			"title": "IROSF",
+			"path": "./schematy/schematy230V/IROSF.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROSF"]
+		},
+		{
+			"title": "RO-11.2",
+			"path": "./schematy/schematy230V/RO-11.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-11.2"]
+		},
+		{
+			"title": "RO-12.2",
+			"path": "./schematy/schematy230V/RO-12.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-12.2"]
+		},
+		{
+			"title": "RO-11.3",
+			"path": "./schematy/schematy230V/RO-11.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-11.3"]
+		},
+		{
+			"title": "RSO",
+			"path": "./schematy/schematy230V/RSO.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RSO", "IROM-1.1", "IROM-1.2", "IROM-1.3", "IROM-2.1", "IROM-2.2", "IROM-2.3"]
+		},
+		{
+			"title": "SO1 - R-11",
+			"path": "./schematy/schematy230V/SO1 - R-11.dwg",
+			"description": "Oświetlenie",
+			"tag": ["SO1", "SO1 - R-11", "R-11"]
+		},
+		{
+			"title": "SO1 - R-12",
+			"path": "./schematy/schematy230V/SO1 - R-12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["SO1", "SO1 - R-12", "R-12"]
+		},
+		{
+			"title": "SO2 - R-11",
+			"path": "./schematy/schematy230V/SO2 - R-11.dwg",
+			"description": "Oświetlenie",
+			"tag": ["SO2", "SO1 - R-11", "R-11"]
+		},
+		{
+			"title": "SO2 - R-12",
+			"path": "./schematy/schematy230V/SO2 - R-12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["SO2", "SO2 - R-12", "R-12"]
+		},
+		{
+			"title": "IROM-1.1",
+			"path": "./schematy/schematy230V/IROM-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-1.1"]
+		},
+		{
+			"title": "IROM-1.2",
+			"path": "./schematy/schematy230V/IROM-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-1.2"]
+		},
+		{
+			"title": "IROM-1.3",
+			"path": "./schematy/schematy230V/IROM-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-1.3"]
+		},
+		{
+			"title": "IROM-1.4",
+			"path": "./schematy/schematy230V/IROM-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-1.4"]
+		},
+		{
+			"title": "IROM-2.1",
+			"path": "./schematy/schematy230V/IROM-2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-2.1"]
+		},
+		{
+			"title": "IROM-2.2",
+			"path": "./schematy/schematy230V/IROM-2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-2.2"]
+		},
+		{
+			"title": "IROM-2.3",
+			"path": "./schematy/schematy230V/IROM-2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-2.3"]
+		},
+		{
+			"title": "IROM-3",
+			"path": "./schematy/schematy230V/IROM-3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3", "IROM-3.1", "IROM-3.2", "IROM-3.4", "IROM-3.5", "IROM-3.6"]
+		},
+		{
+			"title": "IROM-3.1",
+			"path": "./schematy/schematy230V/IROM-3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.1", "IROM-3.1.1", "PCW-9", "IROM-3.1.2"]
+		},
+		{
+			"title": "IROM-3.1.1",
+			"path": "./schematy/schematy230V/IROM-3.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.1.1", "PCW-9"]
+		},
+		{
+			"title": "IROM-3.1.2",
+			"path": "./schematy/schematy230V/IROM-3.1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.1.2"]
+		},
+		{
+			"title": "IROM-3.2",
+			"path": "./schematy/schematy230V/IROM-3.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.2", "IROM-3.2.1", "IROM-3.2.2"]
+		},
+		{
+			"title": "IROM-3.2.1",
+			"path": "./schematy/schematy230V/IROM-3.2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.2.1"]
+		},
+		{
+			"title": "IROM-3.2.2",
+			"path": "./schematy/schematy230V/IROM-3.2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.2.2"]
+		},
+		{
+			"title": "IROM-3.4",
+			"path": "./schematy/schematy230V/IROM-3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.4"]
+		},
+		{
+			"title": "IROM-3.4.1",
+			"path": "./schematy/schematy230V/IROM-3.4.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.4.1"]
+		},
+		{
+			"title": "IROM-3.5",
+			"path": "./schematy/schematy230V/IROM-3.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.5"]
+		},
+		{
+			"title": "IROM-3.5.1",
+			"path": "./schematy/schematy230V/IROM-3.5.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.5.1"]
+		},
+		{
+			"title": "IROM-3.6",
+			"path": "./schematy/schematy230V/IROM-3.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-3.6"]
+		},
+		{
+			"title": "IROM-6",
+			"path": "./schematy/schematy230V/IROM-6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-6"]
+		},
+		{
+			"title": "IROM-9",
+			"path": "./schematy/schematy230V/IROM-9 (a).dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9", "IROM-9.1", "IROM-9.3", "IROM-9.4", "IROM-9.5", "IROM-9.6"]
+		},
+		{
+			"title": "IROM-9.1",
+			"path": "./schematy/schematy230V/IROM-9.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.1", "IROM-9.1.1", "IIROM-14.2.1"]
+		},
+		{
+			"title": "IROM-9.1.1",
+			"path": "./schematy/schematy230V/IROM-9.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.1.1"]
+		},
+		{
+			"title": "IROM-9.3",
+			"path": "./schematy/schematy230V/IROM-9.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.3", "IROM-9.3.3", "IROM-9.3.4", "IROM-9.3.5", "TM-1"]
+		},
+		{
+			"title": "IROM-9.3.3",
+			"path": "./schematy/schematy230V/IROM-9.3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.3.3"]
+		},
+		{
+			"title": "IROM-9.3.4",
+			"path": "./schematy/schematy230V/IROM-9.3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.3.4"]
+		},
+		{
+			"title": "IROM-9.3.5",
+			"path": "./schematy/schematy230V/IROM-9.3.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.3.5"]
+		},
+		{
+			"title": "IROM-9.4",
+			"path": "./schematy/schematy230V/IROM-9.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.4", "TM-211"]
+		},
+		{
+			"title": "IROM-9.5",
+			"path": "./schematy/schematy230V/IROM-9.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.5"]
+		},
+		{
+			"title": "IROM-9.6",
+			"path": "./schematy/schematy230V/IROM-9.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-9.6"]
+		},
+		{
+			"title": "IROM-10",
+			"path": "./schematy/schematy230V/IROM-10.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10", "IROM-10.1", "IROM-10.3", "IROM-10.4"]
+		},
+		{
+			"title": "IROM-10.1",
+			"path": "./schematy/schematy230V/IROM-10.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.1", "IROM-10.1.1"]
+		},
+		{
+			"title": "IROM-10.1.1",
+			"path": "./schematy/schematy230V/IROM-10.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.1.1"]
+		},
+		{
+			"title": "IROM-10.1.2",
+			"path": "./schematy/schematy230V/IROM-10.1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.1.2"]
+		},
+		{
+			"title": "IROM-10.3.3",
+			"path": "./schematy/schematy230V/IROM-10.3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.3.3"]
+		},
+		{
+			"title": "IROM-10.3.4",
+			"path": "./schematy/schematy230V/IROM-10.3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.3.4"]
+		},
+		{
+			"title": "IROM-10.3.5",
+			"path": "./schematy/schematy230V/IROM-10.3.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.3.5"]
+		},
+		{
+			"title": "IROM-10.4",
+			"path": "./schematy/schematy230V/IROM-10.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-10.4"]
+		},
+		{
+			"title": "IROM-11",
+			"path": "./schematy/schematy230V/IROM-11.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-11"]
+		},
+		{
+			"title": "IROM-12",
+			"path": "./schematy/schematy230V/IROM-12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12", "IROM-12.1", "IROM-12.2", "IROM-12.3", "IROM-12.4", "IROM-12.5", "IROM-12.6", "IROM-12.7"]
+		},
+		{
+			"title": "IROM-12.1",
+			"path": "./schematy/schematy230V/IROM-12.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.1"]
+		},
+		{
+			"title": "IROM-12.2",
+			"path": "./schematy/schematy230V/IROM-12.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.2"]
+		},
+		{
+			"title": "IROM-12.3",
+			"path": "./schematy/schematy230V/IROM-12.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.3"]
+		},
+		{
+			"title": "IROM-12.4",
+			"path": "./schematy/schematy230V/IROM-12.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.4"]
+		},
+		{
+			"title": "IROM-12.5",
+			"path": "./schematy/schematy230V/IROM-12.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.5"]
+		},
+		{
+			"title": "IROM-12.6",
+			"path": "./schematy/schematy230V/IROM-12.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.6", "IROM-12.6.1"]
+		},
+		{
+			"title": "IROM-12.6.1",
+			"path": "./schematy/schematy230V/IROM-12.6.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.6.1"]
+		},
+		{
+			"title": "IROM-12.7",
+			"path": "./schematy/schematy230V/IROM-12.7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-12.7"]
+		},
+		{
+			"title": "IROM-13",
+			"path": "./schematy/schematy230V/IROM-13.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-13"]
+		},
+		{
+			"title": "IIROM-1",
+			"path": "./schematy/schematy230V/IIROM-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-1", "IIROM-1.1", "IIROM-1.2", "IIROM-1.3"]
+		},
+		{
+			"title": "IIROM-1.1",
+			"path": "./schematy/schematy230V/IIROM-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-1.1"]
+		},
+		{
+			"title": "IIROM-1.2",
+			"path": "./schematy/schematy230V/IIROM-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-1.2"]
+		},
+		{
+			"title": "IIROM-1.3",
+			"path": "./schematy/schematy230V/IIROM-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-1.3"]
+		},
+		{
+			"title": "IIROM-2",
+			"path": "./schematy/schematy230V/IIROM-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-2", "IIROM-2.1", "IIROM-2.2", "IIROM-2.3", "IIROM-2.4"]
+		},
+		{
+			"title": "IIROM-2.1",
+			"path": "./schematy/schematy230V/IIROM-2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-2.1"]
+		},
+		{
+			"title": "IIROM-2.2",
+			"path": "./schematy/schematy230V/IIROM-2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-2.2"]
+		},
+		{
+			"title": "IIROM-2.3",
+			"path": "./schematy/schematy230V/IIROM-2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-2.3"]
+		},
+		{
+			"title": "IIROM-2.4",
+			"path": "./schematy/schematy230V/IIROM-2.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-2.4"]
+		},
+		{
+			"title": "IIROM-3",
+			"path": "./schematy/schematy230V/IIROM-3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-3", "R-13"]
+		},
+		{
+			"title": "IIROM-4",
+			"path": "./schematy/schematy230V/IIROM-4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-4", "R-14"]
+		},
+		{
+			"title": "IIROM-5",
+			"path": "./schematy/schematy230V/IIROM-5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-5"]
+		},
+		{
+			"title": "IIROM-7",
+			"path": "./schematy/schematy230V/IIROM-7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-7"]
+		},
+		{
+			"title": "IIROM-8",
+			"path": "./schematy/schematy230V/IIROM-8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-8"]
+		},
+		{
+			"title": "IIROM-9",
+			"path": "./schematy/schematy230V/IIROM-9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-9"]
+		},
+		{
+			"title": "IIROM-12",
+			"path": "./schematy/schematy230V/IIROM-12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12", "IIROM-12.1", "IIROM-12.2", "IIROM-12.3", "IIROM-12.4", "IIROM-12.5", "IIROM-12.6", "IIROM-12.7"]
+		},
+		{
+			"title": "IIROM-12.1",
+			"path": "./schematy/schematy230V/IIROM-12.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.1"]
+		},
+		{
+			"title": "IIROM-12.2",
+			"path": "./schematy/schematy230V/IIROM-12.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.2"]
+		},
+		{
+			"title": "IIROM-12.3",
+			"path": "./schematy/schematy230V/IIROM-12.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.3", "IIROM-12.3.1", "IIROM-12.3.2", "IIROM-12.3.3", "IIROM-12.3.4"]
+		},
+		{
+			"title": "IIROM-12.3.1",
+			"path": "./schematy/schematy230V/IIROM-12.3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.3.1"]
+		},
+		{
+			"title": "IIROM-12.3.2",
+			"path": "./schematy/schematy230V/IIROM-12.3.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.3.2"]
+		},
+		{
+			"title": "IIROM-12.3.3",
+			"path": "./schematy/schematy230V/IIROM-12.3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.3.3"]
+		},
+		{
+			"title": "IIROM-12.3.4",
+			"path": "./schematy/schematy230V/IIROM-12.3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.3.4"]
+		},
+		{
+			"title": "IIROM-12.4",
+			"path": "./schematy/schematy230V/IIROM-12.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.4", "IIROM-12.4.1"]
+		},
+		{
+			"title": "IIROM-12.4.1",
+			"path": "./schematy/schematy230V/IIROM-12.4.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.4.1"]
+		},
+		{
+			"title": "IIROM-12.5",
+			"path": "./schematy/schematy230V/IIROM-12.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.5", "IIROM-12.5.3", "IIROM-12.5.4", "IIROM-12.5.5"]
+		},
+		{
+			"title": "IIROM-12.5.5",
+			"path": "./schematy/schematy230V/IIROM-12.5.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.5.5"]
+		},
+		{
+			"title": "IIROM-12.5.3",
+			"path": "./schematy/schematy230V/IIROM-12.5.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.5.3"]
+		},
+		{
+			"title": "IIROM-12.5.4",
+			"path": "./schematy/schematy230V/IIROM-12.5.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.5.4"]
+		},
+		{
+			"title": "IIROM-12.6",
+			"path": "./schematy/schematy230V/IIROM-12.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.6"]
+		},
+		{
+			"title": "IIROM-12.7",
+			"path": "./schematy/schematy230V/IIROM-12.7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-12.7"]
+		},
+		{
+			"title": "IIROM-14",
+			"path": "./schematy/schematy230V/IIROM-14.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14", "IIROM-14.1", "IIROM-14.2", "IIROM-14.3", "IIROM-14.4"]
+		},
+		{
+			"title": "IIROM-14.1",
+			"path": "./schematy/schematy230V/IIROM-14.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.1"]
+		},
+		{
+			"title": "IIROM-14.2",
+			"path": "./schematy/schematy230V/IIROM-14.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.2", "IIROM-14.2.1", "IIROM-14.2.2"]
+		},
+		{
+			"title": "IIROM-14.2.1",
+			"path": "./schematy/schematy230V/IIROM-14.2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.2.1"]
+		},
+		{
+			"title": "IIROM-14.2.2",
+			"path": "./schematy/schematy230V/IIROM-14.2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.2.2"]
+		},
+		{
+			"title": "IIROM-14.3",
+			"path": "./schematy/schematy230V/IIROM-14.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.3", "IIROM-14.3.3", "IIROM-14.3.4", "IIROM-14.3.5"]
+		},
+		{
+			"title": "IIROM-14.3.5",
+			"path": "./schematy/schematy230V/IIROM-14.3.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.3.5"]
+		},
+		{
+			"title": "IIROM-14.3.3",
+			"path": "./schematy/schematy230V/IIROM-14.3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.3.3"]
+		},
+		{
+			"title": "IIROM-14.3.4",
+			"path": "./schematy/schematy230V/IIROM-14.3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.3.4"]
+		},
+		{
+			"title": "IIROM-14.4",
+			"path": "./schematy/schematy230V/IIROM-14.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROM-14.4"]
+		},
+		{
+			"title": "IROM-51",
+			"path": "./schematy/schematy230V/IROM-51.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51", "IROM-51.1", "IROM-51.2", "IROM-51.3", "IROM-51.4", "IROM-51.5"]
+		},
+		{
+			"title": "IROM-51.1",
+			"path": "./schematy/schematy230V/IROM-51.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.1", "IROM-51.1.3", "IROM-51.1.4", "IROM-51.1.5" ]
+		},
+		{
+			"title": "IROM-51.1.5",
+			"path": "./schematy/schematy230V/IROM-51.1.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.1.5"]
+		},
+		{
+			"title": "IROM-51.1.3",
+			"path": "./schematy/schematy230V/IROM-51.1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.1.3"]
+		},
+		{
+			"title": "IROM-51.1.4",
+			"path": "./schematy/schematy230V/IROM-51.1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.1.4"]
+		},
+		{
+			"title": "IROM-51.2",
+			"path": "./schematy/schematy230V/IROM-51.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2", "IROM-51.2.1", "IROM-51.2.3", "IROM-51.2.4", "IROM-51.2.5", "IROM-51.2.6", "IROM-51.2.7"]
+		},
+		{
+			"title": "IROM-51.2.1",
+			"path": "./schematy/schematy230V/IROM-51.2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2.1"]
+		},
+		{
+			"title": "IROM-51.2.3",
+			"path": "./schematy/schematy230V/IROM-51.2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2.3"]
+		},
+		{
+			"title": "IROM-51.2.4",
+			"path": "./schematy/schematy230V/IROM-51.2.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2.4"]
+		},
+		{
+			"title": "IROM-51.2.5",
+			"path": "./schematy/schematy230V/IROM-51.2.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2.5"]
+		},
+		{
+			"title": "IROM-51.2.6",
+			"path": "./schematy/schematy230V/IROM-51.2.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2.6"]
+		},
+		{
+			"title": "IROM-51.2.7",
+			"path": "./schematy/schematy230V/IROM-51.2.7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.2.7"]
+		},
+		{
+			"title": "IROM-51.3",
+			"path": "./schematy/schematy230V/IROM-51.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.3", "IROM-51.3.1",  "IROM-51.3.2",  "IROM-51.3.3"]
+		},
+		{
+			"title": "IROM-51.3.1",
+			"path": "./schematy/schematy230V/IROM-51.3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.3.1"]
+		},
+		{
+			"title": "IROM-51.3.2",
+			"path": "./schematy/schematy230V/IROM-51.3.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.3.2"]
+		},
+		{
+			"title": "IROM-51.3.3",
+			"path": "./schematy/schematy230V/IROM-51.3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.3.3"]
+		},
+
+		{
+			"title": "IROM-51.4",
+			"path": "./schematy/schematy230V/IROM-51.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.4"]
+		},
+		{
+			"title": "IROM-51.5",
+			"path": "./schematy/schematy230V/IROM-51.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-51.5"]
+		},
+		{
+			"title": "IROM-52",
+			"path": "./schematy/schematy230V/IROM-52.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROM-52"]
+		},
+		{
+			"title": "IIROF-1",
+			"path": "./schematy/schematy230V/IIROF-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-1", "IIROF-1.1", "IIROF-1.2", "IIROF-1.3", "IIROF-1.4", "IIROF-1.5"]
+		},
+		{
+			"title": "IIROF-1.1",
+			"path": "./schematy/schematy230V/IIROF-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-1.1"]
+		},
+		{
+			"title": "IIROF-1.2",
+			"path": "./schematy/schematy230V/IIROF-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-1.2"]
+		},
+		{
+			"title": "IIROF-1.3",
+			"path": "./schematy/schematy230V/IIROF-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-1.3"]
+		},
+		{
+			"title": "IIROF-1.4",
+			"path": "./schematy/schematy230V/IIROF-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-1.4"]
+		},
+		{
+			"title": "IIROF-1.5",
+			"path": "./schematy/schematy230V/IIROF-1.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-1.5"]
+		},
+		{
+			"title": "IIROF-2",
+			"path": "./schematy/schematy230V/IIROF-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-2", "IIROF-2.1", "IIROF-2.2", "IIROF-2.3", "IIROF-2.4"]
+		},
+		{
+			"title": "IIROF-2.1",
+			"path": "./schematy/schematy230V/IIROF-2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-2.1"]
+		},
+		{
+			"title": "IIROF-2.2",
+			"path": "./schematy/schematy230V/IIROF-2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-2.2"]
+		},
+		{
+			"title": "IIROF-2.3",
+			"path": "./schematy/schematy230V/IIROF-2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-2.3"]
+		},
+		{
+			"title": "IIROF-2.4",
+			"path": "./schematy/schematy230V/IIROF-2.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-2.4"]
+		},
+		{
+			"title": "IIROF-4",
+			"path": "./schematy/schematy230V/IIROF-4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-4", "RO-14.2/II", "RO-13.2", "RO-13.2/I", "RO-13.2/II", "RO-TEP/64"]
+		},
+		{
+			"title": "IIROF-5",
+			"path": "./schematy/schematy230V/IIROF-5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-5"]
+		},
+		{
+			"title": "IIROF-6",
+			"path": "./schematy/schematy230V/IIROF-6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-6"]
+		},
+		{
+			"title": "IROF-51",
+			"path": "./schematy/schematy230V/IROF-51.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-51", "IROF-51.1", "IROF-51.2", "IROF-51.3"]
+		},
+		{
+			"title": "IROF-51.1",
+			"path": "./schematy/schematy230V/IROF-51.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-51.1"]
+		},
+		{
+			"title": "IROF-51.2",
+			"path": "./schematy/schematy230V/IROF-51.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-51.2"]
+		},
+		{
+			"title": "IROF-51.3",
+			"path": "./schematy/schematy230V/IROF-51.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IROF-51.3"]
+		},
+		{
+			"title": "R-400/230",
+			"path": "./schematy/schematy230V/R-400/230.dwg",
+			"description": "Oświetlenie",
+			"tag": ["R-400/230"]
+		},
+		{
+			"title": "RO-13.2",
+			"path": "./schematy/schematy230V/RO-13.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-13.2"]
+		},
+		{
+			"title": "RO-13.2/I",
+			"path": "./schematy/schematy230V/RO-13.2/I.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-13.2/I"]
+		},
+		{
+			"title": "RO-13.2/II",
+			"path": "./schematy/schematy230V/RO-13.2/II.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-13.2/II"]
+		},
+		{
+			"title": "RO-14.2",
+			"path": "./schematy/schematy230V/RO-14.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-14.2"]
+		},
+		{
+			"title": "RO-14.3",
+			"path": "./schematy/schematy230V/RO-14.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-14.3/II"]
+		},
+		{
+			"title": "RO-64",
+			"path": "./schematy/schematy230V/RO-64.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-64"]
+		},
+		{
+			"title": "3FIIIZA",
+			"path": "./schematy/schematy230V/3FIIIZA.dwg",
+			"description": "Oświetlenie",
+			"tag": ["3FIIIZA"]
+		},
+		{
+			"title": "IIIROF-1 i IIIROF-2",
+			"path": "./schematy/schematy230V/IIIROF-1 i IIIROF-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-1", "IIIROF-2", "IIIROF-2.1", "IIIROF-2.2", "IIIROF-2.3", "IIIROF-2.4", "IIIROF-1.1", "IIIROF-1.2", "IIIROF-1.3", "IIIROF-1.4"]
+		},
+		{
+			"title": "IIIROF-1.1",
+			"path": "./schematy/schematy230V/IIIROF-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-1.1"]
+		},
+		{
+			"title": "IIIROF-1.2",
+			"path": "./schematy/schematy230V/IIIROF-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-1.2"]
+		},
+		{
+			"title": "IIIROF-1.3",
+			"path": "./schematy/schematy230V/IIIROF-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-1.3"]
+		},
+		{
+			"title": "IIIROF-1.4",
+			"path": "./schematy/schematy230V/IIIROF-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-1.4"]
+		},
+		{
+			"title": "IIIROF-2.1",
+			"path": "./schematy/schematy230V/IIIROF-2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-2.1"]
+		},
+		{
+			"title": "IIIROF-2.2",
+			"path": "./schematy/schematy230V/IIIROF-2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-2.2"]
+		},
+		{
+			"title": "IIIROF-2.3",
+			"path": "./schematy/schematy230V/IIIROF-2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-2.3"]
+		},
+		{
+			"title": "IIIROF-2.4",
+			"path": "./schematy/schematy230V/IIIROF-2.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-2.4"]
+		},
+		{
+			"title": "IIIROF-4",
+			"path": "./schematy/schematy230V/IIIROF-4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-4", "RO-16.2", "RO-16.2/I", "RO-16.2/II"]
+		},
+		{
+			"title": "IIIROF-7",
+			"path": "./schematy/schematy230V/IIIROF-7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-7"]
+		},
+		{
+			"title": "IIIROF-8",
+			"path": "./schematy/schematy230V/IIIROF-8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-8"]
+		},
+		{
+			"title": "IIIROF-11.1",
+			"path": "./schematy/schematy230V/IIIROF-11.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-11.1"]
+		},
+		{
+			"title": "IIIROF-11.2",
+			"path": "./schematy/schematy230V/IIIROF-11.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-11.2"]
+		},
+		{
+			"title": "IIIROF-13",
+			"path": "./schematy/schematy230V/IIIROF-13.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROF-13"]
+		},
+		{
+			"title": "IIROF-51",
+			"path": "./schematy/schematy230V/IIROF-51.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-51", "IIROF-51.1"]
+		},
+		{
+			"title": "IIROF-51.1",
+			"path": "./schematy/schematy230V/IIROF-51.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-51.1", "IIROF-51.1.1"]
+		},
+		{
+			"title": "IIROF-51.1.1",
+			"path": "./schematy/schematy230V/IIROF-51.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIROF-51.1.1"]
+		},
+		{
+			"title": "RO-16.2",
+			"path": "./schematy/schematy230V/RO-16.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-16.2"]
+		},
+		{
+			"title": "RO-16.2/I",
+			"path": "./schematy/schematy230V/RO-16.2_I.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-16.2/I"]
+		},
+		{
+			"title": "RO-16.2/II",
+			"path": "./schematy/schematy230V/RO-16.2_II.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-16.2/II"]
+		},
+		{
+			"title": "RO-16.3",
+			"path": "./schematy/schematy230V/RO-16.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-16.3"]
+		},
+		{
+			"title": "RO-17.2/II",
+			"path": "./schematy/schematy230V/RO-17.2_II.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-17.2/II"]
+		},
+		{
+			"title": "IIIROM-1 i IIIROM-2",
+			"path": "./schematy/schematy230V/IIIROM-1 i IIIROM-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-1", "IIIROM-2", "IIIROM-2.1", "IIIROM-2.2", "IIIROM-2.3", "IIIROM-1.1", "IIIROM-1.2", "IIIROM-1.3", "IIIROM-1.4"]
+		},
+		{
+			"title": "IIIROM-1.1",
+			"path": "./schematy/schematy230V/IIIROM-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-1.1"]
+		},
+		{
+			"title": "IIIROM-1.2",
+			"path": "./schematy/schematy230V/IIIROM-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-1.2"]
+		},
+		{
+			"title": "IIIROM-1.3",
+			"path": "./schematy/schematy230V/IIIROM-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-1.3"]
+		},
+		{
+			"title": "IIIROM-1.4",
+			"path": "./schematy/schematy230V/IIIROM-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-1.4"]
+		},
+		{
+			"title": "IIIROM-2.1",
+			"path": "./schematy/schematy230V/IIIROM-2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-2.1"]
+		},
+		{
+			"title": "IIIROM-2.2",
+			"path": "./schematy/schematy230V/IIIROM-2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-2.2"]
+		},
+		{
+			"title": "IIIROM-2.3",
+			"path": "./schematy/schematy230V/IIIROM-2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-2.3"]
+		},
+		{
+			"title": "IIIROM-8",
+			"path": "./schematy/schematy230V/IIIROM-8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-8", "IIIROM-8.1", "IIIROM-8.2"]
+		},
+		{
+			"title": "IIIROM-8.1",
+			"path": "./schematy/schematy230V/IIIROM-8.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-8.1"]
+		},
+		{
+			"title": "IIIROM-8.2",
+			"path": "./schematy/schematy230V/IIIROM-8.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-8.2"]
+		},
+		{
+			"title": "IIIROM-9",
+			"path": "./schematy/schematy230V/IIIROM-9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9", "IIIROM-9.1", "IIIROM-9.2", "IIIROM-9.3", "IIIROM-9.4", "IIIROM-9.5"]
+		},
+		{
+			"title": "IIIROM-9.1",
+			"path": "./schematy/schematy230V/IIIROM-9.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.1"]
+		},
+		{
+			"title": "IIIROM-9.2",
+			"path": "./schematy/schematy230V/IIIROM-9.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.2"]
+		},
+		{
+			"title": "IIIROM-9.3",
+			"path": "./schematy/schematy230V/IIIROM-9.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.3", "IIIROM-9.3.1", "IIIROM-9.3.4", "IIIROM-9.3.5", "IIIROM-9.3.6", "IIIROM-9.3.7"]
+		},
+		{
+			"title": "IIIROM-9.3.1",
+			"path": "./schematy/schematy230V/IIIROM-9.3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.3.1"]
+		},
+		{
+			"title": "IIIROM-9.3.4",
+			"path": "./schematy/schematy230V/IIIROM-9.3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.3.4"]
+		},
+		{
+			"title": "IIIROM-9.3.5",
+			"path": "./schematy/schematy230V/IIIROM-9.3.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.3.5"]
+		},
+		{
+			"title": "IIIROM-9.3.6",
+			"path": "./schematy/schematy230V/IIIROM-9.3.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.3.6"]
+		},
+		{
+			"title": "IIIROM-9.3.7",
+			"path": "./schematy/schematy230V/IIIROM-9.3.7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.3.7"]
+		},
+		{
+			"title": "IIIROM-9.4",
+			"path": "./schematy/schematy230V/IIIROM-9.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.4"]
+		},
+		{
+			"title": "IIIROM-9.5",
+			"path": "./schematy/schematy230V/IIIROM-9.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-9.5"]
+		},
+		{
+			"title": "IIIROM-11",
+			"path": "./schematy/schematy230V/IIIROM-11.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-11", "IIIROM-11.1", "IIIROM-11.2"]
+		},
+		{
+			"title": "IIIROM-11.1",
+			"path": "./schematy/schematy230V/IIIROM-11.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-11.1"]
+		},
+		{
+			"title": "IIIROM-11.2",
+			"path": "./schematy/schematy230V/IIIROM-11.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-11.2", "IIIROM-11.2.3", "IIIROM-11.2.4", "IIIROM-11.2.5"]
+		},
+		{
+			"title": "IIIROM-11.2.3",
+			"path": "./schematy/schematy230V/IIIROM-11.2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-11.2.3"]
+		},
+		{
+			"title": "IIIROM-11.2.4",
+			"path": "./schematy/schematy230V/IIIROM-11.2.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-11.2.4"]
+		},
+		{
+			"title": "IIIROM-11.2.5",
+			"path": "./schematy/schematy230V/IIIROM-11.2.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-11.2.5"]
+		},
+		{
+			"title": "IIIROM-12",
+			"path": "./schematy/schematy230V/IIIROM-12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-12", "IIIROM-12.1", "IIIROM-12.2"]
+		},
+		{
+			"title": "IIIROM-12.1",
+			"path": "./schematy/schematy230V/IIIROM-12.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-12.1"]
+		},
+		{
+			"title": "IIIROM-12.2",
+			"path": "./schematy/schematy230V/IIIROM-12.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-12.2"]
+		},
+		{
+			"title": "IIIROM-13",
+			"path": "./schematy/schematy230V/IIIROM-13.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-13", "IIIROM-13.2"]
+		},
+		{
+			"title": "IIIROM-13.2",
+			"path": "./schematy/schematy230V/IIIROM-13.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-13.2"]
+		},
+		{
+			"title": "IIIROM-14",
+			"path": "./schematy/schematy230V/IIIROM-14.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-14"]
+		},
+		{
+			"title": "IIIROM-15",
+			"path": "./schematy/schematy230V/IIIROM-15.dwg",
+			"description": "Oświetlenie",
+			"tag": ["IIIROM-15"]
+		},
+		{
+			"title": "ROW-51",
+			"path": "./schematy/schematy230V/ROW-51.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROW-51"]
+		},
+		{
+			"title": "TW-wartownia",
+			"path": "./schematy/schematy230V/TW-wartownia.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TW-WARTOWNIA"]
+		},
+		{
+			"title": "ROP-1.3.2",
+			"path": "./schematy/schematy230V/ROP-1.3.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-1.3.2"]
+		},
+		{
+			"title": "ROP-1.3",
+			"path": "./schematy/schematy230V/ROP-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-1.3", "ROP-1.3.2"]
+		},
+		{
+			"title": "ROP-1.4",
+			"path": "./schematy/schematy230V/ROP-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-1.4", "TODO", "RB1", "RB2"]
+		},
+		{
+			"title": "ROP-1.6",
+			"path": "./schematy/schematy230V/ROP-1.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-1.6"]
+		},
+		{
+			"title": "ROP-1.6.2",
+			"path": "./schematy/schematy230V/ROP-1.6.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-1.6.2"]
+		},
+		{
+			"title": "ROP-1.12",
+			"path": "./schematy/schematy230V/ROP-1.12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-1.12"]
+		},
+		{
+			"title": "ROP-2",
+			"path": "./schematy/schematy230V/ROP-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-2"]
+		},
+		{
+			"title": "ROP-41.1",
+			"path": "./schematy/schematy230V/ROP-41.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-41.1"]
+		},
+		{
+			"title": "ROP-41.2",
+			"path": "./schematy/schematy230V/ROP-41.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-41.2"]
+		},
+		{
+			"title": "ROP-41.3",
+			"path": "./schematy/schematy230V/ROP-41.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-41.3"]
+		},
+		{
+			"title": "ROP-41.4",
+			"path": "./schematy/schematy230V/ROP-41.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROP-41.4"]
+		},
+		{
+			"title": "ZR-7",
+			"path": "./schematy/schematy230V/ZR-7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ZR-7"]
+		},
+		{
+			"title": "ROR-1",
+			"path": "./schematy/schematy230V/ROR-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1", "ROR-1.1", "ROR-1.2", "ROR-1.3", "ROR-1.4", "ROR-1.5", "ROR-1.6"]
+		},
+		{
+			"title": "ROR-1.1",
+			"path": "./schematy/schematy230V/ROR-1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1", "ROR-1.1.1", "ROR-1.1.4", "ROR-1.1.5", "ROR-1.1.6", "ROR-1.1.7", "ROR-1.1.8", "ROR-1.1.9"]
+		},
+		{
+			"title": "ROR-1.1.1",
+			"path": "./schematy/schematy230V/ROR-1.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.1"]
+		},
+		{
+			"title": "ROR-1.1.4",
+			"path": "./schematy/schematy230V/ROR-1.1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.4"]
+		},
+		{
+			"title": "ROR-1.1.5",
+			"path": "./schematy/schematy230V/ROR-1.1.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.5"]
+		},
+		{
+			"title": "ROR-1.1.6",
+			"path": "./schematy/schematy230V/ROR-1.1.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.6"]
+		},
+		{
+			"title": "ROR-1.1.7",
+			"path": "./schematy/schematy230V/ROR-1.1.7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.7"]
+		},
+		{
+			"title": "ROR-1.1.8",
+			"path": "./schematy/schematy230V/ROR-1.1.8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.8"]
+		},
+		{
+			"title": "ROR-1.1.9",
+			"path": "./schematy/schematy230V/ROR-1.1.9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.1.9"]
+		},
+		{
+			"title": "ROR-1.2",
+			"path": "./schematy/schematy230V/ROR-1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2", "ROR-1.2.1", "ROR-1.2.3", "ROR-1.2.5", "ROR-1.2.6", "ROR-1.2.8", "ROR-1.2.9"]
+		},
+		{
+			"title": "ROR-1.2.1",
+			"path": "./schematy/schematy230V/ROR-1.2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.1"]
+		},
+		{
+			"title": "ROR-1.2.3",
+			"path": "./schematy/schematy230V/ROR-1.2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.3"]
+		},
+		{
+			"title": "ROR-1.2.5",
+			"path": "./schematy/schematy230V/ROR-1.2.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.5"]
+		},
+		{
+			"title": "ROR-1.2.6",
+			"path": "./schematy/schematy230V/ROR-1.2.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.6"]
+		},
+		{
+			"title": "ROR-1.2.8",
+			"path": "./schematy/schematy230V/ROR-1.2.8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.8"]
+		},
+		{
+			"title": "ROR-1.2.9",
+			"path": "./schematy/schematy230V/ROR-1.2.9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.9"]
+		},
+		{
+			"title": "ROR-1.3",
+			"path": "./schematy/schematy230V/ROR-1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.3", "ROR-1.3.1", "ROR-1.3.2", "ROR-1.3.3", "ROR-1.3.4"]
+		},
+		{
+			"title": "ROR-1.3.1",
+			"path": "./schematy/schematy230V/ROR-1.3.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.3.1"]
+		},
+		{
+			"title": "ROR-1.3.2",
+			"path": "./schematy/schematy230V/ROR-1.3.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.3.2"]
+		},
+		{
+			"title": "ROR-1.3.3",
+			"path": "./schematy/schematy230V/ROR-1.3.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.3.3"]
+		},
+		{
+			"title": "ROR-1.3.4",
+			"path": "./schematy/schematy230V/ROR-1.3.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.3.4"]
+		},
+		{
+			"title": "ROR-1.4",
+			"path": "./schematy/schematy230V/ROR-1.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.4", "ROR-1.4.1", "ROR-1.4.2", "ROR-1.4.3", "ROR-1.4.4", "ROR-1.4.5"]
+		},
+		{
+			"title": "ROR-1.4.1",
+			"path": "./schematy/schematy230V/ROR-1.4.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.4.1"]
+		},
+		{
+			"title": "ROR-1.4.2",
+			"path": "./schematy/schematy230V/ROR-1.4.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.4.2"]
+		},
+		{
+			"title": "ROR-1.4.3",
+			"path": "./schematy/schematy230V/ROR-1.4.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.4.3"]
+		},
+		{
+			"title": "ROR-1.4.4",
+			"path": "./schematy/schematy230V/ROR-1.4.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.4.4"]
+		},
+		{
+			"title": "ROR-1.4.5",
+			"path": "./schematy/schematy230V/ROR-1.4.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.4.5"]
+		},
+		{
+			"title": "ROR-1.5",
+			"path": "./schematy/schematy230V/ROR-1.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.5", "ROR-1.5.1"]
+		},
+		{
+			"title": "ROR-1.5.1",
+			"path": "./schematy/schematy230V/ROR-1.5.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.5.1"]
+		},
+		{
+			"title": "ROR-1.6",
+			"path": "./schematy/schematy230V/ROR-1.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.6"]
+		},
+		{
+			"title": "ROR-2",
+			"path": "./schematy/schematy230V/ROR-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-2"]
+		},
+		{
+			"title": "ROR-9",
+			"path": "./schematy/schematy230V/ROR-9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-9", "ROR-9.1", "ROR-9.4"]
+		},
+		{
+			"title": "ROR-9.1",
+			"path": "./schematy/schematy230V/ROR-9.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-9.1"]
+		},
+		{
+			"title": "ROR-9.4",
+			"path": "./schematy/schematy230V/ROR-9.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-9.4"]
+		},
+		{
+			"title": "ROR-15",
+			"path": "./schematy/schematy230V/ROR-15.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15", "ROR-15.1", "ROR-15.2", "ROR-15.4"]
+		},
+		{
+			"title": "ROR-15.1",
+			"path": "./schematy/schematy230V/ROR-15.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15.1", "ROR-15.1.1"]
+		},
+		{
+			"title": "ROR-15.1.1",
+			"path": "./schematy/schematy230V/ROR-15.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15.1.1", "ROR-15.1.1.2"]
+		},
+		{
+			"title": "ROR-15.1.1.2",
+			"path": "./schematy/schematy230V/ROR-15.1.1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15.1.1.2"]
+		},
+		{
+			"title": "ROR-15.2",
+			"path": "./schematy/schematy230V/ROR-15.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15.2", "ROR-15.2.1"]
+		},
+		{
+			"title": "ROR-15.2.1",
+			"path": "./schematy/schematy230V/ROR-15.2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15.2.1"]
+		},
+		{
+			"title": "ROR-15.4",
+			"path": "./schematy/schematy230V/ROR-15.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-15.4"]
+		},
+		{
+			"title": "ROR-16",
+			"path": "./schematy/schematy230V/ROR-16.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-16", "ROR-16.1"]
+		},
+		{
+			"title": "ROR-16.1",
+			"path": "./schematy/schematy230V/ROR-16.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-16.1", "ROR-16.1.1", "ROR-16.1.2", "ROR-16.1.3"]
+		},
+		{
+			"title": "ROR-16.1.1",
+			"path": "./schematy/schematy230V/ROR-16.1.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-16.1.1"]
+		},
+		{
+			"title": "ROR-16.1.2",
+			"path": "./schematy/schematy230V/ROR-16.1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-16.1.2"]
+		},
+		{
+			"title": "ROR-16.1.3",
+			"path": "./schematy/schematy230V/ROR-16.1.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-16.1.3"]
+		},
+		{
+			"title": "ROR-17",
+			"path": "./schematy/schematy230V/ROR-17.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-17"]
+		},
+		{
+			"title": "ROR-18",
+			"path": "./schematy/schematy230V/ROR-18.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-18", "ROR-18.3", "ROR-18.4"]
+		},
+		{
+			"title": "ROR-18.3",
+			"path": "./schematy/schematy230V/ROR-18.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-18.3"]
+		},
+		{
+			"title": "ROR-18.4",
+			"path": "./schematy/schematy230V/ROR-18.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-18.4", "ROR-18.4.1.2"]
+		},
+		{
+			"title": "ROR-18.4.1.2",
+			"path": "./schematy/schematy230V/ROR-18.4.1.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-18.4.1.2"]
+		},
+		{
+			"title": "TEAM",
+			"path": "./schematy/schematy230V/TEAM.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TEAM", "RO-1", "RS-1"]
+		},
+		{
+			"title": "RO-1",
+			"path": "./schematy/schematy230V/RO-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RO-1"]
+		},
+		{
+			"title": "RS-1",
+			"path": "./schematy/schematy230V/RS-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["RS-1"]
+		},
+		{
+			"title": "ROG-WR",
+			"path": "./schematy/schematy230V/ROG-WR.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROG-WR", "RW", "TR1", "TR2", "TO"]
+		},
+		{
+			"title": "TO",
+			"path": "./schematy/schematy230V/TO.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TO"]
+		},
+		{
+			"title": "TR1",
+			"path": "./schematy/schematy230V/TR1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TR1"]
+		},
+		{
+			"title": "TR2",
+			"path": "./schematy/schematy230V/TR2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["TR2"]
+		},
+		{
+			"title": "ROR-1.2.11",
+			"path": "./schematy/schematy230V/ROR-1.2.11.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11", "ROR-1.2.11.1", "ROR-1.2.11.2", "ROR-1.2.11.3", "ROR-1.2.11.4", "ROR-1.2.11.5", "ROR-1.2.11.6"]
+		},
+		{
+			"title": "ROR-1.2.11.1",
+			"path": "./schematy/schematy230V/ROR-1.2.11.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11.1"]
+		},
+		{
+			"title": "ROR-1.2.11.2",
+			"path": "./schematy/schematy230V/ROR-1.2.11.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11.2"]
+		},
+		{
+			"title": "ROR-1.2.11.3",
+			"path": "./schematy/schematy230V/ROR-1.2.11.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11.3"]
+		},
+		{
+			"title": "ROR-1.2.11.4",
+			"path": "./schematy/schematy230V/ROR-1.2.11.4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11.4"]
+		},
+		{
+			"title": "ROR-1.2.11.5",
+			"path": "./schematy/schematy230V/ROR-1.2.11.5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11.5"]
+		},
+		{
+			"title": "ROR-1.2.11.6",
+			"path": "./schematy/schematy230V/ROR-1.2.11.6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROR-1.2.11.6"]
+		},
+		{
+			"title": "ROS-1",
+			"path": "./schematy/schematy230V/ROS-1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-1"]
+		},
+		{
+			"title": "ROS-2",
+			"path": "./schematy/schematy230V/ROS-2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-2"]
+		},
+		{
+			"title": "ROS-3",
+			"path": "./schematy/schematy230V/ROS-3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-3"]
+		},
+		{
+			"title": "ROS-4",
+			"path": "./schematy/schematy230V/ROS-4.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-4"]
+		},
+		{
+			"title": "ROS-5",
+			"path": "./schematy/schematy230V/ROS-5.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-5"]
+		},
+		{
+			"title": "ROS-6",
+			"path": "./schematy/schematy230V/ROS-6.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-6"]
+		},
+		{
+			"title": "ROS-7",
+			"path": "./schematy/schematy230V/ROS-7.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-7"]
+		},
+		{
+			"title": "ROS-8",
+			"path": "./schematy/schematy230V/ROS-8.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-8"]
+		},
+		{
+			"title": "ROS-9",
+			"path": "./schematy/schematy230V/ROS-9.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-9"]
+		},
+		{
+			"title": "ROS-10",
+			"path": "./schematy/schematy230V/ROS-10.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-10"]
+		},
+		{
+			"title": "ROS-11",
+			"path": "./schematy/schematy230V/ROS-11.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-11"]
+		},
+		{
+			"title": "ROS-12",
+			"path": "./schematy/schematy230V/ROS-12.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-12"]
+		},
+		{
+			"title": "ROS-13",
+			"path": "./schematy/schematy230V/ROS-13.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-13"]
+		},
+		{
+			"title": "ROS-14",
+			"path": "./schematy/schematy230V/ROS-14.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-14"]
+		},
+		{
+			"title": "ROS-14.1",
+			"path": "./schematy/schematy230V/ROS-14.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-14.1"]
+		},
+		{
+			"title": "ROS-15",
+			"path": "./schematy/schematy230V/ROS-15.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-15"]
+		},
+		{
+			"title": "ROS-16",
+			"path": "./schematy/schematy230V/ROS-16.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-16", "ROS-16.1", "ROS-16.2"]
+		},
+		{
+			"title": "ROS-16.1",
+			"path": "./schematy/schematy230V/ROS-16.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-16.1"]
+		},
+		{
+			"title": "ROS-16.2",
+			"path": "./schematy/schematy230V/ROS-16.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-16.2", "ROS-16.2.1", "ROS-16.2.2", "ROS-16.2.3"]
+		},
+		{
+			"title": "ROS-16.2.1",
+			"path": "./schematy/schematy230V/ROS-16.2.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-16.2.1"]
+		},
+		{
+			"title": "ROS-16.2.2",
+			"path": "./schematy/schematy230V/ROS-16.2.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-16.2.2"]
+		},
+		{
+			"title": "ROS-16.2.3",
+			"path": "./schematy/schematy230V/ROS-16.2.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-16.2.3"]
+		},
+		{
+			"title": "ROS-17",
+			"path": "./schematy/schematy230V/ROS-17.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-17", "ROS-17.1", "ROS-17.3", "ROS-17.2"]
+		},
+		{
+			"title": "ROS-17.1",
+			"path": "./schematy/schematy230V/ROS-17.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-17.1"]
+		},
+		{
+			"title": "ROS-17.2",
+			"path": "./schematy/schematy230V/ROS-17.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-17.2"]
+		},
+		{
+			"title": "ROS-17.3",
+			"path": "./schematy/schematy230V/ROS-17.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-17.3"]
+		},
+		{
+			"title": "ROS-21",
+			"path": "./schematy/schematy230V/ROS-21.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-21"]
+		},
+		{
+			"title": "ROS-22",
+			"path": "./schematy/schematy230V/ROS-22.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-22"]
+		},
+		{
+			"title": "ROS-23",
+			"path": "./schematy/schematy230V/ROS-23.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-23"]
+		},
+		{
+			"title": "ROS-24",
+			"path": "./schematy/schematy230V/ROS-24.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-24"]
+		},
+		{
+			"title": "ROS-25",
+			"path": "./schematy/schematy230V/ROS-25.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-25"]
+		},
+		{
+			"title": "ROS-26",
+			"path": "./schematy/schematy230V/ROS-26.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-26"]
+		},
+		{
+			"title": "ROS-27",
+			"path": "./schematy/schematy230V/ROS-27.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-27"]
+		},
+		{
+			"title": "ROS-28",
+			"path": "./schematy/schematy230V/ROS-28.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-28"]
+		},
+		{
+			"title": "ROS-29",
+			"path": "./schematy/schematy230V/ROS-29.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-29"]
+		},
+		{
+			"title": "ROS-30",
+			"path": "./schematy/schematy230V/ROS-30.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-30"]
+		},
+		{
+			"title": "ROS-31",
+			"path": "./schematy/schematy230V/ROS-31.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-31"]
+		},
+		{
+			"title": "ROS-32",
+			"path": "./schematy/schematy230V/ROS-32.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-32", "ROS-32.1", "ROS-32.2", "ROS-32.3"]
+		},
+		{
+			"title": "ROS-32.1",
+			"path": "./schematy/schematy230V/ROS-32.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-32.1"]
+		},
+		{
+			"title": "ROS-32.2",
+			"path": "./schematy/schematy230V/ROS-32.2.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-32.2"]
+		},
+		{
+			"title": "ROS-32.3",
+			"path": "./schematy/schematy230V/ROS-32.3.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-32.3"]
+		},
+		{
+			"title": "ROS-33",
+			"path": "./schematy/schematy230V/ROS-33.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-33", "ROS-33.1"]
+		},
+		{
+			"title": "ROS-33.1",
+			"path": "./schematy/schematy230V/ROS-33.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-33.1"]
+		},
+		{
+			"title": "ROS-34",
+			"path": "./schematy/schematy230V/ROS-34.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-34", "ROS-34.1"]
+		},
+		{
+			"title": "ROS-34.1",
+			"path": "./schematy/schematy230V/ROS-34.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-34.1"]
+		},
+		{
+			"title": "ROS-35",
+			"path": "./schematy/schematy230V/ROS-35.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-35"]
+		},
+		{
+			"title": "ROS-36",
+			"path": "./schematy/schematy230V/ROS-36.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-36"]
+		},
+		{
+			"title": "ROS-37",
+			"path": "./schematy/schematy230V/ROS-37.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-37", "ROS-37.1"]
+		},
+		{
+			"title": "ROS-37.1",
+			"path": "./schematy/schematy230V/ROS-37.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-37.1"]
+		},
+		{
+			"title": "ROS-38",
+			"path": "./schematy/schematy230V/ROS-38.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-38", "ROS-38.1"]
+		},
+		{
+			"title": "ROS-38.1",
+			"path": "./schematy/schematy230V/ROS-38.1.dwg",
+			"description": "Oświetlenie",
+			"tag": ["ROS-38.1"]
+		},
+		{
+			"title": "ISPWF",
+			"path": "./schematy/schematy230V/ISPWF.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["ISPWF", "MF-141", "PF-161A", "MF-161", "SZR", "RPW-11.2", "RPW-12.2", "RPW-12.2/I", "RNN-11.2/I", "RZF-121", "PF-12", "PF-122A", "FIZA", "MF-111",
+					"MF-123", "MF-121", "DD-123", "DD-122", "PF-121C", "PF-121D", "PF-141B", "PF-151A", "PF-190A", "RDS-111", "RDS-123", "RDS-121", "MF-151", "DD-141"]
+		},
+		{
+			"title": "RMW-PW",
+			"path": "./schematy/schematy230V/RMW-PW.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RMW-PW", "IRF-3.2", "SM-5", "DW-2", "PUW-2"]
+		},
+		{
+			"title": "FIZA",
+			"path": "./schematy/schematy230V/FIZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["FIZA"]
+		},
+		{
+			"title": "RPW-11.2",
+			"path": "./schematy/schematy230V/RPW-11.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-11.2", "R-11.2"]
+		},
+		{
+			"title": "RPW-12.2",
+			"path": "./schematy/schematy230V/RPW-12.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-12.2", "R-12.2"]
+		},
+		{
+			"title": "RPW-11.3",
+			"path": "./schematy/schematy230V/RPW-11.3.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-11.3", "RZF-111", "ZF-121", "RACK", "ZF-111", "SM-9", "SM-11", "ISKZ-1", "ISKZ-2", "ISKZ-3", "SM-1", "ISPWM-1.2", "ISPWM-1.1"]
+		},
+		{
+			"title": "RPW-12.2/I",
+			"path": "./schematy/schematy230V/RPW-12.2_I.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-12.2/I", "RNN-12.2/I", "MF-112", "MF-122", "MF-143", "DD-111", "DD-121", "PF-121A", "PF-121B", "PF-141A", "PF-151B", "PF-190B", "RDS-112",
+					"RDS-122", "MF-142", "MF-152", "DD-151", "PF-161B", "PF-122B"]
+		},
+		{
+			"title": "SSSP",
+			"path": "./schematy/schematy230V/SSSP.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["SSSP", "SM-11"]
+		},
+		{
+			"title": "IISPWF",
+			"path": "./schematy/schematy230V/IISPWF.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IISPWF", "RPW-13.2", "RPW-13.2/I", "RPW-13.2/II", "RPW-14.2", "RPW-14.2/II", "RPW-64", "SSSP", "MF-224", "MF-223", "R-13.2", "RZF-221", "R-14.2", "MF-221",
+					"MF-222", "PF-251B", "PF-251A", "PF-261B", "PF-261A", "DD-211", "DD-251", "IIRF-52"]
+		},
+		{
+			"title": "FIIZA",
+			"path": "./schematy/schematy230V/FIIZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["FIIZA"]
+		},
+		{
+			"title": "RPW-13.2",
+			"path": "./schematy/schematy230V/RPW-13.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-13.2", "R-13.2"]
+		},
+		{
+			"title": "RPW-14.2",
+			"path": "./schematy/schematy230V/RPW-14.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-14.2", "R-14.2"]
+		},
+		{
+			"title": "RPW-13.2/I",
+			"path": "./schematy/schematy230V/RPW-13.2_I.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-13.2/I", "RDS-212", "SM-13", "RNN-13.2/I", "MF-241", "MF-211", "MF-242", "MF-243"]
+		},
+		{
+			"title": "RPW-13.2/II",
+			"path": "./schematy/schematy230V/RPW-13.2_II.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-13.2/II", "PF-21", "IIRF-22", "RNN-13.2/II", "MF-252", "DD-223", "DD-224"]
+		},
+		{
+			"title": "RPW-14.2/II",
+			"path": "./schematy/schematy230V/RPW-14.2_II.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-14.2/II", "RNN-14.2/II", "DD-221", "DD-222", "PF-221D", "PF-221B", "MF-251", "MF-212", "PF-22", "MF-262"]
+		},
+		{
+			"title": "RPW-14.3",
+			"path": "./schematy/schematy230V/RPW-14.3.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-14.3", "RACK"]
+		},
+		{
+			"title": "RPW-64",
+			"path": "./schematy/schematy230V/RPW-64.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-64", "DD-241", "PF-241B", "PF-241A", "PF-222B", "PF-222A", "PF-290A", "PF-290B", "DD-251"]
+		},
+		{
+			"title": "IIISPWF",
+			"path": "./schematy/schematy230V/IIISPWF.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IIISPWF", "RPW-16.2", "RPW-16.2/II", "RPW-17.2", "RPW-17/II", "RNN-16.2/I", "MF-323", "MF-322", "MF-321", "PF-321A", "PF-321C", "DD-321", "DD-322",
+					"DD-323", "IIIRF-4", "RDS-321"]
+		},
+		{
+			"title": "FIIIZA i 2FIIIZA",
+			"path": "./schematy/schematy230V/FIIIZA i 2FIIIZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["FIIIZA i 2FIIIZA", "FIIIZA", "2FIIIZA"]
+		},
+		{
+			"title": "RPW-16.2",
+			"path": "./schematy/schematy230V/RPW-16.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-16.2", "R-16.2"]
+		},
+		{
+			"title": "RPW-16.2/II",
+			"path": "./schematy/schematy230V/RPW-16.2_II.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-16.2/II", "RNN-16.2/II", "MF-324", "MF-311", "MF-312", "PF-321B", "PF-321D", "DD-324", "DD-311", "RDS-324", "RDS-312", "RDS-311"]
+		},
+		{
+			"title": "RPW-16.3",
+			"path": "./schematy/schematy230V/RPW-16.3.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-16.3", "FIIIZA", "IIIROM-15", "IIIROM-14", "IIIROM-1.4", "SM-11", "SM-12"]
+		},
+		{
+			"title": "RPW-17.2",
+			"path": "./schematy/schematy230V/RPW-17.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-17.2", "R-17.2"]
+		},
+		{
+			"title": "RPW-17.2/II",
+			"path": "./schematy/schematy230V/RPW-17.2_II.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-17.2/II", "RNN-17.2/II", "PF-322A", "PF-341B", "PF-322B", "DD-341", "DD-351", "SM-10", "ZF-352", "PF-351B", "PF-361B", "PF-390B",
+					"PF-390A", "PF-31A", "PF-32", "PF-33"]
+		},
+		{
+			"title": "RMF-PW",
+			"path": "./schematy/schematy230V/RMF-PW.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RMF-PW", "RNN-10.1", "RMF", "RMW-PW", "DD-181", "PF-181A", "PF-181B", "RMK-PW", "PZO-1", "PZO-2", "SM-13", "RN-1.1", "RN-1.2", "RN-1.3", "RN-2.1",
+					"RN-2.2", "RN-2.3", "ZKR-2"]
+		},
+		{
+			"title": "RMK-PW",
+			"path": "./schematy/schematy230V/RMK-PW.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RMK-PW", "RMK", "PUK-4", "PDK-6", "PUK-5", "PDK-7"]
+		},
+		{
+			"title": "ISPWM-1.1",
+			"path": "./schematy/schematy230V/ISPWM-1.1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["ISPWM-1.1", "IRM-7", "IRM-8", "IRM-12", "IRM-14", "PM-121B", "PM-111B", "PM-113A", "R-11.1", "IRM-3.3", "SM-6", "RNN-11.1"]
+		},
+		{
+			"title": "ISPWM-1.2",
+			"path": "./schematy/schematy230V/ISPWM-1.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["ISPWM-1.2", "S-131", "IRM-11", "IRM-13", "IRM-9", "PM-113B", "R-12.1", "IRM-6"]
+		},
+		{
+			"title": "ISPWM-11",
+			"path": "./schematy/schematy230V/ISPWM-11.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["ISPWM-11", "R-11", "SM-11"]
+		},
+		{
+			"title": "ISPWM-12",
+			"path": "./schematy/schematy230V/ISPWM-12.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["ISPWM-12", "R-12", "SM-12"]
+		},
+		{
+			"title": "M1ZA",
+			"path": "./schematy/schematy230V/M1ZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["M1ZA"]
+		},
+		{
+			"title": "RSS-1",
+			"path": "./schematy/schematy230V/RSS-1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RSS-1", "MK-111", "MK-112", "MD-123", "MK-131", "MK-132", "MK-121", "MD-113", "KS-101", "MK-122", "MD-143", "MD-133"]
+		},
+		{
+			"title": "2MIIZA",
+			"path": "./schematy/schematy230V/2MIIZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["2MIIZA"]
+		},
+		{
+			"title": "IISPWM-1.1",
+			"path": "./schematy/schematy230V/IISPWM-1.1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IISPWM-1.1", "R-13.1", "RNN-13.1", "IIRM-3", "IIRM-4", "SM-221", "PM-213C", "PM-231A", "PM-211A", "PM-211B", "PM-231B", "PULSATOR", "PM-221B", "SB-5"]
+		},
+		{
+			"title": "IISPWM-1.2",
+			"path": "./schematy/schematy230V/IISPWM-1.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IISPWM-1.2", "IIRM-5", "IIRM-6", "RNN-14.1", "R-14.1", "IIRM-2", "SM-7", "IIRM-9"]
+		},
+		{
+			"title": "IISPWM-1",
+			"path": "./schematy/schematy230V/IISPWM-1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IISPWM-1", "MK-211", "MK-212", "MK-221", "MK-222", "MK-231", "MK-232", "MD-213", "MD-223", "MD-233", "MD-243", "IISPWM-1.1", "IISPWM-1.2", "KS-102", "IRM-52",
+					"IRM-53", "2MIIZA", "IRF-51", "R-15", "SM-2", "SRMB5", "SRMB6", "SRMB7", "SRMB8", "SRMB9"]
+		},
+		{
+			"title": "M2ZA",
+			"path": "./schematy/schematy230V/M2ZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["M2ZA"]
+		},
+		{
+			"title": "IIIRGM",
+			"path": "./schematy/schematy230V/IIIRGM.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IIIRGM", "MK-323", "MK-321", "ROZDZIELNIA GRZAŁEK MŁYNOWNI", "GRZAŁKI"]
+		},
+		{
+			"title": "IIISPWM-1",
+			"path": "./schematy/schematy230V/IIISPWM-1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["IIISPWM-1", "MK-311", "MK-321", "MK-331", "MK-341", "MD-313", "MD-333", "R-16", "R-17", "R-4.3", "KS-301", "MD-323", "IIIRF-5", "RPW-17.1", "RPW-16.1", "SM-3",
+					"SRMB1", "SRMB2", "SRMB3", "SCO"]
+		},
+		{
+			"title": "M3ZA",
+			"path": "./schematy/schematy230V/M3ZA.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["M3ZA"]
+		},
+		{
+			"title": "RPW-16.1",
+			"path": "./schematy/schematy230V/RPW-16.1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-16.1", "RNN-16.1", "RNN-16.1/I", "RNN-16.1/II", "R-16.1", "R-17.1", "PM-313A"]
+		},
+		{
+			"title": "RPW-17.1",
+			"path": "./schematy/schematy230V/RPW-17.1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-17.1", "RNN-17.1", "RNN-17.1/I", "RNN-17.1/II", "SM-8.1", "R-17.1", "SM-8", "IIIRM-3", "PM-311A", "PM-331C", "PM-313B"]
+		},
+		{
+			"title": "RPW-4.3",
+			"path": "./schematy/schematy230V/RPW-4.3.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPW-4.3", "PWD-31A", "PWD-31B", "PWD-31C", "PWD-31D", "PWM-21", "SM-9", "PWM-31", "PWM-11", "R-4.3", "RNN-4.3"]
+		},
+		{
+			"title": "Mapa wysp CONVIS",
+			"path": "./schematy/schematy230V/Mapa wysp CONVIS.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["CONVIS"]
+		},
+		{
+			"title": "RPS-3.3",
+			"path": "./schematy/schematy230V/RPS-3.3.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["RPS-3.3", "R-3.3", "SM-3.3"]
+		},
+		{
+			"title": "SPWR",
+			"path": "./schematy/schematy230V/SPWR.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["SPWR", "RPS-3.3", "IIRNN-3.3", "IRNN-3.3", "RPWR-1.2", "T-1", "T-2", "SS1", "SS2A", "SS2B", "SS3", "SS4", "SS5", "RR-10", "E-1", "RR-15"]
+		},
+		{
+			"title": "SPWR-1.2",
+			"path": "./schematy/schematy230V/SPWR-1.2.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["SPWR-1.2", "KOŁ-1", "KOŁ-2"]
+		},
+		{
+			"title": "SPWS-1",
+			"path": "./schematy/schematy230V/SPWS-1.dwg",
+			"description": "Szafa potrzeb wlasnych",
+			"tag": ["SPWS-1", "R-3.2", "RS-1", "RS-1.1.1", "F-4", "IRNN-3.2", "RS-1.1", "RUCS", "SPWS-1.1", "RS-8", "RS-15", "RZK-1", "RS-2", "RS-2.1", "F-3", "RS-5", "PS-14A",
+					"PS-14B", "RS-13", "POS-1", "RS-3", "RS-3.1", "SM-12", "RS-6", "RS-12", "F-2", "ZW-1", "IIRNN-3.2", "RS-4", "RS-4.1.1", "F-1", "RS-4.1", "IRNN-3.2", "SS-10",
+					"SS-11", "SSP", "WIS-4", "RSPZ", "CHS-3", "CHS-4"]
+		}
+	],
+	"sterowanie":[{
+			"title": "PUO-1B, PUO-1A i PDS-2",
+			"path": "./schematy/sterowanie/(8) [CP-257 E-PWO] Siła i sterow. pomp PWO-1, PWO-2 i PDS-2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PUO-1B", "PUO-1A", "PDS-2"]
+		},
+		{
+			"title": "PF-102",
+			"path": "./schematy/sterowanie/(11) [rys.370]  Sterow. pompy  PF -102.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-102"]
+		},
+		{
+			"title": "SF-5",
+			"path": "./schematy/sterowanie/(14) (rys.   ) Ster. i zabezp. sprężarki VPF-2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SF-5"]
+		},
+		{
+			"title": "Brama BF-2",
+			"path": "./schematy/sterowanie/(20) [rys.404]  Zasil. i ster. bramy BF-2  typu HT-40  Butzbach.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["BF-2", "BRAMA", "FLOTACJA", "IIETAP"]
+		},
+		{
+			"title": "System alarmowy zalania rząpia PUO-1B i 2",
+			"path": "./schematy/sterowanie/(22) [rys.415 ] Sygnal.alarmowa zalania rząpia pomp PWO-1,2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PUO-1B", "PUO-1A"]
+		},
+		{
+			"title": "PF-101",
+			"path": "./schematy/sterowanie/(23) [rys.399] Sterowanie pompy PF-101.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-101"]
+		},
+		{
+			"title": "PUS-2",
+			"path": "./schematy/sterowanie/28) [  Sterow. pompy PUS-2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PUS-2"]
+		},
+		{
+			"title": "Pole liniowe R-16 i R-17",
+			"path": "./schematy/sterowanie/(31) [rys. 403] Pole liniowe  RWN-16 i RWN-17 p.5,6,16,17.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16", "R-17"]
+		},
+		{
+			"title": "Pole zasilające R-16",
+			"path": "./schematy/sterowanie/(33a) [rys.359A] Pole zasilające RWN-16  p.10.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16"]
+		},
+		{
+			"title": "Pole pomiarowe R-17",
+			"path": "./schematy/sterowanie/(20) [rys.295] Pole pomiar. RWN-17.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17"]
+		},
+		{
+			"title": "Pole sprzęgłowe R-16 i R-17",
+			"path": "./schematy/sterowanie/(25) [rys.34] Pole sprzęgłowe RWN-16 i 17.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17", "R-16"]
+		},
+		{
+			"title": "Pole transformatorowe R-16 i R-17",
+			"path": "./schematy/sterowanie/(34) [rys.361] Pole transformatorowe  RWN-16 i 17.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17", "R-16"]
+		},
+		{
+			"title": "Pole liniowe R-17",
+			"path": "./schematy/sterowanie/[rys.360] Pole liniowe  RWN-17 p.5,16,.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-17"]
+		},
+		{
+			"title": "Pole pomiarowe R-16",
+			"path": "./schematy/sterowanie/(32) [rys.295] Pole pomiar. RWN-16  p.9, 14.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16"]
+		},
+		{
+			"title": "Sterowanie oświetleniem  IIIet. młynowni",
+			"path": "./schematy/sterowanie/Sterow. oświetleniem  IIIet. młynowni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["OŚWIETLENIE", "STEROWANIE", "MŁYNOWNIA", "IIIETAP"]
+		},
+		{
+			"title": "Sterowanie nagrzewnic w szatni IIIet. młynowni",
+			"path": "./schematy/sterowanie/Sterow. nagrzewnic w szatni UMP IIIet. młynowni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["STEROWANIE", "MŁYNOWNIA", "IIIETAP", "NAGRZEWNICE", "SZATNIA"]
+		},
+		{
+			"title": "Sterowanie i sygnalizacja nagrzewnic oraz grzałek w szatni IIIet. młynowni",
+			"path": "./schematy/sterowanie/Ster. i sygn.grzalek i nagrzewnicy w łaźni UEP (IIIROM-9.4).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["STEROWANIE", "MŁYNOWNIA", "IIIETAP", "NAGRZEWNICE", "SZATNIA", "GRZAŁKI", "SYGNALIZACJA", "IIIROM-9.4"]
+		},
+		{
+			"title": "Pole zasilające R-16 i R-17",
+			"path": "./schematy/sterowanie/(33) [rys.359] Pole zasilające RWN-16  p.13  i  RWN-17 p.9,12.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-16", "R-17"]
+		},
+		{
+			"title": "Schemat sygnalizacji i zazbrojenia KS-301",
+			"path": "./schematy/sterowanie/(27) [rys.304] Schem. sygnal. i zazbroj. kompensatora  synchron. KS-301.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SYGNALIZACJA", "KS-301"]
+		},
+		{
+			"title": "Schemat sterowania i zabezpieczeń KS-301",
+			"path": "./schematy/sterowanie/(26) [rys.303] Sterow. i zabezp. kompensatora  synchron. KS-301.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["KS-301"]
+		},
+		{
+			"title": "Schemat pomiarów zabezpieczeń i wzbudzenia KS-301",
+			"path": "./schematy/sterowanie/(19) [rys.191]  Obw. pomiar. zabezpiecz. i wzbudz. KS-301.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["KS-301"]
+		},
+		{
+			"title": "Sterowanie i sygnalizacja grzałek i nagrzewnic",
+			"path": "./schematy/sterowanie/Ster. i sygn.grzalek i nagrzewnicy w łaźni dozoru TEP (IIIROM-12.1).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IIIROM-12.1"]
+		},
+		{
+			"title": "Sterowanie pomp PF-341A, 341C, 351A, 361A",
+			"path": "./schematy/sterowanie/(9) [22-2006-IE] Ster pomp flot. PF-331,333,342,352 - aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-341A", "PF-341C", "PF-351A", "PF-361A"]
+		},
+		{
+			"title": "Sterowanie pompką odwadniającą flotacji",
+			"path": "./schematy/sterowanie/Sterowanie pompką odwadniającą flotacji.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["FLOTACJA", "POMPKA", "ODWADNIAJĄCA"]
+		},
+		{
+			"title": "Schem. sterow.- montaż. kompres. KP-3, KP-4",
+			"path": "./schematy/sterowanie/(17) [rys.205] Schem. sterow.- montaż. kompres. KP-3, KP-4.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["KP-3", "KP-4"]
+		},
+		{
+			"title": "Sterow. oświetleniem  IIIet. flotacji",
+			"path": "./schematy/sterowanie/Sterow. oświetleniem  IIIet. flotacji.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["OŚWIETLENIE", "FLOTACJA", "IIIETAP", "STEROWANIE"]
+		},
+		{
+			"title": "Sterowanie PF-321C",
+			"path": "./schematy/sterowanie/Sterow. PF-303.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-321C"]
+		},
+		{
+			"title": "Sterowanie PF-321D",
+			"path": "./schematy/sterowanie/Sterow. PF-304.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-321D"]
+		},
+		{
+			"title": "Sterowanie MF-361",
+			"path": "./schematy/sterowanie/Sterowanie MF-351.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-361"]
+		},
+		{
+			"title": "Monitoring KS-301, KS-302, MK-331 i 341",
+			"path": "./schematy/sterowanie/Monitoring KS-301, KS-302, MK-331 i 341 -aktualizacja/",
+			"description": "Schemat sterowniczy",
+			"tag": ["MONITORING", "KS-301", "KS-302", "MK-331", "MK-341"]
+		},
+		{
+			"title": "Sterowanie MF-312",
+			"path": "./schematy/sterowanie/Sterow. MF-311.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-312"]
+		},
+		{
+			"title": "Sterowanie MF-322",
+			"path": "./schematy/sterowanie/CP 202 E322_01_02 RYSUNKI.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-322"]
+		},
+		{
+			"title": "Sterowanie DD-322",
+			"path": "./schematy/sterowanie/CP 202 E322_01_02 RYSUNKI DP-322.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["DD-322"]
+		},
+		{
+			"title": "Sterowanie DD-311",
+			"path": "./schematy/sterowanie/Sterow. DP-311.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["DD-311"]
+		},
+		{
+			"title": "Sterowanie PF-351B i PF-351A",
+			"path": "./schematy/sterowanie/(37) 22-2006IE Sterow. PF-341,(342) -popraw/",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-351A", "PF-351B"]
+		},
+		{
+			"title": "Sterowanie MF-352",
+			"path": "./schematy/sterowanie/Poprawki dla MF-341 Budmax/",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-352"]
+		},
+		{
+			"title": "Sterowanie MF-342",
+			"path": "./schematy/sterowanie/Poprawki dla MF-331 Budmax/",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-342"]
+		},
+		{
+			"title": "Sterowanie PF-351A, PF-322B, PF-322A, PF-361B i PF-390B",
+			"path": "./schematy/sterowanie/PF-341,301A,301B,351,361/",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-351A", "PF-322B", "PF-322A", "PF-361B", "PF-390B"]
+		},
+		{
+			"title": "Sterowanie DD-241",
+			"path": "./schematy/sterowanie/(27) [CP-202 E231_232-205]   Dmuchawa DP-231.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["DD-241"]
+		},
+		{
+			"title": "Sterowanie urządzeń IIRF-22",
+			"path": "./schematy/sterowanie/(30.) [rys.417] Sterowanie pomp PW-6, 7, PF-22B  (IIRF-22).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IIRF-22", "PWF-22A", "PWF-22B"]
+		},
+		{
+			"title": "Sterowanie wyławiacza miazgi drzewnej",
+			"path": "./schematy/sterowanie/(3)  Schem.połączeń sterowniczych  do wyławiacza WMD-261.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WMD-261", "WYŁAWIACZ", "MIAZGI", "DRZEWNEJ", "WYŁAWIACZ MIAZGI DRZEWNEJ"]
+		},
+		{
+			"title": "Sterowanie VOF-2 i VF-5",
+			"path": "./schematy/sterowanie/(22) [CP-202 E242-212] Sterow. wentylatorów VOF-2 i VF-5.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["VOF-2", "VF-5", "WENTYLATOR"]
+		},
+		{
+			"title": "Sygnalizacja niskiego ciśnienia wody na chłodnie",
+			"path": "./schematy/sterowanie/(10) [rys.393] Sygnalizacja niskiego ciśnienia wody na chłodnie.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["CHŁODNIE"]
+		},
+		{
+			"title": "Sterowanie PF-221A",
+			"path": "./schematy/sterowanie/(11a) [16-2008-IE1.1]  Ster. soft-startem  PF-202 i PF-204 - aktualny/",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-221A"]
+		},
+		{
+			"title": "Sterowanie MF-212",
+			"path": "./schematy/sterowanie/MF-211.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-212"]
+		},
+		{
+			"title": "Sterowanie MF-221 i MF-222",
+			"path": "./schematy/sterowanie/(25) [16-2008-IE1.1]  Ster. maszyny MF-223 (224)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-222", "MF-221"]
+		},
+		{
+			"title": "Sterowanie DD-251",
+			"path": "./schematy/sterowanie/Sterow.dmuchawy DP-241.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["DD-251"]
+		},
+		{
+			"title": "Sterowanie DD-221 i DD-222",
+			"path": "./schematy/sterowanie/(24) [16-2008-E1.1_2]  Ster. szafą falownika dmuchawy DP-223 (224)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["DD-221", "DD-222"]
+		},
+		{
+			"title": "Sterowanie PF-261A",
+			"path": "./schematy/sterowanie/(26)[proj.nr692 i nr754] Sterowanie pompy PF-252A/",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-261A"]
+		},
+		{
+			"title": "Sterowanie DD-211",
+			"path": "./schematy/sterowanie/DP-211.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["DD-211"]
+		},
+		{
+			"title": "Sterowanie PF-206",
+			"path": "./schematy/sterowanie/Ster. pompy PF-206A  - rys.22.7.3  proj.692 - popr.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-206"]
+		},
+		{
+			"title": "Sterowanie MF-261 i MF-262",
+			"path": "./schematy/sterowanie/(28) [CP-202 E251_201-202 Ster. MF-251 (252) - obiekt/",
+			"description": "Schemat sterowniczy",
+			"tag": ["MF-261", "MF-262"]
+		},
+		{
+			"title": "Sterowanie APU dla I etapu młynowni",
+			"path": "./schematy/sterowanie/(3) [rys.225] Sterow. APU w rozdz. 500V  I et.młynowni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["APU", "IETAP", "MŁYNOWNIA"]
+		},
+		{
+			"title": "Sterowanie IRM-8 (tylko wzbudnice)",
+			"path": "./schematy/sterowanie/(15a)    Sterow. urządz. zasil. z IRM-8  - Aktualny (tylko wzbudnice).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IRM-8", "EW-121", "EW-122"]
+		},
+		{
+			"title": "Sterowanie IRM-9 (tylko wzbudnice)",
+			"path": "./schematy/sterowanie/(15b)    Sterow. urządz. zasil. z IRM-9  - Aktualny (tylko wzbudnice).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IRM-9", "EW-131", "EW-132"]
+		},
+		{
+			"title": "Sterowanie IRM-7 (tylko wzbudnice)",
+			"path": "./schematy/sterowanie/(15)    Ster. urządz. zasil. z IRM-7 - Aktualny (tylko wzbudnice).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IRM-7", "EW-111", "EW-112"]
+		},
+		{
+			"title": "Sygnalizacja świetl. i akust. dla MK-131, MK-132, MK-122, MK-111 i MK-112",
+			"path": "./schematy/sterowanie/(10) Schem. sygnal. świetl. i akust.  MK-111,112,122,131,132.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-131", "MK-132", "MK-122", "MK-111", "MK-112"]
+		},
+		{
+			"title": "Sterowanie urządzeń z IRM-1",
+			"path": "./schematy/sterowanie/(13) [rys.407] Sterow. urządz.  zasil. z IRM-1  Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IRM-1", "EW-133", "EW-143", "EW-102", "EW-113", "EW-123"]
+		},
+		{
+			"title": "Schemat obw. rozruchowych 220V dla MK-131, MK-132, MK-122, MK-111 i MK-112",
+			"path": "./schematy/sterowanie/(8) [rys.98] Schem. obw. rozruchowych 220V    MK- 111,112,122,131,132.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-131", "MK-132", "MK-122", "MK-111", "MK-112"]
+		},
+		{
+			"title": "Schemat obw. rozruchowych 220V dla MK-121",
+			"path": "./schematy/sterowanie/(8c) [rys.98] Schem. obw. rozruchowych 220V    MK-121.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-121"]
+		},
+		{
+			"title": "Schemat obw. rozruchowych 110V dla MK-121",
+			"path": "./schematy/sterowanie/(9c) [rys.99]  Obw.sterown. 110VDC  silnika SAS  MK-121  - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-121"]
+		},
+		{
+			"title": "Schemat obw. pomiar. zabezpiecz. i wzbudz. dla MK-121",
+			"path": "./schematy/sterowanie/(7c) [rys.343B]  Obw.pomiar. zabezpiecz. i wzbudz. MK-121 - AKTUALNY.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-121"]
+		},
+		{
+			"title": "Schemat sygnal. świetl. i akust. dla MK-121",
+			"path": "./schematy/sterowanie/(10c) Schem. sygnal. świetl. i akust.  MK-121.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-121"]
+		},
+		{
+			"title": "Sterowanie i sygnalizacja grzałek i wentylatorów I piętro biurowiec",
+			"path": "./schematy/sterowanie/Ster. i sygn.grzalek i wentylatorów  - I ROM-51.2.7 (biurowiec oddz.RM).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["GRZAŁKI", "WENTYLATOR", "IETAP"]
+		},
+		{
+			"title": "Sterowanie MD-113 i MD-123",
+			"path": "./schematy/sterowanie/projekt wykonawczyS31.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MD-123", "MD-113"]
+		},
+		{
+			"title": "Schematy obw. wzbudzenia i sterowania dla IETAPU MK",
+			"path": "./schematy/sterowanie/Schematy obw. wzbudzenia i sterowania 110VDC   MK.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["MK-121", "MK-131", "MK-132", "MK-122", "MK-111", "MK-112"]
+		},
+		{
+			"title": "Schemat SCO dla II i III etapu młynowni",
+			"path": "./schematy/sterowanie/(1) [rys.355]  SCO odciążania RWN II i III et..dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SCO", "MK-211", "MK-212", "MK-221", "MK-222", "MK-231", "MK-232", "MD-213", "MK-311", "MK-321", "MK-331", "MK-341", "MD-313", "IIIETAP", "IIETAP"]
+		},
+		{
+			"title": "Schemat pola transformatorowego R-13 i R-14",
+			"path": "./schematy/sterowanie/(8) [rys.346] Pole transformatorowe RWN-13 i 14.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-14", "R-13"]
+		},
+		{
+			"title": "Schemat pola liniowego R-14",
+			"path": "./schematy/sterowanie/(16) [rys. 336A]  Pole liniowe RWN-14.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-14"]
+		},
+		{
+			"title": "Schemat pola liniowego R-13",
+			"path": "./schematy/sterowanie/(16a) [rys.336]  Pole liniowe RWN-13.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-13"]
+		},
+		{
+			"title": "Schemat pola sprzęgłowe R-13, R-14 i R-15",
+			"path": "./schematy/sterowanie/(17) [rys.333]  Pole sprzęgłowe RWN-13, 14 i 15.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-13", "R-14", "R-15"]
+		},
+		{
+			"title": "Schemat pola zasilające R-13, R-14 i R-15",
+			"path": "./schematy/sterowanie/(18)  [rys.148]  Pole zasilające RWN-13, 14 i 15.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-13", "R-14", "R-15"]
+		},
+		{
+			"title": "Schemat sterowania APU w rozdz. 500V II etap młynowni",
+			"path": "./schematy/sterowanie/(24) [rys.249] Sterow. APU w rozdz. 500V  II et. ZWR.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["APU", "IIIETAP", "MŁYNOWNIA"]
+		},
+		{
+			"title": "Schemat urządzeń z IIRM-7",
+			"path": "./schematy/sterowanie/(29) [rys.161]  Schemat sterowania IIRM-7 (centralne smarowanie) dwg.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IIRM-7", "POC-1", "POC-2", "POC-3", "POC-4", "PCS-1", "VCS-1", "PGO-1"]
+		},
+		{
+			"title": "Schemat pola pomiarowego R-13, R-14 i R-15",
+			"path": "./schematy/sterowanie/[rys.357]  Pole pomiarowe RWN-13, 14 i 15.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["R-13", "R-14", "R-15"]
+		},
+		{
+			"title": "Schemat sterowania PM-211B",
+			"path": "./schematy/sterowanie/proj. 905. Pompa PM-211( na falowniku) powykon..pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["PM-211B"]
+		},
+		{
+			"title": "Schemat licznika energii w obw. pompy PM-211A",
+			"path": "./schematy/sterowanie/Schem połączeń licznika energii w obw. pompy  PM-212.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PM-211A"]
+		},
+		{
+			"title": "Schemat sterowania PF-11",
+			"path": "./schematy/sterowanie/Sterowanie PF-11.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PF-11"]
+		},
+		{
+			"title": "Schemat bateri kondensatora RNN-10.1",
+			"path": "./schematy/sterowanie/RMF-500V -baterie kondens/",
+			"description": "Schemat sterowniczy",
+			"tag": ["RNN-10.1", "BATERIA", "KONDENSATORA", "BATERIA KONDENSATORA", "BKD"]
+		},
+		{
+			"title": "Schemat bateri kondensatora RNN-10.3",
+			"path": "./schematy/sterowanie/ROMF 400_230V - baterie kondens/",
+			"description": "Schemat sterowniczy",
+			"tag": ["RNN-10.3", "BATERIA", "KONDENSATORA", "BATERIA KONDENSATORA", "BKD"]
+		},
+		{
+			"title": "Schematy sprężarek SS-20 i SS-21",
+			"path": "./schematy/sterowanie/(14)  [proj.EW-30018_1w] Sprężarki VPS-1, 2, 3/",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS-20", "SS-21", "R-3.2"]
+		},
+		{
+			"title": "Schematy pompek zagęszczacza",
+			"path": "./schematy/sterowanie/(22) Procom Sterowanie nowych pomp pod zgęszczaczami PZ/wersja dwg/",
+			"description": "Schemat sterowniczy",
+			"tag": ["PZ-1", "PZ-2", "PZ-4A"]
+		},
+		{
+			"title": "Schemat sterowania TS-3A Aktualny",
+			"path": "./schematy/sterowanie/(1) [310] Ster. przenośn.TS-21 - aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-3A"]
+		},
+		{
+			"title": "Schemat sterowania TS-4A",
+			"path": "./schematy/sterowanie/(2) [310a] Ster. przenośn.TS-11.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-4A"]
+		},
+		{
+			"title": "Schemat sterowania TS-1A",
+			"path": "./schematy/sterowanie/(2a) [310b] Ster. przenośn.TS-41.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-1A"]
+		},
+		{
+			"title": "Schemat sterowania TS-3A",
+			"path": "./schematy/sterowanie/(2b) [310b] Ster. przenośn.TS-21  - przyszłościowy po przerobieniu monitoringu.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-3A"]
+		},
+		{
+			"title": "Schemat sterowania TS-2A",
+			"path": "./schematy/sterowanie/(2b) [310c] Ster. przenośn.TS-31.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-2A"]
+		},
+		{
+			"title": "Schemat sterowania TS-4B",
+			"path": "./schematy/sterowanie/(3) [rys.311] Ster. przenośn. TS-12 poprawki.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-4B"]
+		},
+		{
+			"title": "Schemat sterowania TS-3B",
+			"path": "./schematy/sterowanie/(4) [rys.311a] Ster. przenośn. TS-22.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-3B"]
+		},
+		{
+			"title": "Schemat sterowania TS-2B",
+			"path": "./schematy/sterowanie/(5) [rys.343] Ster. przenośn.TS-32.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-2B"]
+		},
+		{
+			"title": "Schemat sterowania TS-1B",
+			"path": "./schematy/sterowanie/(5a) [rys.311b] Ster. przenośn.TS-42.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-1B"]
+		},
+		{
+			"title": "Schemat sterowania TS-4C",
+			"path": "./schematy/sterowanie/(6) [rys.312] Ster. przenośn.TS-13.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-4C"]
+		},
+		{
+			"title": "Schemat sterowania TS-3C",
+			"path": "./schematy/sterowanie/(6A) [rys.312A] Ster. przenośn.TS-23 -poprawki.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-3C"]
+		},
+		{
+			"title": "Schemat sterowania TS-2C",
+			"path": "./schematy/sterowanie/(7) [rys.351] Ster. przenośn. TS-33.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-2C"]
+		},
+		{
+			"title": "Schemat sterowania TS-1C",
+			"path": "./schematy/sterowanie/(7a) [rys.351a] Ster. przenośn. TS-43.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-1C"]
+		},
+		{
+			"title": "Schemat sterowania TS-1D",
+			"path": "./schematy/sterowanie/(8) [rys.312b] Ster. przenośn. TS-44.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-1D"]
+		},
+		{
+			"title": "Schemat sterowania suszkek S-1, S-2, S-3 i S-4",
+			"path": "./schematy/sterowanie/(9) [rys.313] Sterow. suszki S   - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["S-1", "S-2", "S-3", "S-4"]
+		},
+		{
+			"title": "Schemat sterowania AH i WIS",
+			"path": "./schematy/sterowanie/(10) [rys.371] Sterowanie AH i WIS.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["AH-11", "AH-12", "AH-21", "AH-22", "AH-31", "AH-32", "AH-41", "AH-42", "WIS-11", "WIS-12", "WIS-13", "WIS-14",
+					"WIS-21", "WIS-22", "WIS-23", "WIS-24", "WIS-31", "WIS-32", "WIS-33", "WIS-34", "WIS-41", "WIS-42", "WIS-43", "WIS-44"]
+		},
+		{
+			"title": "Sygnalizacja pobierania prób CBJ na załadunku koncentratu",
+			"path": "./schematy/sterowanie/(11) [rys.416] Sygnal. pobierania prób CBJ na załadunku koncentratu.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["CBJ", "ZAŁADUNEK", "KONCENTRATU", "ZAŁADUNEK KONCENTRATU", "ROS-16.2"]
+		},
+		{
+			"title": "Sterowanie wentylatorami VS",
+			"path": "./schematy/sterowanie/(12) Proj. DE-SE_H0300-11_31-001 Sterow. wentyl. VS-3 (VS-2, VS-4).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["VS-1", "VS-2", "VS-3", "VS-4"]
+		},
+		{
+			"title": "Sterowanie pomp PS-1A, B, C i D",
+			"path": "./schematy/sterowanie/(13) (rys.296) Sterowanie pomp PS-1, 2, 3, 4.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["PS-1A", "PS-1B", "PS-1C", "PS-1D"]
+		},
+		{
+			"title": "Schemat sterowania urządzeń RS-5",
+			"path": "./schematy/sterowanie/(15) [rys.294] Sterow. urządz. zasil.z RS-5  - Aktualny(Przerobka).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["RS-5", "PWS-11B", "PWS-11A"]
+		},
+		{
+			"title": "Schemat sterowania wentylatorów palnika SP-1",
+			"path": "./schematy/sterowanie/(16) [397] Wentyl. powietrza chłodzenia, spalania (palnika SP-1).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SP-1", "SKW", "SKP", "WENTYLATOR", "PALNIK"]
+		},
+		{
+			"title": "Schemat sterowania obwodu pomiaru i sygnalizacji w zbiorniku ZS-1",
+			"path": "./schematy/sterowanie/(17) [rys.297] Szafa D. -obw.pomiaru i sygnal. poz. w zbiorn..dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["ZS-1", "ZHD-1"]
+		},
+		{
+			"title": "Schemat sterowania WIS-4A i B",
+			"path": "./schematy/sterowanie/(18) [rys.422] Ster. wibratora WIS-4.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WIS-4A", "WIS-4B"]
+		},
+		{
+			"title": "Schemat sterowania WIS-2A i B oraz WIS-1A i B",
+			"path": "./schematy/sterowanie/(19) [rys.424] Ster. wibratora WIS-2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WIS-2A", "WIS-2B", "WIS-1A", "WIS-1B"]
+		},
+		{
+			"title": "Schemat sterowania CHS-3 i CHS-4",
+			"path": "./schematy/sterowanie/(20)[rys. 429] Ster.chłodnią CHS-3.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["CHS-3", "CHS-4"]
+		},
+		{
+			"title": "Schemat sterowania urządzeń z RS-15",
+			"path": "./schematy/sterowanie/(21) [rys.150] Sterow. urządz. zasil. z RS-15.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["RS-15", "Z-4", "PZ-4A", "PZ-12"]
+		},
+		{
+			"title": "Schemat sterowania urządzeń z RS-8",
+			"path": "./schematy/sterowanie/(22) [rys.23] Sterow.urządz. zasil. z RS-8  - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["RS-8", "Z-1", "Z-2", "Z-3", "PZ-1", "PZ-2", "PZ-11"]
+		},
+		{
+			"title": "Schemat sterowania urządzeń z RS-13",
+			"path": "./schematy/sterowanie/(23) [rys.160] Sterow. urządz. zasil.z RS-13  - aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["RS-13", "MMS-1", "PS-13A", "PS-13", "PS-13B", "PS-14A", "PS-14B"]
+		},
+		{
+			"title": "Schemat sterowania TS-11, 12, 13, 14",
+			"path": "./schematy/sterowanie/(24.) [rys.142] Sterow. przenośn. odstawy koncentratu TS-1, 2, 3,4.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-11", "TS-12", "TS-13", "TS-14"]
+		},
+		{
+			"title": "Schemat obwodu CPT taśm na odstawie koncentratu",
+			"path": "./schematy/sterowanie/(25) [rys.182] Obw. CPT taśm odstawy koncentratu.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TS-11", "TS-12", "TS-13", "TS-14", "CPT", "ODSTAWA", "KONCENTRATU", "ODSTAWA KONCENTRATU"]
+		},
+		{
+			"title": "Schemat sterowania i sygnalizacji pompy P-6.3 komory zasuw",
+			"path": "./schematy/sterowanie/(27) [rys. 378] Sterow. i sygnal. pompy P-6.3 komory zasuw.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["P-6", "KOMORA", "ZASUW", "KOMORA ZASUW"]
+		},
+		{
+			"title": "Schemat sygnalizacji pracy urządzeń suszarni",
+			"path": "./schematy/sterowanie/(29) [rys.158] Sygnal.pracy urządzeń suszarni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SUSZARNIA", "SS-21", "SS-20", "SS-10", "SS-11", "MMS-1", "F-4", "F-3", "F-2", "F-1", "PGS-2B", "S-1",
+					"S-2", "S-3", "S-4", "CHS-1", "CHS-2", "CHS-3", "CHS-4", "TODO", "PZ-1", "PZ-2", "PZ-4A", "PS-14A",
+					"PS-14B", "SYGNALIZACJA", "PRACY", "SYGNALIZACJA PRACY", "PS-15A", "PS-15B", "TS-11", "TS-12", "TS-13", "TS-14",
+					"Z-1", "Z-2", "Z-3", "Z-4"]
+		},
+		{
+			"title": "Schemat sterowania WIS-3A i B",
+			"path": "./schematy/sterowanie/(31)[rys.434] Ster. wibratora WIS-3.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WIS-3A", "WIS-3B"]
+		},
+		{
+			"title": "Schemat sterowania P-2.1, 2.2",
+			"path": "./schematy/sterowanie/(32) [rys.237] Ster. pomp odpadowych  P-2.1, 2.2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["P-2", "P-2.1", "P-2.2"]
+		},
+		{
+			"title": "Schemat sterowania urządzeń IIRF-51",
+			"path": "./schematy/sterowanie/(34) [rys. 232] Sterow.  PW-21, 22, 29 i CH-1, 2, 5 (zasil. z IIRF-51) - aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["IIRF-51", "PWCH-5", "PWCH-2", "CHF-1", "CHS-2", "PWCH-1"]
+		},
+		{
+			"title": "Schemat sterowania i sygnalizacji wentylatorów w kontenerach trafo CPO",
+			"path": "./schematy/sterowanie/(45) [rys. 389] Sygnal. i sterow. wentylatorów w kontenerach trafo Tr1 i Tr3 CPO.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SYGNALIZACJA", "CPO", "WENTYLATOR"]
+		},
+		{
+			"title": "Schemat sterowania urządzeń RPO-4.1 i 4.2",
+			"path": "./schematy/sterowanie/(47) 2010_A1_00  Schem. obw. sterow. rozdz. RPO-4.1  4.2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["RPO-4.1", "RPO-4.2"]
+		},
+		{
+			"title": "Schemat sterowania wentylatorami z RPO-1.1",
+			"path": "./schematy/sterowanie/(48) 2010_E_00  Schem. sterow.wentylatorami W-1.1-_W-4.2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["RPO-1.1"]
+		},
+		{
+			"title": "Schemat sterowania pomp P-1, 2, 3 i 4",
+			"path": "./schematy/sterowanie/(49) 2010_E_00  Schem. sterow. pomp P-1.1 _ 4.2.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["P-1", "P-2", "P-3", "P-4"]
+		},
+		{
+			"title": "Schemat sygnalizacji przekaźników CPO",
+			"path": "./schematy/sterowanie/28. [rys.0055-47.0-13p] Przekazn. sygnalizacji CPO -modernizacja -aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["CPO", "TD-4", "TD-3", "TD-2", "TD-1", "CHF-1", "CHF-2", "PWCH-1", "PWCH-2", "PWCH-3"]
+		},
+		{
+			"title": "Schemat sygnalizacji lampek CPO",
+			"path": "./schematy/sterowanie/28a. [rys.0055-47.0-14p] Obw. lampek sygnal. centr. CPO -modernizacja.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["CPO", "TD-4", "TD-3", "TD-2", "TD-1", "CHF-1", "CHF-2", "PWCH-1", "PWCH-2", "PWCH-3"]
+		},
+		{
+			"title": "Schemat sterowania TD-1, 2, 3, 4 i pompkami POT-3, 4, 5, 6",
+			"path": "./schematy/sterowanie/(41) [rys.137] Sterow. VT-3- 6, oraz urządz. współprac..dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TD-4", "TD-3", "TD-2", "TD-1", "POT-3", "POT-4", "POT-5", "POT-6"]
+		},
+		{
+			"title": "Schemat sterowania i zabezpieczeń kruszarek",
+			"path": "./schematy/sterowanie/(13) Obw. sterowania i zabezpieczeń  KR - NOWY Aktualny/",
+			"description": "Schemat sterowniczy",
+			"tag": ["KR-1", "KR-6", "KR-5", "KR-4", "KR-3", "KR-2"]
+		},
+		{
+			"title": "Schemat sterowania TC-1, 2, 3, 4, 5 i 6",
+			"path": "./schematy/sterowanie/Podawacze TC-1,2,3,4,5,6  - na układzie falownika- Aktualny/",
+			"description": "Schemat sterowniczy",
+			"tag": ["TC-1", "TC-6", "TC-5", "TC-4", "TC-3", "TC-2"]
+		},
+		{
+			"title": "Schemat sterowania szafy SS1",
+			"path": "./schematy/sterowanie/Szafa SS1  (T-1W, 2W, 3Z ,4Z, 1, 2, 9A, 9B;  EM-1, 2)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS1", "SS-1", "T-1W", "T-2W", "T-3Z", "T-4Z", "T-1", "T-2", "T-4", "T-3", "EM-1", "EM-2"]
+		},
+		{
+			"title": "Schemat sterowania szafy SS2A",
+			"path": "./schematy/sterowanie/Szafa SS2A  (KR-1,2,3; TC-1, 2, 3; TZ-1,2,3; POR-1,2,3; VR-1,2,3)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS2A", "SS-2A", "KR-1", "KR-2", "KR-3", "TC-1", "TC-2", "TC-3", "TZ-1", "TZ-2", "TZ-3", "POR-1", "POR-2", "POR-3", "VWR-1", "VWR-2", "VWR-3"]
+		},
+		{
+			"title": "Schemat sterowania szafy SS2B",
+			"path": "./schematy/sterowanie/Szafa SS2B (KR,TC, TZ, POR4-6, VR4-7,PR-4,5)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS2B", "SS-2B", "KR-4", "KR-5", "KR-6", "TC-4", "TC-5", "TC-6", "TZ-4", "TZ-5", "TZ-6", "POR-4", "POR-5", "POR-6", "VWR-4", "VWR-5", "VWR-6", "VWR-7", "PWR-1", "PWR-2"]
+		},
+		{
+			"title": "Schemat sterowania szafy SS3",
+			"path": "./schematy/sterowanie/Szafa SS3  (T-9C, WT-9C; T-10, 11, 11A, SWR-11, TC-10,11)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS3", "SS-3", "T-44", "WT-44", "T-03", "T-42", "T-43", "SWR-3", "TC-03B", "TC-03A"]
+		},
+		{
+			"title": "Schemat sterowania szafy SS4",
+			"path": "./schematy/sterowanie/Szafa SS4 - schematy.pdf",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS4", "SS-4", "T-5", "T-45", "T-46", "T-47", "T-48", "T-51", "T-52", "T-53", "T-54", "WT-53", "WT-54"]
+		},
+		{
+			"title": "Schemat sterowania szafy SS5",
+			"path": "./schematy/sterowanie/Szafa SS5  (T-15,16,17,18,19; SWR-1A, 2A; WT-16, W-89_95, PR-3)/",
+			"description": "Schemat sterowniczy",
+			"tag": ["SS5", "SS-5", "T-31", "T-32", "T-33", "T-22", "T-21", "SWR-2", "SWR-1", "WT-32", "WR-6", "WR-5", "WR-4", "WR-3", "WR-2", "WR-1", "PR-3"]
+		},
+		{
+			"title": "Schemat sterowania TZ-4 i POR-4",
+			"path": "./schematy/sterowanie/27. Zał.4B Sterowanie, sygnalizacja TZ-4, POR-4  - AKTUALNY.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TZ-4", "POR-4", "RR-11.4"]
+		},
+		{
+			"title": "Schemat sterowania TZ-5 i POR-5",
+			"path": "./schematy/sterowanie/24. Zał.4B  Sterowanie, sygnalizacja TZ-5 ,  POR-5 - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["TZ-5", "POR-5", "RR-11.5"]
+		},
+		{
+			"title": "Schemat sterowania wyciągarki rusztu kruszarki WR-1",
+			"path": "./schematy/sterowanie/(19) [rys.414] Siła i sterow. WR-1  - wyciągarki rusztu kruszarki.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WR-1", "WYCIĄGARKA", "RUSZTU", "WYCIĄGARKA RUSZTU", "KR"]
+		},
+		{
+			"title": "Schemat sterowania WA na przenośnikach taśmowych rozdrabialni",
+			"path": "./schematy/sterowanie/WYŁĄCZNIKI AWARYJNE NA PRZENOŚNIKACH TAŚMOWYCH ZWR.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WA", "WYŁĄCZNIKI", "AWARYJNE", "WYŁĄCZNIKI AWARYJNE", "T-2", "T-1", "T-5", "T-45", "T-51", "T-52", "T-4", "T-3", "T-44", "T-03", "T-41",
+					"T-42", "T-43", "T-46", "T-47", "T-48", "T-31", "T-32", "T-33", "T-22", "T-21", "T-53", "T-54"]
+		},
+		{
+			"title": "Schemat sterowania APU 500V w rozdrabialni",
+			"path": "./schematy/sterowanie/(12 [rys.267] Sterow. APU w rozdz.500V  rozdrabialni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["APU", "ROZDRABIALNIA", "500V"]
+		},
+		{
+			"title": "Schemat sterowania układu rozruchowego KR-5",
+			"path": "./schematy/sterowanie/22. Zał.3  Sterowanie układu rozruchowego  KR-5   - AKTUALNY.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["KR-5"]
+		},
+		{
+			"title": "Schemat sterowania układu rozruchowego KR-4",
+			"path": "./schematy/sterowanie/25. Zał.3  Sterowanie układu rozruchowego KR-4  -AKTUALNY.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["KR-4"]
+		},
+		{
+			"title": "Schemat sterowania układu rozruchowego KR-1, 2, 3 i 6",
+			"path": "./schematy/sterowanie/(6) [rys.330A]  Układ rozruchowy  KR-1,2,3,6   - AKTUALNY.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["KR-1", "KR-2", "KR-3", "KR-6"]
+		},
+		{
+			"title": "Schemat sterowania TC-03 i TZ-03",
+			"path": "./schematy/sterowanie/(26) [proj.11_13-2-3]  Sterow. TC-10,11 i TZ-10,11- aktualny/",
+			"description": "Schemat sterowniczy",
+			"tag": ["TC-03A", "TC-03B", "TZ-03A", "TC-03B"]
+		},
+		{
+			"title": "Schemat sterowania KOŁ-1 i 2",
+			"path": "./schematy/sterowanie/(27) [proj.11_13-2-3] Sterowanie KOŁ-1, KOŁ-2  -aktualny/",
+			"description": "Schemat sterowniczy",
+			"tag": ["KOŁ-1", "KOŁ-2"]
+		},
+		{
+			"title": "Schemat sterowania WIR-03A i B",
+			"path": "./schematy/sterowanie/(38) [proj 11_13-2-3] Sterowanie wibratorów WIR-1, 2, 3, 4  - aktualny/",
+			"description": "Schemat sterowniczy",
+			"tag": ["WIR-03A", "WIR-03B", "WIR-03A/1", "WIR-03A/2", "WIR-03B/1", "WIR-03B/2"]
+		},
+		{
+			"title": "Schemat sterowania SWR-1 i 2",
+			"path": "./schematy/sterowanie/Ster. SWR-1A, 2A  -rys.nr 1,2,3,4,5,6,7,8.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["SWR-1", "SWR-2"]
+		},
+		{
+			"title": "Schemat sterowania T-21 i 22",
+			"path": "./schematy/sterowanie/Ster. T-18 i T-19  -rys.nr 9,10,11,12,13,14,15,16,17 (2).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-21", "T-22"]
+		},
+		{
+			"title": "Schemat sygnałów pomocniczych T-21, 22 oraz SWR-1, 2",
+			"path": "./schematy/sterowanie/Sygnal.T-18, T-19  i SWR-1A,2A  -rys.nr 18,19,20,21.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-21", "T-22", "SWR-1", "SWR-2"]
+		},
+		{
+			"title": "Schemat sterowania separatorami EM-1 i EM-2",
+			"path": "./schematy/sterowanie/(4)  [rys.345] Ster. separatorów T-1 i 2  po moderniz. - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-2", "T-1", "EM-1", "EM-2"]
+		},
+		{
+			"title": "Schemat sterowania sygnałami przedstart. porozumiewawczowymi dla T-43 i SWR-3",
+			"path": "./schematy/sterowanie/(10) [rys.183] Sygnal. przedstart.porozumiewawcza i T-11A i  SWR-11 po moderniz. - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-43", "SWR-3"]
+		},
+		{
+			"title": "Schemat sygnalizacji pracy rozdrabialni",
+			"path": "./schematy/sterowanie/(18) [rys. 372] Kontrola sygnal. pracy urządzeń rozdrabialni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-51", "T-5", "T-1", "T-2", "SWR-2", "SWR-1", "TC-03B", "TC-03A", "EM-2", "EM-1", "T-03", "T-21", "T-22", "EM-03", "SWR-3", "T-42", "T-43", "T-4", "T-3", "T-44",
+					"TC-1", "TC-2", "TC-3", "TC-4", "TC-5", "TC-6", "TC-7", "KR-1", "KR-2", "KR-3", "KR-4", "KR-5", "KR-6", "T-45", "T-52", "T-46", "T-47", "T-48", "EM-53", "EM-54",
+					"T-31", "T-32", "T-33", "T-53", "T-54"]
+		},
+		{
+			"title": "Schemat sterowania sygnałami separatora EM-03",
+			"path": "./schematy/sterowanie/(20) [rys.204] Ster.separatora żelaza EM-10   po moderniz.  - Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["EM-03"]
+		},
+		{
+			"title": "Schemat wyłączeń krańcowych hydrantu p.poż. na T-1, 2, 33, 22, 21",
+			"path": "./schematy/sterowanie/(30.) [rys.144]  Schem. wyłączn. krańcowych hydrant. p.poż. zainstal.na  T-1, 2, 17, 18, 19.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-1", "T-2", "T-33", "T-22", "T-21"]
+		},
+		{
+			"title": "Schemat rozmieszczenia wyłączników awaryjnych na przenośnikach",
+			"path": "./schematy/sterowanie/(31) [rys.211]  Rozmieszczenie wyłączników awaryjnych na przenośnikach ZWR.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WA", "ROZDRABIALNIA", "T-2", "T-1", "T-5", "T-45", "T-51", "T-52", "T-4", "T-3", "T-44", "T-03", "T-41", "T-42", "T-43", "T-46", "T-47", "T-48", "T-31", "T-32", 
+					"T-33", "T-22", "T-21", "T-53", "T-54"]
+		},
+		{
+			"title": "Schemat sterowania układów zasil. przenośników T-51 i 52",
+			"path": "./schematy/sterowanie/(33) [rys. 342] Tymczas. układ zasil. przenośn. T-4 i 5 z silnikami pierścieniowymi.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-51", "T-52"]
+		},
+		{
+			"title": "Schemat sterowania separator EM-2",
+			"path": "./schematy/sterowanie/(37) [rys.362] Szafa typu SH-1900H zasilająca separator  EM-1.  po modernizacji  Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["EM-2"]
+		},
+		{
+			"title": "Schemat sterowania separator EM-1",
+			"path": "./schematy/sterowanie/(37a) [rys.362A] Szafa typu SH-1900H zasilająca separator EM-2    - po modernizacji  Aktualny.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["EM-1"]
+		},
+		{
+			"title": "Schemat sterowania wibratorów WIR-1A,B i WIR-2A,B",
+			"path": "./schematy/sterowanie/(39.) [rys.392] Sterowanie wibratorów  WIR-5,6,7,8  i  POR-8, 9.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["POR-8", "POR-9", "WIR-1A", "WIR-1B", "WIR-2A", "WIR-2B"]
+		},
+		{
+			"title": "Schemat sterowania wibratorów WIR-3A i B",
+			"path": "./schematy/sterowanie/(40.) [rys.393] Sterowanie wibratorów  WIR-9, 10  (RR-13).dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["WIR-3A", "WIR-3B"]
+		},
+		{
+			"title": "Schemat sygnałów rozdrabialni",
+			"path": "./schematy/sterowanie/[rys. 376] Sygnal. ZWR rozdrabialni.dwg",
+			"description": "Schemat sterowniczy",
+			"tag": ["T-51", "T-5", "T-1", "T-2", "SWR-2", "SWR-1", "TC-03B", "TC-03A", "EM-2", "EM-1", "T-03", "T-21", "T-22", "EM-03", "SWR-3", "T-42", "T-43", "T-4", "T-3", "T-44",
+					"TC-1", "TC-2", "TC-3", "TC-4", "TC-5", "TC-6", "TC-7", "KR-1", "KR-2", "KR-3", "KR-4", "KR-5", "KR-6", "T-45", "T-52", "T-46", "T-47", "T-48", "EM-53", "EM-54",
+					"T-31", "T-32", "T-33", "T-53", "T-54"]
+		}
+	],
+	"firmowe":[{
+			"title": "Nr 1001 POWYKON Modernizacja MD-323 - schematy, programy, pomiary",
+			"path": "./schematy/firmowe/Nr 1001 POWYKON Modernizacja MD-323 - schematy, programy, pomiary/powykonawczy MD323_23_11_2017 AutoCAD LT2010.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-323"]
+		},
+		{
+			"title": "Nr 1000 Sztygarówka PFP – protokoły, atesty i schematy rozdzielek oświetleniowych RNDysp(IIROM-8) i RITDysp(IIROM-9)",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["IIROM-8", "IIROM-9"]
+		},
+		{
+			"title": "Nr 999 POWYKON Zabudowa baterii hydrocyklonów „Modernizacja układów klasyfiakcji w O/ZWR”",
+			"path": "./schematy/firmowe/Nr 999 POWYKON Zabudowa baterii hydrocyklonów/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-211B", "PM-221B", "PM-231B", "PF-221C", "PF-221D", "PF-222A", "PM-311C", "PM-331A", "PWF-22B"]
+		},
+		{
+			"title": "Nr 997 POWYKON Convis Rozdrabialnia i Młynownia - czukniki drgań”",
+			"path": "./schematy/firmowe/Nr 997 POWYKON Convis Rozdrabialnia i Młynownia - czukniki drgań, CVP01-SER01, DMX-580, SWR-1a, 2a i 3/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["CONVIS", "CONVIS CVP01-SZR01.01", "convis CVP01-SZR01.02", "convis CVP01-SZR01.03", "convis CVP01-SZR01.04", "convis CVP01-SZR01.05", "convis CVP01-SZR01", "mapa wysp convis"]
+		},
+		{
+			"title": "Nr 996 POWYKON „Modernizacja instalacji do usuwania węglanów” - ciąg dalszy",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MF-181", "MF-182", "PF-181A", "PF-181B"]
+		},
+		{
+			"title": "Nr 995 Instrukcja i schematy do szafek dozowników SDZ/SDP dla maszyn flotacyjnych MF-181/182 ",
+			"path": "./schematy/firmowe/Nr 995 Instrukcja i schematy do szafek dozowników SDZSDP dla maszyn flotacyjnych MF-181 i 182/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MF-181", "MF-182"]
+		},
+		{
+			"title": "Nr 993 Modernizacja instalacji do usuwania węglanów",
+			"path": "./schematy/firmowe/Nr 993 POWYKON Modernizacja instalacji do usuwania węglanów - protokoły, deklaracje i schematy/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RNN-10.1", "RG-1", "RG-WR", "PF-181B", "PKO-5", "MF-182", "MF-181", "RN-1.1", "RN-1.2", "RN-1.3", "ZKR-1", "RFO-PD1",
+					"VWC-1", "PZO-1 VSD", "RMK", "SF-3", "DD-181", "PF-181A", "PKO-3", "PF-13", "ZKR-2", "RN-2.1", "RN-2.2", "RN-2.3",
+					"PZO-2 VSD", "VWC-2"]
+		},
+		{
+			"title": "Nr 989 System automatycznego płukania transportu prób w rejonach Lubin, Polkowice i Rudna. Schematy ster. pompek PA i PAR (I i II etap flotacji)",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PA-11", "PA-12", "PA-21", "PAR-121", "PAR-111", "PAR-211"]
+		},
+		{
+			"title": "Nr 988 Wymiana maszyny MF-233 flotacyjnej w Rejonie ZWR Polkowice oraz modyfikacja pola nr 3 w rozdzielni R-13.2",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["R-13.2", "MF-243"]
+		},
+		{
+			"title": "Nr 987 Modyfikacja układów sterowniczych przez firmę PROCOM pomp PM-111B(s. 132), 121B(s. 122), 131B (s. 112), 113A(s. 152), 211B(s. 211), 211A(s. 212), 221A(s. 222), 231A(s. 232), 213B (s. 252), 213C (s. 253), 313A (s. 351), 313B (s. 352)",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-111B", "PM-121B", "PM-131B", "PM-113A", "PM-211B", "PM-211A", "PM-221A", "PM-231A", "PM-213B", "PM-213C", "PM-313A", "PM-313B"]
+		},
+		{
+			"title": "NR 986 POWYKON Automatyzacja procesu wzbogacania w ZWR. Młynownia i rozdrabialnia (schematy, szafy sterownicze, sterowniki)",
+			"path": "./schematy/firmowe/NR 986 POWYKON Automatyzacja procesu wzbogacania w ZWR. Młynownia i rozdrabialnia (schematy, szafy sterownicze, sterowniki)/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["WM-1/112", "WM-2/112", "WM-3/112", "WM-4/112", "WM-5/112", "WM-6/112", "WM-1/113", "WM-2/113", "WM-3/113", "WM-4/113", "WM-5/113", "WM-6/113", "WM-1/122", "WM-2/122", "WM-3/122",
+					"WM-1/123", "WM-2/123", "WM-3/123", "WM-1/132", "WM-2/132", "WM-3/132", "WM-1/133", "WM-2/133", "WM-3/133", "TM-111", "TM-112", "TM-113", "TM-121", "TM-122", "TM-123", "TM-131",
+					"TM-132", "TM-133", "K-111", "K-112", "K-121", "K-122", "K-131", "K-132", "UK-111", "UK-112", "UK-121", "UK-122", "UK-131", "UK-132", "PM-111A", "PM-121A", "PM-131A", "PM-113B",
+					"MK-111", "MK-112", "MK-121", "MK-122", "MK-131", "MK-132", "MD-113", "MD-123", "MD-133", "MD-143", "WM-1/212", "WM-2/212", "WM-3/212", "WM-4/212", "WM-5/212", "WM-6/212", "WM-7/212",
+					"WM-1/213", "WM-2/213", "WM-3/213", "WM-1/222", "WM-2/222", "WM-3/222", "WM-4/222", "WM-5/222", "WM-6/222", "WM-7/222", "WM-8/222", "WM-9/222", "WM-10/222", "WM-11/222", "WM-12/222",
+					"WM-13/222", "WM-1/232", "WM-2/232", "WM-3/232", "WM-4/232", "WM-5/232", "WM-6/232", "WM-7/232", "WM-8/232", "WM-9/232", "TM-211", "TM-212", "TM-213", "TM-221", "TM-222", "TM-231",
+					"TM-232", "K-211", "K-212", "K-221", "K-222", "K-231", "K-232", "UK-211", "UK-212", "UK-221", "UK-222", "UK-231", "UK-232", "PM-221B", "PM-231B", "PM-213A", "MK-211", "MK-212", 
+					"MK-221", "MK-222", "MK-231", "MK-232", "MD-213", "MD-223", "MD-233", "MD-243", "WM-1/312", "WM-2/312", "WM-3/312", "WM-4/312", "WM-1/313", "WM-2/313", "WM-3/313", "WM-4/313",
+					"WM-1/322", "WM-2/322", "WM-3/322", "WM-4/322", "WM-1/323", "WM-2/323", "WM-3/323", "WM-4/323", "WM-1/332", "WM-2/332", "WM-3/332", "WM-4/332", "WM-1/333", "WM-2/333", "WM-3/333", 
+					"WM-4/333", "WM-1/342", "WM-2/342", "WM-3/342", "WM-4/342", "WM-1/343", "WM-2/343", "WM-3/343", "WM-4/343", "TM-311", "TM-312", "TM-313", "TM-321", "TM-322", "TM-323", "TM-331", 
+					"TM-332", "TM-333", "TM-341", "TM-342", "TM-343", "K-311", "K-312", "K-321", "K-322", "K-331", "K-332", "K-341", "K-342", "UK-311", "UK-312", "UK-321", "UK-322", "UK-331", "UK-332",
+					"UK-341", "UK-342", "PM-311B", "PM-311C", "PM-331A", "PM-331B", "PM-313C", "MK-311", "MK-321", "MK-331", "MK-341", "MD-313", "MD-323", "MD-333"]
+		},
+		{
+			"title": "Nr 985 POWYKON Modernizacja młyna bębnowego MD-113",
+			"path": "./schematy/firmowe/Nr 985 POWYKON Modernizacja młyna bębnowego MD-113/Schematy sterownicze MD-113.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-113"]
+		},
+		{
+			"title": "Nr 984 POWYKON Modernizacja młyna bębnowego MD-123",
+			"path": "./schematy/firmowe/Nr 984 POWYKON Modernizacja młyna bębnowego MD-123/Schematy sterownicze MD-113.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-123"]
+		},
+		{
+			"title": "NR 979 Powykon. Układ pompowy PM-122(na falowniku)",
+			"path": "./schematy/firmowe/NR 979 Powykon. Układ pompowy PM-122(na falowniku)/PM122-powykonawcza.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-121B"]
+		},
+		{
+			"title": "NR 978 Powykon. Układ pompowy PM-112(na falowniku)",
+			"path": "./schematy/firmowe/NR 978 Powykon. Układ pompowy PM-112(na falowniku)/PM112-powykonawcza.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-131B"]
+		},
+		{
+			"title": "NR 977 POWYKON. Rozdzielnica RNN-18.3 400V",
+			"path": "./schematy/firmowe/NR 977 POWYKON. Rozdzielnica RNN-18.3 400V/ZWR_RNN18_3_400V_25082015.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RNN-18.3"]
+		},
+		{
+			"title": "Nr 976 POWYKON. Przebudowa ukł. pompowego dostarczającego koncentrat z zgęszczacza Z-1, Z-2, Z-3 i Z-4 do zbiornika pośredniego",
+			"path": "./schematy/firmowe/Nr 976 POWYKON. Przebudowa ukł. pompowego dostarczającego koncentrat z zgęszczacza Z-1, Z-2, Z-3 i Z-4 do zbiornika pośredniego/E7-27 D_POW.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RS-8", "RS-15", "Z-1", "Z-2", "Z-3", "PZP-1", "PZ-1", "PZ-11", "PZ-2", "PZP-2", "PZP-3", "PZ-12", "PZ-4A", "PZP-4", "Z-4"]
+		},
+		{
+			"title": "NR 974 Powykon. Układ pompowy PM-351(na falowniku)",
+			"path": "./schematy/firmowe/NR 974 Powykon. Układ pompowy PM-351(na falowniku)/PM351_powykonawcza.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-313A"]
+		},
+		{
+			"title": "NR 963 Rozdzielnica IRM-10 – rysunki, schematy oraz zestawienia aparatury. Wykonawca ZPUE Silesia, zleceniodawca SEVITEL",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["IRM-10", "T-51", "T-52", "EM-1", "EM-2"]
+		},
+		{
+			"title": "NR 962 Rozdzielnica IIIRM-4 – rysunki, schematy oraz zestawienia aparatury. Wykonawca ZPUE Silesia, zleceniodawca SEVITEL",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["IIIRM-4.1", "IIIRM-4", "WT-53", "WTM-1", "T-53", "TM-1", "T-54", "TM-2", "WT-54", "WTM-2"]
+		},
+		{
+			"title": "Nr 959  POWYKON. Modern. ukł. zasil. i ster. MK-122",
+			"path": "./schematy/firmowe/Nr 959  POWYKON. Modern. ukł. zasil. i ster. MK-122/Schematy elektryczne MK-122.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MK-122"]
+		},
+		{
+			"title": "Nr 958  POWYKON. Modern. ukł. zasil. i ster. MK-121",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MK-121"]
+		},
+		{
+			"title": "Nr 956 PM-253 – Instrukcja obsługi panela operatorskiego, projekt powykonawczy, deklaracje zgodności, protokoły, DTR",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-213C"]
+		},
+		{
+			"title": "Nr 932 DTR Separatora  elektromagnetycznego  „ELJOT 1500B ”   ( EMZ-1,  EMZ-2)",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["EMZ-1", "EMZ-2"]
+		},
+		{
+			"title": "Nr 931 Instalacje zasilające wózki  (WTM-1, WTM-2)  metodą  szynoprzewodów AKAPP",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["WT-53", "WT-54"]
+		},
+		{
+			"title": "Nr 928 Dokumentacja powykonawcza  IRM-10.  Normy, rysunki, schematy (f.-my Sevitel)",
+			"path": "./schematy/firmowe/Nr 928 Dokumentacja powykonawcza IRM-10 (Sevitel)/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["IRM-10", "T-51", "T-52", "EM-1", "EM-2"]
+		},
+		{
+			"title": "Nr 927 Dokumentacja powykonawcza IIIRM-4 (Sevitel)",
+			"path": "./schematy/firmowe/Nr 927 Dokumentacja powykonawcza IIIRM-4 (Sevitel)/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["IIIRM-4.1", "IIIRM-4", "WT-53", "WTM-1", "T-53", "TM-1", "T-54", "TM-2", "WT-54", "WTM-2"]
+		},
+		{
+			"title": "Nr 926 Modernizacja ukł. zasilania i sterowania silnika napęd.  MK-112.  Instrukcje, deklaracje,  protokoły",
+			"path": "./schematy/firmowe/Nr 926  POWYKON. Modern. ukł. zasil. i ster. MK-112/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MK-132"]
+		},
+		{
+			"title": "Nr 925  POWYKON. Modern. ukł. zasil. i ster. MK-132",
+			"path": "./schematy/firmowe/Nr 925  POWYKON. Modern. ukł. zasil. i ster. MK-132/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MK-112"]
+		},
+		{
+			"title": "Nr 924  POWYKON. Modern. ukł. zasil. i ster. MK-131",
+			"path": "./schematy/firmowe/Nr 924  POWYKON. Modern. ukł. zasil. i ster. MK-131/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MK-111"]
+		},
+		{
+			"title": "Nr 923  Wartownia - kontener.  Proj. wykonawczy",
+			"path": "./schematy/firmowe/Nr 923  Wartownia - kontener.  Proj. wykonawczy/1408-PBW-E-Tablicy TW.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["WARTOWNIA"]
+		},
+		{
+			"title": "Nr 922  Modernizacja układu  pompowego PM-232  (na falowniku) . +  Instrukcja obsługi panelu",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-231A"]
+		},
+		{
+			"title": "Nr 921 Powykon. Modernizacja układów napędowych",
+			"path": "./schematy/firmowe/Nr 921 Powykon. Modernizacja układów napędowych/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["T-1", "T-2", "T-51", "T-52", "WR-1", "WR-2", "WR-3", "WR-4", "WR-5", "WR-6", "K-131", "K-132", "UK-131", "UK-132", "K-111", "K-112", "UK-111", "UK-112", "K-211", "K-212",
+					"UK-211", "UK-212", "K-231", "K-232", "UK-231", "UK-232"]
+		},
+		{
+			"title": "Nr 919  Powykon. Układ pompowy  PM-152 (na falowniku)",
+			"path": "./schematy/firmowe/Nr 919  Powykon. Układ pompowy  PM-152 (na falowniku)/18410-P-05.02 Pompa PM152.pdf",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-113A"]
+		},
+		{
+			"title": "Nr 918  T-4, T-5  Instal. sterow. i sygnal. Część obiektowa - powykon",
+			"path": "./schematy/firmowe/Nr 918  T-4, T-5  Instal. sterow. i sygnal. Część obiektowa - powykon/sterowanie T-4 T-5.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["T-51", "T-52"]
+		},
+		{
+			"title": "Nr 917  Powykon. Modern. ukł. zasil. i ster. MK-111. Instrukcje, protokoły",
+			"path": "./schematy/firmowe/Nr 917  Powykon. Modern. ukł. zasil. i ster. MK-111. Instrukcje, protokoły/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MK-131"]
+		},
+		{
+			"title": "Nr 916   Powykon.  RNN-16.3",
+			"path": "./schematy/firmowe/Nr 916   Powykon.  RNN-16.3/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RNN-16.3"]
+		},
+		{
+			"title": "Nr 912  POWYKON. NAPĘDY PRZENOSNIKÓW T-4 i T-5 (IRM-10)",
+			"path": "./schematy/firmowe/Nr 912  POWYKON. NAPĘDY PRZENOSNIKÓW T-4 i T-5 (IRM-10)/DE-SE_H0266-11_21-200_rev00_schemat_v poprawiona   aktualny.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["T-51", "T-52"]
+		},
+		{
+			"title": "Nr 911 POWYKON. Odciąg spalin VS-4. elektr. automat",
+			"path": "./schematy/firmowe/Nr 911 POWYKON. Odciąg spalin VS-4. elektr. automat/DE-SE_H0300-11_41-001_rev00_schemat elektryczny VS-4.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["VS-1"]
+		},
+		{
+			"title": "Nr 910 POWYKON.. Modern. ukł. zasil. i ster. KS-101. Instrukcje",
+			"path": "./schematy/firmowe/Nr 910 POWYKON.. Modern. ukł. zasil. i ster. KS-101. Instrukcje/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["KS-101"]
+		},
+		{
+			"title": "Nr 908, 909_ Powykon. RNN-11.3  i RNN-14.3",
+			"path": "./schematy/firmowe/Nr 908, 909_ Powykon. RNN-11.3  i RNN-14.3/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RNN-11.3", "RNN-14.3"]
+		},
+		{
+			"title": "Nr 907 Stabilizacja przepływu na pompach PS-5 i PS-6 +instrukcja (RS-13-falowniki) pdf",
+			"path": "./schematy/firmowe/Nr 907 Stabilizacja przepływu na pompach PS-5 i PS-6 +instrukcja (RS-13-falowniki) pdf/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PS-14A", "PS-14B"]
+		},
+		{
+			"title": "Nr 906  -POWYKON. Modern. ukł.zasil. i ster. MK-151. Instrukcje, protokoły",
+			"path": "./schematy/firmowe/Nr 906  -POWYKON. Modern. ukł.zasil. i ster. MK-151. Instrukcje, protokoły/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-143"]
+		},
+		{
+			"title": "Nr 905 -POWYKON. Układ pompowy  PM-211, PM212 (na falowniku)",
+			"path": "./schematy/firmowe/Nr 905 -POWYKON. Układ pompowy  PM-211, PM212 (na falowniku)/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PM-211B", "PM-211A"]
+		},
+		{
+			"title": "Nr 903 Załadunek koncentratu – modernizacja  RZK-1.1;  ROS-16.2.3  i  SPWS-1.2. Budowa przeciągarki do przetaczania wagonów typu UT-7 na torze 104",
+			"path": "./schematy/firmowe/missing.html",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RZK-1.1", "ROS-16.2.3", "SPWS-1.2"]
+		},
+		{
+			"title": "Nr 901 POWYKON.- Modern. ukł. zasil. i ster. MK-152  Instrukcje, protokoły",
+			"path": "./schematy/firmowe/Nr 901 POWYKON.- Modern. ukł. zasil. i ster. MK-152  Instrukcje, protokoły/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-133"]
+		},
+		{
+			"title": "Nr 901 POWYKON.- Modern. ukł. zasil. i ster. MK-152  Instrukcje, protokoły",
+			"path": "./schematy/firmowe/Nr 901 POWYKON.- Modern. ukł. zasil. i ster. MK-152  Instrukcje, protokoły/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-133"]
+		},
+		{
+			"title": "Nr 900 POWYKON. MF-324,DP-324 Dleklaracje atesty(RNN-16.2_II)",
+			"path": "./schematy/firmowe/Nr 900 POWYKON. MF-324,DP-324 Dleklaracje atesty(RNN-16.2_II)/ostateczny CP 202 E324_02_RYSUNKI.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MF-324", "DD-342"]
+		},
+		{
+			"title": "Nr 899  POWYKON. Modernizacja rozdz. R-3.3  6kV (ster. KR-1 do KR-6) DTR,INSTR_PŁYTA",
+			"path": "./schematy/firmowe/Nr 899  POWYKON. Modernizacja rozdz. R-3.3  6kV (ster. KR-1 do KR-6) DTR,INSTR_PŁYTA/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["R-3.3", "KR-1", "KR-2", "KR-3", "KR-4", "KR-5", "KR-6"]
+		},
+		{
+			"title": "Nr 897 POWYKON. Rozładunek rudy- modern.RR-15.1, ROR-15.1.1, SPWR-1.2, Przeciągarka wagonów",
+			"path": "./schematy/firmowe/Nr 897 POWYKON. Rozładunek rudy- modern.RR-15.1, ROR-15.1.1, SPWR-1.2, Przeciągarka wagonów/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RR-15.1", "KOŁ-1", "KOŁ-2", "TZ-03A", "TC-03A", "WIR-03B/1", "WIR-03B/2", "WIR-03A/1", "WIR-03A/2", "ROR-15.1.1", "SPWR-1.2", "RK"]
+		},
+		{
+			"title": "Nr 892 POWYKON.Rozdz.RWN-11.2 pole 2,3,4,8,9 schematy trafo",
+			"path": "./schematy/firmowe/Nr 892 POWYKON.Rozdz.RWN-11.2 pole 2,3,4,8,9 schematy trafo/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["R-11.2"]
+		},
+		{
+			"title": "Nr 890 POWYKON.Rozdz.RNN-11.2_I część odpł. rozdz. (całość wyciągnięta z projektów )",
+			"path": "./schematy/firmowe/Nr 890 POWYKON.Rozdz.RNN-11.2_I część odpł. rozdz. (całość wyciągnięta z projektów )/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RNN-11.2/I", "DD-123", "RDS-123", "PF-12", "MF-123", "SH-4", "MF-111", "RDS-111", "DD-122", "RDS-121", 
+					"PF-161A", "MF-121", "MF-151", "MF-161", "PF-121C", "PF-190A", "PF-122A", "MF-141", "DD-141", "PF-141B",
+					"PF-151A", "PF-121D"]
+		},
+		{
+			"title": "Nr 888 POWYKON.- Przebudowa komór pomp i rząpi PF-31, PF-32 (RNN-17.2_II) nowe pompy",
+			"path": "./schematy/firmowe/Nr 888 POWYKON.- Przebudowa komór pomp i rząpi PF-31, PF-32 (RNN-17.2_II) nowe pompy/CP 257 E-PF31_RYSUNKI CAD 2004.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["PF-31", "PF-33", "RNN-17.2/II"]
+		},
+		{
+			"title": "Nr 886 POWYKON.-Przebudowa kanałów odpad. CPO (IRF-3.1  PWO-1, PWO-2, PDS-2 i IROF-3.1.1)",
+			"path": "./schematy/firmowe/Nr 886 POWYKON.-Przebudowa kanałów odpad. CPO (IRF-3.1  PWO-1, PWO-2, PDS-2 i IROF-3.1.1)/CP 257 E-PWO-1_RYSUNKI CAD 2004.dwg",
+			"description": "Dokumentacje firmowe",
+			"tag": ["IRF-3.1", "IROF-3.1.1", "PUO-1B", "PUO-1A", "PUS-1"]
+		},
+		{
+			"title": "Nr 885 POWYKON. Odciąg spalin (VS-2;3,4) PCL+panel;ekrany wizualizacji i FIX, INSTRUKCJE",
+			"path": "./schematy/firmowe/Nr 885 POWYKON. Odciąg spalin (VS-2;3,4) PCL+panel;ekrany wizualizacji i FIX, INSTRUKCJE/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["RS-8", "VS-2", "VS-3", "VS-1", "VS-4"]
+		},
+		{
+			"title": "Nr 882 POWYKON. Modern. ukł. zasil. i ster. MK-153  Instrukcje, protokoły",
+			"path": "./schematy/firmowe/Nr 882 POWYKON. Modern. ukł. zasil. i ster. MK-153  Instrukcje, protokoły/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MD-123"]
+		},
+		{
+			"title": "Nr 881 POWYKON.Zabud. MF-141, MF-142(RNN-11.2_I i RNN-12.2_I)( DWG)",
+			"path": "./schematy/firmowe/Nr 881 POWYKON.Zabud. MF-141, MF-142(RNN-11.2_I i RNN-12.2_I)( DWG)/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MF-151", "MF-152"]
+		},
+		{
+			"title": "Nr 880 POWYKON,Zabud.MF-131_132, PF-101A,101B(RNN-12.1_I I RNN-11.2I) (DWG)",
+			"path": "./schematy/firmowe/Nr 880 POWYKON,Zabud.MF-131_132, PF-101A,101B(RNN-12.1_I I RNN-11.2I) (DWG)/",
+			"description": "Dokumentacje firmowe",
+			"tag": ["MF-141", "MF-142", "PF-122A", "PF-122B", "TODO"]
+		}
+
+	]
+}

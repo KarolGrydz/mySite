@@ -4,7 +4,8 @@
   "description": "My personal website",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w src/scss/ -o dist/css/ --recursive",
+    "bundle": "webpack -w"
   },
   "keywords": [
     "karol",
@@ -13,6 +14,15 @@
   "author": "Karol Grydz",
   "license": "MIT",
   "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
     "node-sass": "^4.9.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
   }
 }

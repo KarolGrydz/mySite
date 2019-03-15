@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<title>Moja pierwsza stronka</title>
+	<meta name="Keywords" content="mysite,awsome,karol,grydz,glogow,deweloper,freelancer,HTML,CSS,Javascript">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=divice-width, initial-scale=1">
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="./CSS/bootstrap.min.css">
+
+	<!-- Font awesome -->
+	<link rel="stylesheet" type="text/css" href="./CSS/font-awesome-4.6.3/css/font-awesome.min.css">
+
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="CSS/druga.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina|Lobster" rel="stylesheet">
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="./JS/jquery-1.12.4.min.js"></script>
+	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+	<!-- Include all compiled plugins (below), or include indivial files as need -->
+	<script src="./JS/bootstrap.min.js"></script>
+
+	<!-- Luzne skrolowanie -->
+	<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+   // Make sure this.hash has a value before overriding default behavior
+  if (this.hash !== "") {
+
+    // Prevent default anchor click behavior
+    event.preventDefault();
+
+    // Store hash
+    var hash = this.hash;
+
+    // Using jQuery's animate() method to add smooth page scroll
+    // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+    $('html, body').animate({
+      scrollTop: $(hash).offset().top
+    }, 900, function(){
+
+      // Add hash (#) to URL when done scrolling (default click behavior)
+      window.location.hash = hash;
+      });
+    } // End if
+  });
+})
+</script>
+
+<!-- Googlemaps -->
+	<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyADTkwWkpmDtyGvUVH63hAyc-jQudbp3jE"></script>
+	<script>
+	var myCenter = new google.maps.LatLng( 51.6615693, 16.0803845);
+
+	function initialize() {
+	var mapProp = {
+	center:myCenter,
+	zoom:15,
+	scrollwheel:false,
+	draggable:false,
+	mapTypeId:google.maps.MapTypeId.ROADMAP
+	};
+
+	var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+	var marker = new google.maps.Marker({
+	position:myCenter,
+	});
+
+	marker.setMap(map);
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+	</script>
+
+</head>
+<body id="myPage" data-target="navbar" data-spy="scroll" data-offset="10">
+
+	<!-- Gorna nawigacja navbar -->
+				
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a href="#myPage"><span class="glyphicon glyphicon-chevron-up"></span></a>
+			</div>
+			<div class="collapse navbar-collapse navbar-right" id="myNavbar">
+				<ul class="nav navbar-nav">
+					<li><a href="#about">O mnie</a></li>
+					<li><a href="#music">Muzyka</a></li>
+					<li><a href="#movies">Filmy</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Moje projekty<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Theme Company.html" target="_blank"><span title="Przykadowa strona zrobiona w bootstrapie">Firma</span></a></li>
+							<li><a href="pierwsza.html" target="_blank"><span title="Pierwsza stronka, czysty html i CSS">Pierwsza</span></a></li>
+							<li><a href="Theme SimplyMe.html" target="_blank"><span title="Przykladowe portfolio zrobione w bootstrapie">Portfolio</span></a></li>
+						</ul>
+					</li>
+					<li><a href="#contact">Kontakt</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gry<span class="caret"></span></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="myBattleships.html" target="_blank"><span title="Gra w statki w JS">Statki</span></a></li>
+							<li><a href="myClicker.html" target="_blank"><span title="Prosty Klikacz">Klikacz</span></a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+
+	<!-- Naglowek  -->
+	<div class="jumbotron text-center">
+		<header>
+			<h1>Moja pierwsza strona</h1>
+			<p>Strona poświęcona mnie, moich przemyśleniach oraz mojej pracy</p>
+		</header>
+	</div>
+	
+	<!-- O mnie (about)-->
+	<div class="container-fluid black1" id="about">
+		<div class="row">
+			<div class="col-sm-12">
+				<section>
+					<article>
+						<header class="text-center">
+							<h2>O mnie</h2>
+								<p>Kilka słów o mnie</p>
+							</header>
+							<p>Nazywam się ... ... (nie napiszę moim danych, sorry), mam lat
+							26 i od niedawna zająłem się programowanie, ale tak na poważnie
+							. Już za czasów studiów uczyłem się programować w C++, ale dopiero
+							teraz wziąłem to na poważnie i zacząłem poczynać kolejne kroki, w 
+							stronę front-endu (bynajmniej na początek). Studiowałem automatykę
+							w PWSZ w ... (sorry), fajne to były czasy.</p>
+					</article>
+				</section>
+			</div>
+		</div>
+	</div>
+
+	<!-- Muzyka (music) -->
+	<div class="container-fluid white1" id="music">
+		<div class="row">
+			<div class="col-sm-12">
+				<section>
+					<article>
+						<header class="text-center">
+							<h2>Muza</h2>
+							<p>Co lubie słuchać</p>
+						</header>
+							<p>Ogólnie lubie hip-hop. Polski <span title="Hip-hop">HH</span>, ale to nie znaczy, że nie doceniam amerykańskiego czy
+							jakiegoś innego, po prostu ludzie mnie zadziwiają, ale już to tłumacze. Ja sam mam czasami 
+							problemy z "co autor miał na myśli" w polskim <span title="Hip-hop">HH</span>, a co dopiero w amerykańskim gdzie nie 
+							jestem czasami w stanie wyłapać słów, a co dopiero zrozumieć ich kontekst albo że jest to
+							metafora, odwołanie, follow-up lub coś innego.</p>
+							<blockquote cite="http://google.pl"><i>cudze chwalicie swego nie znacie sami nie wiecie co posiadacie</i><br/>
+							-Ktoś tak kiedyś powiedział</blockquote><br />
+							<h3 class="text-center">Kilku wykonawców, jest ich o wiele wiecej:</h3>
+					</article>
+				</section>
+			</div>
+		</div>
+	</div>
+	<!-- Tutaj zaczynaja sie wykonawcy -->
+	<div class="container">
+						<div class="row">
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Malpa</h2>
+									<img src="Obrazki/malpa1.jpg" alt="mapla">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Ma%C5%82pa_(raper)">Info</a></p>
+									<p><a href="https://www.youtube.com/channel/UCBryE_e4K97wu_IBSEdvD6A">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Eldo</h2>
+									<img src="Obrazki/eldo1.jpg" alt="eldo">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Eldo">Info</a></p>
+									<p><a href="https://www.youtube.com/channel/UC8iTYJ2KVRtWNwvIusQ2hwg">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Pelson</h2>
+									<img src="Obrazki/pelson1.png" alt="Pelson">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Pelson">Info</a></p>
+									<p><a href="https://www.youtube.com/channel/UCHHQrUIIW6sg4Z6DHwj_caQ">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Sokół</h2>
+									<img src="Obrazki/sokol1.jpg" alt="sokol">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Sok%C3%B3%C5%82_(raper)">Info</a></p>
+									<p><a href="https://www.youtube.com/user/PROSTOtv">Twórczość</a></p>
+								</div>
+							</div>
+								<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2 class="small-heading">Grammatik</h2>
+									<img src="Obrazki/grammatik.jpg" alt="grammatik">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Grammatik">Info</a></p>
+									<p><a href="https://www.youtube.com/results?search_query=grammatik">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Jinx</h2>
+									<img src="Obrazki/jinx1.jpg" alt="jinx">
+									<p class="black2"><a href="http://www.popkiller.pl/tagi/jinx">Info</a></p>
+									<p><a href="https://www.youtube.com/user/proximiteTV">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Tede</h2>
+									<img src="Obrazki/tede1.jpg" alt="tede">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Tede">Info</a></p>
+									<p><a href="https://www.youtube.com/user/TEDEWIZJA">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Peja</h2>
+									<img src="Obrazki/peja1.jpg" alt="peja">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Peja_(raper)">Info</a></p>
+									<p><a href="https://www.youtube.com/user/Pejaslumsattack">Twórczość</a></p>
+								</div>
+							</div>
+								<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2 class="small-heading">Ascetoholix</h2>
+									<img src="Obrazki/ascheto1.jpg" alt="Ascetoholix" style="height: 200px;">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Ascetoholix">Info</a></p>
+									<p><a href="https://www.youtube.com/user/umcmymusic/search?query=Ascetoholix">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>52 Dębiec</h2>
+									<img src="Obrazki/52.jpg" alt="52">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Pi%C4%99%C4%87_Dwa">Info</a></p>
+									<p><a href="https://www.youtube.com/user/deep52/search?query=52">Twórczość</a></p>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-4 col-xs-6">
+								<div class="thumbnail text-center">
+									<h2>Gruby Mielzki</h2>
+									<img src="Obrazki/gruby.jpg" alt="gruby">
+									<p class="black2"><a href="https://pl.wikipedia.org/wiki/Gruby_Mielzky">Info</a></p>
+									<p><a href="https://www.youtube.com/user/szpadyzorrec">Twórczość</a></p>
+								</div>
+							</div>
+						</div>
+
+	</div>
+						
+	
+
+	<!-- Filmy(movies) -->
+	<div class="container-fluid black1" id="movies">
+		<div class="row">
+			<div class="col-sm-12">
+				<section>
+					<article>
+						<header class="text-center">
+							<h2>Filmy</h2>
+								<p>Co ostatnio fajnego oglądałem</p>
+						</header>
+						<p>Ostatnio oglądałem batmana i supermana, średni film, sam supermam mi się bardziej podobał
+							do tego postać batmana jest bardzo źle pokazana, nie chce tu spoilować, ale Nolan zrobił o wiele
+							lepszego <span title="Mroczny Rycerz">gacka</span> :D</p>
+							<h3 class="text-center">Filmy warte obejrzenia</h3>
+					</article>
+				</section>	
+			</div>
+		</div>
+	</div>
+
+	<!-- Tutaj sie zaczynaja panele z filmami -->
+	<div class="container-fluid bg-black">
+		<div class="row">
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2><span title="Mroczny Rycerz">Gacek Nolana</span></h2>
+						</div>
+						<div class="panel-body">
+							<a href="http://www.filmweb.pl/Mroczny.Rycerz"><img src="Obrazki/darkknight1.jpg" alt="gacek"></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2>300</h2>
+						</div>
+						<div class="panel-body">
+							<a href="http://www.filmweb.pl/300"><img src="Obrazki/300.jpg" alt="300"></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2>Kung-fu Panda</h2>
+						</div>
+						<div class="panel-body">
+							<a href="http://www.filmweb.pl/film/Kung+Fu+Panda-2008-220402"><img src="Obrazki/kungfupanda.jpg" alt="panda"></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2>Obcy</h2>
+						</div>
+						<div class="panel-body">
+							<a href="http://www.filmweb.pl/Obcy"><img src="Obrazki/alien.jpg"></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2>Piękny Umysł</h2>
+						</div>
+						<div class="panel-body">
+							<a href="http://www.filmweb.pl/Piekny.Umysl"><img src="Obrazki/mind.jpg"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	</div>
+
+	<!-- Moje projekty (work) -->
+			<div class="container-fluid" id="work">
+				<section class="text-center">
+					<div class="row">
+						<div class="col-sm-12 white1">
+							<article>
+								<header>
+									<h2>Moje projekty</h2>
+								</header>
+								<p>Tu umieszczę kilka stron internetowych które sam wykonałem</p>
+							</article>
+						</div>
+					</div>
+				</section>
+			</div>	
+					
+					<div id="myCaruzele" class="carousel slide">
+						<ol class="carousel-indicators">
+							<li data-target="#myCaruzele" data-slide-to="0" class="active"></li>
+							<li data-target="#myCaruzele" data-slide-to="1"></li>
+							<li data-target="#myCaruzele" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner" role="listbox">
+							<div class="item active" id="firma">
+								<a href="Theme Company.html"><img src="Obrazki/Theme Company.jpg" height="1000" width="1900"></a>
+								<div class="carousel-caption">
+									<h3>Firma</h3>
+									<p>Strona przykładowej firmy w bootstrapie</p>
+								</div>
+							</div>
+							<div class="item">
+								<a href="pierwsza.html"><img src="Obrazki/pierwsza.jpg" height="1000" width="1900"></a>
+								<div class="carousel-caption" id="pierwsza">
+									<h3>Pierwsza strona</h3>
+									<p>Moja pierwsza strona tylko HTML i CSS</p>
+								</div>
+							</div>
+							<div class="item">
+								<a href="Theme SimplyMe.html"><img src="Obrazki/Theme SimplyMe.jpg" width="1900" height="850"></a>
+								<div class="carousel-caption text-white" id="portfolio">
+									<br><br>
+									<h3>Portfolio</h3>
+									<p>Proste portfolio zrobione w bootstrapie</p>
+								</div>
+							</div>
+						</div>
+						<a href="#myCaruzele" class="left carousel-control" role="button" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left"></span>
+						</a>
+						<a href="#myCaruzele" class="right carousel-control" role="button" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right"></span>
+						</a>
+					</div>
+						
+	
+	<div class="container-fluid black1" id="games">
+		<div class="row">
+			<div class="col-sm-12 text-center">
+				<h2>Moje gry</h2>
+				<p>Tutaj będę umieszczał gry zrobione przeze mnie, robione głownie w JavaScript</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<h3 class="text-center">Gra w statki</h3>
+					<img id="myImg" src="Obrazki/myBattleship.jpg" data-toggle="modal" data-target="#myModal" width="370" height="264">
+
+				<!-- Stworzenie bootstrap modal -->
+				<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Zamknij</span></button>
+				        <h2 class="modal-title text-center" id="myModalLabel">Battleship</h2>
+				      </div>
+				      <div class="modal-body">
+				        <a href="myBattleships.html"><img src="Obrazki/myBattleship.jpg"></a>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button>
+				        <button type="button" class="btn btn-primary"><a href="myBattleships.html" taret="_blank">Graj</a></button>
+				      </div>
+				    </div>
+				</div>
+
+			</div>
+			<div class="col-sm-4">
+				<h3 class="text-center">Gra w Klikacza</h3>
+					<img id="myImg" src="Obrazki/myClicker.jpg" data-toggle="modal" data-target="#myModal1" width="340" height="264">
+
+				<!-- Stworzenie bootstrap modal -->
+				<div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Zamknij</span></button>
+				        <h2 class="modal-title text-center" id="myModalLabel">Kliker</h2>
+				      </div>
+				      <div class="modal-body">
+				        <a href="myClicker.html"><img src="Obrazki/myClicker.jpg"></a>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button>
+				        <button type="button" class="btn btn-primary"><a href="myClicker.html" taret="_blank">Graj</a></button>
+				      </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+	</div>	
+
+	<!-- Kontakt (contact) -->
+	<div class="container-fluid white1" id="contact">
+		<div class="row">
+			<div class="col-sm-4">
+				<section>
+					<article>
+						<header>
+							<h2>Kontakt</h2>
+						</header>
+						<p><span class="glyphicon glyphicon-user icons"></span><strong> Imie Nazwisko</strong></p>
+							<p><span class="glyphicon glyphicon-home icons"></span> ul.Bardzoktórka</p>
+							<p><i class="fa fa-road icons"></i> 11-111 BardzoDaleko</p>
+							<p><span class="glyphicon glyphicon-phone icons"></span> tel. kom. 997-998-999</p>
+							<p><span class="glyphicon glyphicon-phone-alt icons"></span> tel. 0-700-xxx-xxx</p>
+							<p><span class="glyphicon glyphicon-envelope icons"></span> ktostam@email.com</p>
+							<p><i class="fa fa-github icons"></i> GitHub</p>
+					</article>
+				</section>
+			</div>
+			<div class="col-sm-8">
+				<div id="googleMap" style="height:400px;width:100%;"></div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Stopka -->
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<footer class="text-center">
+					<p>Stworzone przez <a href="http://www.kg.glogow.pl">Ranald</a> 2016, Wszelkie prawa zastrzeżone</p>
+				</footer>
+			</div>
+		</div>
+	</div>
+	
+	
+</body>
+</html>
+
