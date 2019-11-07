@@ -22,8 +22,8 @@ window.onload = function() {
       destroyItem(), fetchData(false, true);
     });
   }
-  console.log('siema');
-  console.log('siema2git ');
+  console.log('elo');
+  console.log('siema2git');
   //Letters
   if (document.querySelector('.txt-type')) {
     const txtElement = document.querySelector('.txt-type');
