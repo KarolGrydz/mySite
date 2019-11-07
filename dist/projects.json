@@ -1,6 +1,27 @@
 {
   "websites": [
     {
+      "title": "Gra w klikacza",
+      "img": "https://www.kg.glogow.pl/img/myClicker.jpg",
+      "path": "https://www.kg.glogow.pl/projects/games/MyClicker/",
+      "gitPath": "https://github.com/KarolGrydz/ClickerGame",
+      "desc": "Try to click as many times as u can."
+    },
+    {
+      "title": "Kamil Rosiński Photografy",
+      "img": "./img/krPhoto.jpg",
+      "path": "https://kamilrosinski.pl/",
+      "gitPath": "#",
+      "desc": "Website for photografer, CRUD options and password proteced posts, hooked to WordPress"
+    },
+    {
+      "title": "Dr.Stark",
+      "img": "./img/drstark.png",
+      "path": "http://www.drstark.pl/",
+      "gitPath": "#",
+      "desc": "Selling tools for building jobs"
+    },
+    {
       "title": "SPP",
       "img": "./img/spp.png",
       "path": "http://www.spp.polkowice.pl/",
@@ -20,13 +41,6 @@
       "path": "https://www.kg.glogow.pl/projects/websites/ResponsiveLandingPage/",
       "gitPath": "#",
       "desc": "Simply one site website, with basic information and RWD technology"
-    },
-    {
-      "title": "Kamil Rosiński Photografy",
-      "img": "./img/krPhoto.jpg",
-      "path": "http://www.krpl.vot.pl/",
-      "gitPath": "#",
-      "desc": "Website for photografer, CRUD options and password proteced posts, hooked to WordPress"
     },
     {
       "title": "ACME Photografy",
