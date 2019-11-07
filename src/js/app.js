@@ -23,7 +23,7 @@ window.onload = function() {
     });
   }
   console.log('siema');
-  console.log('siema2');
+  console.log('siema2git ');
   //Letters
   if (document.querySelector('.txt-type')) {
     const txtElement = document.querySelector('.txt-type');
