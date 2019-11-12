@@ -1,9 +1,10 @@
-@import 'config';
-@import 'menu';
-@import 'work';
-@import 'contact';
-@import 'about';
-@import 'buttons';
+@import "config";
+@import "menu";
+@import "work";
+@import "contact";
+@import "about";
+@import "buttons";
+@import "preloader";
 
 * {
   box-sizing: border-box;
@@ -15,7 +16,7 @@ body {
   color: set-text-color($primary-color);
   height: 100%;
   margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
 }
 
@@ -87,4 +88,4 @@ main {
 
 //button styles
 
-@import 'mobile';
+@import "mobile";
