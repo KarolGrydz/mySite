@@ -28,23 +28,32 @@ window.onload = () => {
   }
   // Projects API
   if (document.getElementById("work")) {
-    projects.appendChild(createPreload());
+    document.querySelector("#work").appendChild(createPreload());
     const preload = document.querySelector(".preload");
     preload.classList.add("show-preloader");
-    // data.then(res => {
-    //   res.websites.forEach(elem => {
-    //     createItem(elem, arrData);
-    //   }),
-    //     res.games.forEach(elem => {
-    //       createItem(elem, arrData);
-    //     });
-    //   arrData.forEach(elem => projects.appendChild(elem));
-    // });
+    console.log("before onload");
+    setTimeout(() => {
+      console.log("onload");
+      data.then(res => {
+        res.websites.forEach(elem => {
+          createItem(elem, arrData);
+        }),
+          res.games.forEach(elem => {
+            createItem(elem, arrData);
+          });
+        arrData.forEach(elem => projects.appendChild(elem));
+      });
+      preload.classList.remove("show-preloader");
+    }, 2000);
+    console.log("after onload");
+
     // console.log(arrData);
     // fetchData();
 
     //Show the diffrent items
-    allItems.addEventListener("click", () => {});
+    allItems.addEventListener("click", () => {
+      preload.classList.add("show-preloader");
+    });
     websiteItems.addEventListener("click", () => {
       console.log("websites");
     });
