@@ -4,62 +4,63 @@ import {
   gameItems,
   allItems,
   projects
-} from "../constants/variables";
-import { toggleMenu } from "../utils/navbar.js";
-import { getData } from "../services/getData.js";
-import TypeWriter from "../utils/letters.js";
-import { createItem } from "../utils/work.js";
-import { createPreload } from "../utils/preload";
+} from '../constants/variables';
+import { toggleMenu } from '../utils/navbar.js';
+import { getData } from '../services/getData.js';
+import TypeWriter from '../utils/letters.js';
+import { createItem } from '../utils/work.js';
+import { createPreload } from '../utils/preload';
+import Isotope from 'isotope-layout';
 
 //Button for menu
-menuBtn.addEventListener("click", toggleMenu);
+
+menuBtn.addEventListener('click', toggleMenu);
 const data = getData();
 const arrData = [];
+const arrGames = [];
+const arrWebsites = [];
 
 //Show projects
 window.onload = () => {
   //Letters
-  if (document.querySelector(".txt-type")) {
-    const txtElement = document.querySelector(".txt-type");
-    const words = JSON.parse(txtElement.getAttribute("data-words"));
-    const wait = txtElement.getAttribute("data-wait");
+  if (document.querySelector('.txt-type')) {
+    const txtElement = document.querySelector('.txt-type');
+    const words = JSON.parse(txtElement.getAttribute('data-words'));
+    const wait = txtElement.getAttribute('data-wait');
     //Init TypeWriter
     new TypeWriter(txtElement, words, wait);
   }
   // Projects API
-  if (document.getElementById("work")) {
-    document.querySelector("#work").appendChild(createPreload());
-    const preload = document.querySelector(".preload");
-    preload.classList.add("show-preloader");
-    console.log("before onload");
+  if (document.getElementById('work')) {
+    document.querySelector('#work').appendChild(createPreload());
+    const preload = document.querySelector('.preload');
+    preload.classList.add('show-preloader');
+    let iso = new Isotope(projects);
     setTimeout(() => {
-      console.log("onload");
       data.then(res => {
         res.websites.forEach(elem => {
-          createItem(elem, arrData);
+          projects.appendChild(createItem(elem, 'website'));
         }),
           res.games.forEach(elem => {
-            createItem(elem, arrData);
+            projects.appendChild(createItem(elem, 'game'));
           });
-        arrData.forEach(elem => projects.appendChild(elem));
+        const items = projects.querySelectorAll('div.item');
+        iso.insert(items);
       });
-      preload.classList.remove("show-preloader");
+      preload.classList.remove('show-preloader');
     }, 2000);
-    console.log("after onload");
-
-    // console.log(arrData);
     // fetchData();
-
+    console.log(arrData);
     //Show the diffrent items
-    allItems.addEventListener("click", () => {
-      preload.classList.add("show-preloader");
+    allItems.addEventListener('click', e => {
+      console.log(iso);
+      iso.arrange({ filter: '*' });
     });
-    websiteItems.addEventListener("click", () => {
-      console.log("websites");
-    });
-    gameItems.addEventListener("click", () => {
-      console.log("game");
-    });
+    websiteItems.addEventListener('click', () =>
+      iso.arrange({ filter: '.website' })
+    );
+    gameItems.addEventListener('click', () => iso.arrange({ filter: '.game' }));
+    console.log(iso);
   }
 };
 

@@ -1,6 +1,6 @@
 export const createPreload = () => {
-  const preload = document.createElement("div");
-  preload.className = "preload";
+  const preload = document.createElement('div');
+  preload.className = 'preload';
   preload.innerHTML = `<div class="circles-group">
                         <div class="circle"></div>
                         <div class="circle"></div>
@@ -9,5 +9,3 @@ export const createPreload = () => {
                       </div>`;
   return preload;
 };
-
-export const createCircle = () => `<div class="circle"></div>`;
