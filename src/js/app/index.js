@@ -3,6 +3,10 @@ import {
   websiteItems,
   gameItems,
   allItems,
+  jsItems,
+  reactItems,
+  angularItems,
+  wpItems,
   projects
 } from '../constants/variables';
 import { toggleMenu } from '../utils/navbar.js';
@@ -13,12 +17,7 @@ import { createPreload } from '../utils/preload';
 import Isotope from 'isotope-layout';
 
 //Button for menu
-
 menuBtn.addEventListener('click', toggleMenu);
-const data = getData();
-const arrData = [];
-const arrGames = [];
-const arrWebsites = [];
 
 //Show projects
 window.onload = () => {
@@ -30,39 +29,49 @@ window.onload = () => {
     //Init TypeWriter
     new TypeWriter(txtElement, words, wait);
   }
+
   // Projects API
   if (document.getElementById('work')) {
+    //Preloader
+    document.getElementById('work').style.visibility = 'hidden';
     document.querySelector('#work').appendChild(createPreload());
     const preload = document.querySelector('.preload');
     preload.classList.add('show-preloader');
-    let iso = new Isotope(projects);
+
+    //Get data
+    const data = getData();
+
+    //Create shuffle
+    const iso = new Isotope(projects);
+
     setTimeout(() => {
       data.then(res => {
-        res.websites.forEach(elem => {
-          projects.appendChild(createItem(elem, 'website'));
-        }),
-          res.games.forEach(elem => {
-            projects.appendChild(createItem(elem, 'game'));
-          });
+        res.projects.forEach(elem => projects.appendChild(createItem(elem)));
+
         const items = projects.querySelectorAll('div.item');
         iso.insert(items);
       });
+      document.getElementById('work').style.visibility = 'visible';
       preload.classList.remove('show-preloader');
     }, 2000);
-    // fetchData();
-    console.log(arrData);
+
     //Show the diffrent items
-    allItems.addEventListener('click', e => {
-      console.log(iso);
-      iso.arrange({ filter: '*' });
-    });
+    allItems.addEventListener('click', () => iso.arrange({ filter: '*' }));
     websiteItems.addEventListener('click', () =>
       iso.arrange({ filter: '.website' })
     );
     gameItems.addEventListener('click', () => iso.arrange({ filter: '.game' }));
-    console.log(iso);
+    jsItems.addEventListener('click', () =>
+      iso.arrange({ filter: '.javascript' })
+    );
+    reactItems.addEventListener('click', () =>
+      iso.arrange({ filter: '.react' })
+    );
+    angularItems.addEventListener('click', () =>
+      iso.arrange({ filter: '.angular' })
+    );
+    wpItems.addEventListener('click', () =>
+      iso.arrange({ filter: '.wordpress' })
+    );
   }
 };
-
-// ***********TODO****************
-// In future add restAPI (React or node.js)

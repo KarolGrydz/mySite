@@ -1,11 +1,11 @@
 //Creating Element ot put data in
-export const createItem = ({ path, img, gitPath, title }, className) => {
+export const createItem = ({ path, img, gitPath, title, technologies }) => {
   const div = document.createElement('div');
   const image = createImage(path, img);
   const btnLight = createButton(path, null);
   const btnDark = createButton(null, gitPath);
   const noGithub = `<div class="btn-dark">No code preview</div>`;
-  div.className = 'item ' + className;
+  div.className = `item ${[...technologies]}`;
   if (gitPath != '#') {
     div.innerHTML = image + `<h3>${title}</h3>` + btnLight + btnDark;
   } else {

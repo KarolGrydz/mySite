@@ -90,19 +90,23 @@
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
 
-.projects {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 0.7rem; }
-  .projects h3 {
-    text-align: center; }
-  .projects img {
-    width: 100%;
-    border: 3px solid #fff; }
-    .projects img:hover {
-      opacity: 0.5;
-      border-color: #eece1a;
-      transition: all 0.5s ease-out; }
+.projects .item {
+  float: left;
+  width: 25%;
+  min-height: 350px;
+  padding: 10px; }
+
+.projects h3 {
+  text-align: center; }
+
+.projects img {
+  width: 100%;
+  border: 3px solid #fff;
+  transition: all 0.5s ease-out; }
+  .projects img:hover {
+    opacity: 0.5;
+    border-color: #eece1a;
+    transition: all 0.5s ease-out; }
 
 .boxes {
   display: flex;
@@ -151,10 +155,12 @@
   display: block;
   padding: 0.5rem 1rem;
   border: 0;
-  margin-bottom: 0.3rem; }
+  margin-bottom: 0.3rem;
+  transition: all 0.5s ease-out; }
   .btn:hover, .btn-dark:hover, .btn-light:hover {
     background: #eece1a;
-    color: #000; }
+    color: #000;
+    transition: all 0.5s ease-out; }
 
 .btn-dark {
   background: black;
@@ -190,14 +196,20 @@
       background: #eece1a;
       color: #000;
       cursor: pointer; }
+    .btn-group .btn-work:focus {
+      outline-color: #000; }
   .btn-group .all {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px; }
-  .btn-group .websites {
+  .btn-group .websites,
+  .btn-group .games,
+  .btn-group .javascript,
+  .btn-group .react,
+  .btn-group .angular {
     border-radius: 1px;
     margin-left: -5px;
     margin-right: -5px; }
-  .btn-group .games {
+  .btn-group .wordpress {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px; }
 
@@ -314,12 +326,12 @@ main {
       margin-top: 20vh; }
 
 @media screen and (min-width: 1171px) {
-  .projects {
-    grid-template-columns: repeat(4, 1fr); } }
+  .projects .item {
+    width: 25%; } }
 
 @media screen and (min-width: 769px) and (max-width: 1170px) {
-  .projects {
-    grid-template-columns: repeat(3, 1fr); } }
+  .projects .item {
+    width: 33%; } }
 
 @media screen and (max-width: 768px) {
   main {
@@ -350,11 +362,11 @@ main {
   .about-info {
     grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
     grid-template-columns: 1fr; }
-  .projects {
-    grid-template-columns: repeat(2, 1fr); } }
+  .projects .item {
+    width: 50%; } }
 
 @media screen and (max-width: 500px) {
   main#home h1 {
     margin-top: 10vh; }
-  .projects {
-    grid-template-columns: repeat(1, 1fr); } }
+  .projects .item {
+    width: 100%; } }
