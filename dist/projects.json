@@ -1,15 +1,6 @@
 {
   "projects": [
     {
-      "title": "Gra w klikacza",
-      "img": "https://www.kg.glogow.pl/img/myClicker.jpg",
-      "path": "https://www.kg.glogow.pl/projects/games/MyClicker/",
-      "gitPath": "https://github.com/KarolGrydz/ClickerGame",
-      "desc": "Try to click as many times as u can.",
-      "date": "2019-11-14",
-      "technologies": ["javascript react game"]
-    },
-    {
       "title": "Kamil Rosiński Photografy",
       "img": "./img/krPhoto.jpg",
       "path": "https://kamilrosinski.pl/",
@@ -17,6 +8,15 @@
       "desc": "Website for photografer, CRUD options and password proteced posts, hooked to WordPress",
       "date": "2019-11-14",
       "technologies": ["javascript wordpress website"]
+    },
+    {
+      "title": "Gra w klikacza",
+      "img": "https://www.kg.glogow.pl/img/myClicker.jpg",
+      "path": "https://www.kg.glogow.pl/projects/games/MyClicker/",
+      "gitPath": "https://github.com/KarolGrydz/ClickerGame",
+      "desc": "Try to click as many times as u can.",
+      "date": "2019-11-14",
+      "technologies": ["javascript react game"]
     },
     {
       "title": "Dr.Stark",
@@ -64,65 +64,11 @@
       "technologies": ["javascript website"]
     },
     {
-      "title": "Latos",
-      "img": "./img/latos.jpg",
-      "path": "https://www.kg.glogow.pl/projects/websites/latos/",
-      "gitPath": "#",
-      "desc": "Blog site made from basic and hooked to WordPress",
-      "date": "2019-11-14",
-      "technologies": ["javascript website"]
-    },
-    {
       "title": "ZWR Document Search",
       "img": "./img/zwr.jpg",
       "path": "https://www.kg.glogow.pl/projects/websites/zwr",
       "gitPath": "https://github.com/KarolGrydz/SearchEngine-es6",
       "desc": "Blog site made from basic and hooked to WordPress",
-      "date": "2019-11-14",
-      "technologies": ["javascript website"]
-    },
-    {
-      "title": "ACE Solutions",
-      "img": "./img/aceSolutions.jpg",
-      "path": "https://www.kg.glogow.pl/projects/websites/SimplyTemplateGrid/",
-      "gitPath": "#",
-      "desc": "Blog site made from basic and hooked to WordPress",
-      "date": "2019-11-14",
-      "technologies": ["javascript website"]
-    },
-    {
-      "title": "Split Landing Page",
-      "img": "./img/split.jpg",
-      "path": "https://www.kg.glogow.pl/projects/websites/SplitLandingPage/",
-      "gitPath": "#",
-      "desc": "Blog site made from basic and hooked to WordPress",
-      "date": "2019-11-14",
-      "technologies": ["javascript website"]
-    },
-    {
-      "title": "Theme Company",
-      "img": "./img/Theme_Company.jpg",
-      "path": "https://www.kg.glogow.pl/projects/websites/ThemeCompany/",
-      "gitPath": "#",
-      "desc": "Blog site made from basic and hooked to WordPress",
-      "date": "2019-11-14",
-      "technologies": ["javascript website"]
-    },
-    {
-      "title": "Page with animations",
-      "img": "./img/bootstrappagewithanimation.jpg",
-      "path": "https://www.kg.glogow.pl/projects/websites/BootstrapPageWithAnimation/",
-      "gitPath": "#",
-      "desc": "One land page build with bootstrap and animations",
-      "date": "2019-11-14",
-      "technologies": ["javascript website"]
-    },
-    {
-      "title": "Theme Simply Me",
-      "img": "./img/Theme-SimplyMe.jpg",
-      "path": "https://www.kg.glogow.pl/projects/websites/ThemeSimplyMe/",
-      "gitPath": "#",
-      "desc": "One of my first sites",
       "date": "2019-11-14",
       "technologies": ["javascript website"]
     },
@@ -134,6 +80,15 @@
       "desc": "Try to tap as fast as possible.",
       "date": "2019-11-14",
       "technologies": ["javascript game"]
+    },
+    {
+      "title": "Latos",
+      "img": "./img/latos.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/latos/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress",
+      "date": "2019-11-14",
+      "technologies": ["javascript website"]
     },
     {
       "title": "Memorize",
@@ -154,6 +109,33 @@
       "technologies": ["javascript game"]
     },
     {
+      "title": "Split Landing Page",
+      "img": "./img/split.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/SplitLandingPage/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress",
+      "date": "2019-11-14",
+      "technologies": ["javascript website"]
+    },
+    {
+      "title": "ACE Solutions",
+      "img": "./img/aceSolutions.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/SimplyTemplateGrid/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress",
+      "date": "2019-11-14",
+      "technologies": ["javascript website"]
+    },
+    {
+      "title": "Page with animations",
+      "img": "./img/bootstrappagewithanimation.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/BootstrapPageWithAnimation/",
+      "gitPath": "#",
+      "desc": "One land page build with bootstrap and animations",
+      "date": "2019-11-14",
+      "technologies": ["javascript website"]
+    },
+    {
       "title": "BattleShips",
       "img": "https://www.kg.glogow.pl/img/myBattleship.jpg",
       "path": "https://kg.glogow.pl/projects/games/MyBattleships/",
@@ -161,6 +143,24 @@
       "desc": "Destroy 3 ships on the map in the smallest number of moves.",
       "date": "2019-11-14",
       "technologies": ["javascript game"]
+    },
+    {
+      "title": "Theme Company",
+      "img": "./img/Theme_Company.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/ThemeCompany/",
+      "gitPath": "#",
+      "desc": "Blog site made from basic and hooked to WordPress",
+      "date": "2019-11-14",
+      "technologies": ["javascript website"]
+    },
+    {
+      "title": "Theme Simply Me",
+      "img": "./img/Theme-SimplyMe.jpg",
+      "path": "https://www.kg.glogow.pl/projects/websites/ThemeSimplyMe/",
+      "gitPath": "#",
+      "desc": "One of my first sites",
+      "date": "2019-11-14",
+      "technologies": ["javascript website"]
     }
   ]
 }
