@@ -10,6 +10,15 @@
       "technologies": ["javascript wordpress website"]
     },
     {
+      "title": "My site",
+      "img": "https://www.kg.glogow.pl/img/myClicker.jpg",
+      "path": "https://www.kg.glogow.pl/projects/games/MyClicker/",
+      "gitPath": "https://github.com/KarolGrydz/ClickerGame",
+      "desc": "My personal website",
+      "date": "2019-11-16",
+      "technologies": ["javascript website"]
+    },
+    {
       "title": "Gra w klikacza",
       "img": "https://www.kg.glogow.pl/img/myClicker.jpg",
       "path": "https://www.kg.glogow.pl/projects/games/MyClicker/",
