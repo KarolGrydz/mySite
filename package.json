@@ -22,7 +22,7 @@
     "braces": "^3.0.2",
     "isotope-layout": "^3.0.6",
     "isotope-packery": "^2.0.1",
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
